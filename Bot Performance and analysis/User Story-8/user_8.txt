@@ -1,0 +1,66 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Load dataset
+df = pd.read_csv("C://Users//subbisetti.TRN//Desktop//trading_bot_dataset_with_user_profiles.csv")
+
+# Clean columns
+df['Response Time (ms)'] = pd.to_numeric(df['Response Time (ms)'], errors='coerce').fillna(0)
+df['Prediction Accuracy (%)'] = pd.to_numeric(df['Prediction Accuracy (%)'], errors='coerce').fillna(0)
+df['Conversation Success'] = df['Conversation Success'].fillna('No')
+df['Success Binary'] = df['Conversation Success'].map({'Yes': 1, 'No': 0})
+
+# ---------- STEP 1: Detect drop-off prone intents ----------
+intent_stats = df.groupby("Intent Detected").agg({
+    'Success Binary': ['mean', 'count'],
+    'Response Time (ms)': 'mean',
+    'Prediction Accuracy (%)': 'mean'
+})
+intent_stats.columns = ['Success Rate', 'Count', 'Avg Response Time', 'Avg Accuracy']
+intent_stats['Drop-off Rate'] = 1 - intent_stats['Success Rate']
+
+# Display top 10 intents with highest drop-off rate
+high_dropoff = intent_stats.sort_values('Drop-off Rate', ascending=False)
+print("🔴 Top 10 Drop-Off Intents:")
+print(high_dropoff.head(10))
+
+# ---------- STEP 2: Flag problematic flows based on latency + accuracy ----------
+threshold_response = df['Response Time (ms)'].quantile(0.75)  # Top 25% slowest
+threshold_accuracy = df['Prediction Accuracy (%)'].quantile(0.25)  # Bottom 25% least accurate
+
+problem_flows = df[
+    (df['Response Time (ms)'] > threshold_response) &
+    (df['Prediction Accuracy (%)'] < threshold_accuracy)
+]
+print("\n⚠️ Problematic Flows (high latency + low accuracy):")
+print(problem_flows[['Intent Detected', 'Response Time (ms)', 'Prediction Accuracy (%)']].head(10))
+
+# ---------- STEP 3: Simulate redesign impact on top 5 drop-off intents ----------
+top_intents_to_fix = high_dropoff.head(5).index.tolist()
+
+df['Simulated Success'] = df.apply(
+    lambda row: 1 if (row['Intent Detected'] in top_intents_to_fix and row['Success Binary'] == 0)
+    else row['Success Binary'], axis=1
+)
+
+# ---------- STEP 4: Compare simulated vs original ----------
+simulated_stats = df.groupby("Intent Detected")['Simulated Success'].mean().rename("Simulated Success Rate")
+comparison = intent_stats.join(simulated_stats, how='left')
+comparison['Improvement (%)'] = (comparison['Simulated Success Rate'] - comparison['Success Rate']) * 100
+
+print("\n📈 Simulated Improvements:")
+print(comparison[['Success Rate', 'Simulated Success Rate', 'Improvement (%)']].sort_values('Improvement (%)', ascending=False).head(10))
+
+# ---------- STEP 5: Visual comparison ----------
+comparison[['Success Rate', 'Simulated Success Rate']].dropna().sort_values('Success Rate').plot(kind='bar', figsize=(15, 6))
+plt.title("✅ Success Rate Before vs After Simulated Flow Redesign")
+plt.ylabel("Success Rate")
+plt.xlabel("Intent")
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+# ---------- STEP 6: Archive old flow versions (simulation) ----------
+comparison.to_csv("C://Users//subbisetti.TRN//Desktop//archived_intent_flow_performance.csv")
+print("\n🗃️ Archived prior flow stats for audit.")

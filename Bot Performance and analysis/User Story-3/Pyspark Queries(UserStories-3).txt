@@ -1,0 +1,187 @@
+Pyspark implementation.....
+cat>>datadot
+cat databot
+pyspark --conf spark.ui.port=7340
+ls -l /home/subbisetti.TRN/
+head -n 5 /home/subbisetti.TRN/databot/
+
+----------------pyspark------------------------
+from pyspark.sql.import SparkSession
+
+spark=SparkSession.builder.appNAme("Create RDD").getOrCreate()
+sc=spark.sparkContext
+
+file_path="/home/subbisetti.TRN/databot/newdata fi.csv"
+
+rdd1=sc.textFile(file_path)
+
+
+from pyspark.sql.functions import col, to_timestamp, month, year, sum as _sum, count as _count
+from pyspark.sql.functions import avg
+
+1.)Average Response Time per Intent Detected
+
+f.groupBy("Intent Detected").agg(avg("Response Time (ms)").alias("avg_response_time")).show()
+
+2.)Successful vs. Failed Conversations count
+
+df.groupBy("Conversation Success").count().show()
+
+3.)Average Prediction Accuracy (%) by User Sentiment
+
+df.groupBy("User Sentiment").agg(avg("Prediction Accuracy (%)").alias("avg_accuracy")).show()
+
+4.)User Feedback count (Helpful vs Needs Improvement)
+
+df.groupBy("User Feedback").count().show()
+
+5.)Average Entity Extraction Accuracy (%) by Intent Detected
+
+df.groupBy("Intent Detected").agg(avg("Entity Extraction Accuracy (%)").alias("avg_entity_accuracy")).show()
+
+6.)Monthly Success Rate for Conversations
+
+from pyspark.sql.functions import to_timestamp, month, year, when, sum as _sum, count
+Step 1: Parse the timestamp
+df_parsed = df.withColumn("parsedDate", to_timestamp("Timestamp", "M/d/yyyy H:mm"))
+Step 2: Group by year & month, calculate successful/total
+monthly_success = df_parsed.groupBy(
+    year("parsedDate").alias("year"),
+    month("parsedDate").alias("month")
+).agg(
+    _sum(when(df_parsed["Conversation Success"] == "Successful", 1).otherwise(0)).alias("successful"),
+    count("*").alias("total")
+)
+Step 3: Add success_rate using columns from the aggregation
+monthly_success = monthly_success.withColumn(
+    "success_rate", (monthly_success["successful"] / monthly_success["total"]) * 100
+).orderBy("year", "month")
+monthly_success.show()
+
+7.)Average Response Time for Failed Conversations
+
+df.filter(df["Conversation Success"] == "Failed").agg(avg("Response Time (ms)").alias("avg_response_time")).show()
+
+8.)Number of Interactions for Each User Sentiment
+
+df.groupBy("User Sentiment").count().show()
+
+9.)Intents with the Highest Failure Rate
+
+failure_rate_df = df.groupBy("Intent Detected").agg(
+    _sum(when(df["Conversation Success"] == "Failed", 1).otherwise(0)).alias("failed"),
+    count("*").alias("total")
+)
+
+failure_rate_df = failure_rate_df.withColumn(
+    "failure_rate", (failure_rate_df["failed"] / failure_rate_df["total"]) * 100
+).orderBy("failure_rate", ascending=False)
+
+failure_rate_df.show()
+
+10.)Average Response Time by User Sentiment (Correlation)
+
+df.groupBy("User Sentiment").agg(avg("Response Time (ms)").alias("avg_response_time")).show()
+
+11.)Daily Number of Interactions
+
+from pyspark.sql.functions import dayofmonth, to_timestamp, count
+
+# Parse the timestamp column to proper timestamp format
+df_parsed = df.withColumn("parsedDate", to_timestamp("Timestamp", "M/d/yyyy H:mm"))
+
+# Group by day of month and count interactions
+daily_interactions = df_parsed.groupBy(
+    dayofmonth("parsedDate").alias("day")
+).agg(
+    count("*").alias("total_interactions")
+).orderBy("day")
+
+# Show daily interaction count
+daily_interactions.show()
+
+12.)Average Sentiment per Intent (Assuming numeric sentiment encoding is used)
+
+# Group by Intent and compute average sentiment (if numeric encoding exists)
+df.groupBy("Intent Detected").agg(
+    avg("User Sentiment").alias("avg_sentiment")
+).show()
+
+13.)Most Common Intent
+
+# Count how many times each intent occurred
+df.groupBy("Intent Detected").count().orderBy("count", ascending=False).show(1)
+
+14.)User Feedback Ratings for Each Intent
+
+# Count feedback entries per intent
+df.groupBy("Intent Detected").agg(
+    count("User Feedback").alias("feedback_count")
+).show()
+
+15.)Top 5 Intents by Prediction Accuracy
+
+# Compute average prediction accuracy per intent and show top 5
+df.groupBy("Intent Detected").agg(
+    avg("Prediction Accuracy (%)").alias("avg_accuracy")
+).orderBy("avg_accuracy", ascending=False).limit(5).show()
+
+16.)Percentage of Conversations Marked as Successful
+
+from pyspark.sql.functions import count, when
+
+# Count successful and total rows, compute success percentage
+total = df.count()
+successful = df.filter(df["Conversation Success"] == "Successful").count()
+success_percentage = (successful / total) * 100
+
+print(f"Success Percentage: {success_percentage:.2f}%")
+
+17.)Average Response Time by Month
+
+from pyspark.sql.functions import month, year
+
+# Extract month/year and compute average response time
+df_parsed = df.withColumn("parsedDate", to_timestamp("Timestamp", "M/d/yyyy H:mm"))
+
+monthly_avg_response = df_parsed.groupBy(
+    year("parsedDate").alias("year"),
+    month("parsedDate").alias("month")
+).agg(
+    avg("Response Time (ms)").alias("avg_response_time")
+).orderBy("year", "month")
+
+monthly_avg_response.show()
+
+18.)Entity Extraction Accuracy Above Threshold (e.g., > 90%)
+
+# Count rows with entity extraction accuracy > 90
+above_threshold_count = df.filter(df["Entity Extraction Accuracy (%)"] > 90).count()
+print(f"Entity Accuracy > 90%: {above_threshold_count}")
+
+19.)Total Conversations per Sentiment
+
+# Count number of conversations per sentiment type
+df.groupBy("User Sentiment").count().show()
+
+20.)Response Time Variance
+
+from pyspark.sql.functions import pow
+
+# Calculate variance of response time
+mean_response_time = df.agg(avg("Response Time (ms)")).first()[0]
+
+# Add squared deviation column and average it
+variance_df = df.withColumn(
+    "squared_deviation", pow(df["Response Time (ms)"] - mean_response_time, 2)
+).agg(
+    avg("squared_deviation").alias("response_time_variance")
+)
+
+variance_df.show()
+
+
+
+
+
+

@@ -1,0 +1,1001 @@
+Interaction ID,Timestamp,User Query,Intent Detected,Bot Response,Response Time (ms),Prediction Accuracy (%),Entity Extraction Accuracy (%),User Sentiment,User Feedback,Conversation Success,User ID,User Type,Region,Device Type,Account Age (months),Is Premium,NPS_Score,NPS_Category
+1,2020-01-28 14:41,What is your prediction for Bonds?,Financial Advice,Bonds remain a safe haven.,150,95,90,Positive,Helpful,Successful,U10166,Retail,Asia,Tablet,43,False,10,Promoter
+2,2020-11-26 11:59,What is your prediction for Forex?,Price Check,Forex markets favor USD today.,155,94,91,Negative,Needs improvement,Failed,U10030,Retail,South America,Desktop,9,False,3,Detractor
+3,2021-09-06 17:10,Any news on Gold?,Stock Prediction,Investors are flocking to Gold.,160,93,92,Negative,Needs improvement,Failed,U10253,Institutional,Asia,Mobile,4,True,3,Detractor
+4,2022-09-14 16:14,Should I buy or sell WTI?,Strategy Advice,WTI is showing high volatility.,165,92,93,Neutral,Needs improvement,Failed,U10255,Retail,Europe,Mobile,49,False,7,Passive
+5,2023-11-06 11:40,What's the trend with Tesla?,Strategy Advice,Tesla shows bullish signs.,170,91,94,Negative,Needs improvement,Failed,U10085,Retail,North America,Desktop,25,False,3,Detractor
+6,2023-07-01 12:28,Should I buy or sell Crypto?,Forex Analysis,Crypto markets show mixed performance.,175,90,90,Positive,Helpful,Successful,U10228,Institutional,North America,Mobile,51,True,10,Promoter
+7,2024-07-13 09:45,Analysis of Oil?,Price Check,Oil shows demand increase.,180,89,91,Positive,Helpful,Successful,U10081,Retail,Asia,Desktop,44,False,10,Promoter
+8,2021-04-09 10:36,What's the price of GBP now?,Cryptocurrency Update,GBP trends show minor fluctuations.,185,88,92,Positive,Helpful,Successful,U10271,Institutional,Europe,Tablet,37,False,10,Promoter
+9,2020-09-06 14:20,Should I buy or sell ETH?,Market Analysis,ETH is showing a downward trend.,190,87,93,Positive,Helpful,Successful,U10044,Institutional,Africa,Tablet,55,True,10,Promoter
+10,2021-08-04 13:42,Give me an update on USD.,Investment Planning,USD is strengthening against other currencies.,195,86,94,Positive,Helpful,Successful,U10131,Retail,Europe,Mobile,57,True,10,Promoter
+11,2023-09-21 14:38,What's the price of Tesla now?,Price Check,Tesla shows bullish signs.,150,95,90,Positive,Helpful,Successful,U10283,Retail,Europe,Mobile,55,False,10,Promoter
+12,2023-10-13 10:22,What is your prediction for USD?,Stock Prediction,USD remains stable.,155,94,91,Neutral,Needs improvement,Failed,U10066,Institutional,Africa,Mobile,54,False,7,Passive
+13,2022-08-20 11:52,What's the trend with Oil?,Strategy Advice,Oil prices are rising.,160,93,92,Positive,Helpful,Successful,U10135,Institutional,Europe,Mobile,23,False,10,Promoter
+14,2022-10-19 10:43,What's your take on GOOGL?,Buy Order,GOOGL stock is slightly volatile.,165,92,93,Positive,Helpful,Successful,U10104,Retail,Europe,Mobile,27,False,10,Promoter
+15,2021-06-04 12:19,Market outlook for ETH?,Forex Analysis,ETH is showing a downward trend.,170,91,94,Negative,Needs improvement,Failed,U10008,Institutional,Asia,Desktop,37,True,3,Detractor
+16,2020-03-12 11:32,Market outlook for NASDAQ?,Future Investment,NASDAQ shows investor optimism.,175,90,90,Positive,Helpful,Successful,U10015,Retail,Europe,Mobile,37,False,10,Promoter
+17,2023-07-20 11:36,What's the trend with Crypto?,Stock Prediction,Crypto markets show mixed performance.,180,89,91,Negative,Needs improvement,Failed,U10150,Retail,North America,Mobile,36,True,3,Detractor
+18,2023-07-06 16:40,Market outlook for Oil?,Sell Order,Oil shows demand increase.,185,88,92,Positive,Helpful,Successful,U10070,Institutional,North America,Tablet,56,True,10,Promoter
+19,2024-12-21 11:35,Market outlook for GOOGL?,Market Analysis,GOOGL remains a solid long-term pick.,190,87,93,Positive,Helpful,Successful,U10298,Retail,Asia,Tablet,53,True,10,Promoter
+20,2021-08-10 11:11,What's the trend with MSFT?,Stock Prediction,MSFT outlook is positive this quarter.,195,86,94,Positive,Helpful,Successful,U10112,Retail,North America,Mobile,14,False,10,Promoter
+21,2022-08-20 09:55,How is NASDAQ trending today?,Market Analysis,NASDAQ shows investor optimism.,150,95,90,Positive,Helpful,Successful,U10008,Institutional,Asia,Desktop,37,True,10,Promoter
+22,2022-01-16 11:12,How is GBP trending today?,Risk Analysis,GBP is gaining against EUR.,155,94,91,Negative,Needs improvement,Failed,U10279,Institutional,Africa,Mobile,42,True,3,Detractor
+23,2023-09-17 16:26,What is your prediction for USD?,Financial Advice,USD is strengthening against other currencies.,160,93,92,Positive,Helpful,Successful,U10251,Retail,Asia,Mobile,48,False,10,Promoter
+24,2023-07-23 16:31,Should I buy or sell Forex?,Regulation Inquiry,Forex shows balanced trading.,165,92,93,Positive,Helpful,Successful,U10194,Retail,Asia,Mobile,17,False,10,Promoter
+25,2021-02-19 09:50,What is your prediction for Equities?,Financial Advice,Equities are gaining after recent selloff.,170,91,94,Positive,Helpful,Successful,U10237,Retail,South America,Desktop,42,False,10,Promoter
+26,2021-05-02 13:14,Analysis of Equities?,Financial Advice,Equity markets are stabilizing.,175,90,90,Neutral,Needs improvement,Failed,U10041,Institutional,North America,Mobile,35,False,7,Passive
+27,2024-05-06 16:36,Give me an update on Equities.,Buy Order,Equities are gaining after recent selloff.,180,89,91,Positive,Helpful,Successful,U10086,VIP,Asia,Mobile,36,False,10,Promoter
+28,2023-09-17 10:36,What's the price of Forex now?,Future Investment,Forex shows balanced trading.,185,88,92,Negative,Needs improvement,Failed,U10248,Institutional,Asia,Desktop,43,False,3,Detractor
+29,2020-05-25 17:52,Should I diversify with USD?,Sell Order,USD remains stable.,190,87,93,Positive,Helpful,Successful,U10208,VIP,Europe,Desktop,52,True,10,Promoter
+30,2022-09-27 09:48,What's your take on AAPL?,Sell Order,AAPL earnings beat expectations.,195,86,94,Negative,Needs improvement,Failed,U10041,Institutional,North America,Mobile,35,False,3,Detractor
+31,2023-09-07 15:06,Give me an update on Tesla.,Sell Order,Tesla shows bullish signs.,150,95,90,Positive,Helpful,Successful,U10211,Institutional,North America,Mobile,30,False,10,Promoter
+32,2021-05-28 09:28,Analysis of GOOGL?,Risk Analysis,GOOGL remains a solid long-term pick.,155,94,91,Positive,Helpful,Successful,U10134,Institutional,North America,Mobile,45,True,10,Promoter
+33,2022-06-28 10:28,Any news on BTC?,Strategy Advice,"BTC is bullish, buying recommended.",160,93,92,Positive,Helpful,Successful,U10001,Retail,South America,Mobile,38,False,10,Promoter
+34,2020-04-07 14:55,What is your prediction for GOOGL?,Buy Order,GOOGL remains a solid long-term pick.,165,92,93,Negative,Needs improvement,Failed,U10023,Institutional,Europe,Mobile,11,False,3,Detractor
+35,2024-11-14 11:39,What's your take on NASDAQ?,Market Analysis,NASDAQ shows investor optimism.,170,91,94,Negative,Needs improvement,Failed,U10076,Retail,Middle East,Tablet,18,False,3,Detractor
+36,2021-04-27 12:51,Should I diversify with GOOGL?,Financial Advice,GOOGL remains a solid long-term pick.,175,90,90,Positive,Helpful,Successful,U10250,Retail,North America,Mobile,43,False,10,Promoter
+37,2020-10-12 17:17,Any news on MSFT?,Cryptocurrency Update,MSFT shows growth potential.,180,89,91,Positive,Helpful,Successful,U10164,Institutional,Europe,Tablet,53,False,10,Promoter
+38,2024-09-06 14:45,What's the price of AAPL now?,Sentiment Analysis,AAPL stock remains steady.,185,88,92,Positive,Helpful,Successful,U10218,Retail,Asia,Desktop,57,False,10,Promoter
+39,2022-05-19 13:54,Market outlook for Tesla?,Buy Order,Tesla shows bullish signs.,190,87,93,Negative,Needs improvement,Failed,U10158,Retail,Middle East,Desktop,39,True,3,Detractor
+40,2024-11-27 10:08,Market outlook for XAU?,Strategy Advice,Gold prices are increasing.,195,86,94,Neutral,Needs improvement,Failed,U10033,Retail,South America,Mobile,58,False,7,Passive
+41,2023-01-09 11:44,Should I diversify with BTC?,Trading Bot Query,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed,U10086,VIP,Asia,Mobile,36,False,3,Detractor
+42,2021-04-05 14:53,Any news on ETH?,Financial Advice,ETH is showing a downward trend.,155,94,91,Positive,Helpful,Successful,U10090,Institutional,Europe,Desktop,49,True,10,Promoter
+43,2021-11-13 16:09,Analysis of Bonds?,Financial Advice,Bond yields are increasing.,160,93,92,Negative,Needs improvement,Failed,U10014,Retail,South America,Mobile,53,True,3,Detractor
+44,2024-11-09 15:24,Market outlook for WTI?,Market Analysis,WTI is showing high volatility.,165,92,93,Positive,Helpful,Successful,U10125,Retail,Europe,Desktop,30,False,10,Promoter
+45,2023-02-21 10:25,What's the trend with Equities?,Trading Bot Query,Equities are gaining after recent selloff.,170,91,94,Positive,Helpful,Successful,U10238,Retail,Middle East,Mobile,57,True,10,Promoter
+46,2024-12-09 14:29,Should I buy or sell GBP?,Sell Order,GBP trends show minor fluctuations.,175,90,90,Positive,Helpful,Successful,U10137,Retail,South America,Mobile,48,False,10,Promoter
+47,2023-06-19 09:55,What's the price of SPX now?,Portfolio Management,SPX shows mixed market signals.,180,89,91,Positive,Helpful,Successful,U10033,Retail,South America,Mobile,58,False,10,Promoter
+48,2020-12-15 14:54,Any news on ETH?,Price Check,ETH is showing a downward trend.,185,88,92,Positive,Helpful,Successful,U10271,Institutional,Europe,Tablet,37,False,10,Promoter
+49,2020-09-13 12:27,What's the trend with AAPL?,Strategy Advice,AAPL stock remains steady.,190,87,93,Negative,Needs improvement,Failed,U10179,VIP,Middle East,Tablet,16,False,3,Detractor
+50,2021-08-09 14:53,Is Bonds safe to invest in?,Sell Order,Bond yields are increasing.,195,86,94,Positive,Helpful,Successful,U10004,Institutional,North America,Desktop,45,False,10,Promoter
+51,2022-06-18 11:36,What's your take on AAPL?,Strategy Advice,AAPL stock remains steady.,150,95,90,Negative,Needs improvement,Failed,U10154,Retail,North America,Mobile,10,False,3,Detractor
+52,2023-06-22 09:02,What's your take on XAU?,Forex Analysis,Gold prices are increasing.,155,94,91,Neutral,Needs improvement,Failed,U10072,Retail,Africa,Desktop,56,False,7,Passive
+53,2020-11-26 16:01,Should I buy or sell EUR?,Portfolio Management,EUR is holding steady.,160,93,92,Negative,Needs improvement,Failed,U10043,Institutional,Middle East,Mobile,42,False,3,Detractor
+54,2020-03-15 16:00,What's your take on AAPL?,Buy Order,AAPL earnings beat expectations.,165,92,93,Positive,Helpful,Successful,U10128,Retail,Middle East,Desktop,6,True,10,Promoter
+55,2023-04-23 11:56,What's the price of GBP now?,Financial Advice,GBP is gaining against EUR.,170,91,94,Positive,Helpful,Successful,U10184,Retail,South America,Mobile,42,False,10,Promoter
+56,2022-03-28 13:05,Should I buy or sell Commodities?,Financial Advice,Commodities show strong demand.,175,90,90,Negative,Needs improvement,Failed,U10072,Retail,Africa,Desktop,56,False,3,Detractor
+57,2022-05-03 14:42,What's your take on SPX?,Future Investment,SPX is trending upward.,180,89,91,Positive,Helpful,Successful,U10124,Retail,Europe,Desktop,53,False,10,Promoter
+58,2021-01-13 13:46,Analysis of MSFT?,Strategy Advice,MSFT outlook is positive this quarter.,185,88,92,Positive,Helpful,Successful,U10199,Retail,Africa,Desktop,18,True,10,Promoter
+59,2021-07-21 10:45,How is SPX trending today?,Forex Analysis,SPX is trending upward.,190,87,93,Negative,Needs improvement,Failed,U10025,Retail,North America,Desktop,54,False,3,Detractor
+60,2020-01-07 16:04,Market outlook for Gold?,Price Check,Gold is up due to inflation concerns.,195,86,94,Positive,Helpful,Successful,U10292,Retail,South America,Mobile,25,True,10,Promoter
+61,2021-10-08 17:43,What's the trend with SPX?,Market Analysis,SPX shows mixed market signals.,150,95,90,Positive,Helpful,Successful,U10020,Institutional,South America,Mobile,5,False,10,Promoter
+62,2023-01-01 14:52,Analysis of Bonds?,Price Check,Bonds remain a safe haven.,155,94,91,Positive,Helpful,Successful,U10157,Institutional,Africa,Mobile,32,False,10,Promoter
+63,2020-07-23 11:30,Should I buy or sell NASDAQ?,Market Analysis,NASDAQ shows investor optimism.,160,93,92,Positive,Helpful,Successful,U10152,Retail,Europe,Desktop,5,False,10,Promoter
+64,2020-04-13 10:46,Analysis of GOOGL?,Market Analysis,GOOGL stock is slightly volatile.,165,92,93,Negative,Needs improvement,Failed,U10296,Retail,Middle East,Mobile,54,True,3,Detractor
+65,2020-02-11 14:56,Any news on Forex?,Buy Order,Forex shows balanced trading.,170,91,94,Positive,Helpful,Successful,U10166,Retail,Asia,Tablet,43,False,10,Promoter
+66,2022-03-13 11:41,Give me an update on Tesla.,Future Investment,Tesla shows bullish signs.,175,90,90,Positive,Helpful,Successful,U10117,Retail,South America,Mobile,14,False,10,Promoter
+67,2021-02-17 09:39,Market outlook for Commodities?,Strategy Advice,Commodities show strong demand.,180,89,91,Positive,Helpful,Successful,U10141,Retail,Africa,Mobile,45,False,10,Promoter
+68,2021-08-12 12:40,Market outlook for XAU?,Strategy Advice,Gold prices are increasing.,185,88,92,Negative,Needs improvement,Failed,U10190,Institutional,Europe,Desktop,58,True,3,Detractor
+69,2021-07-20 16:55,Should I diversify with Bonds?,Strategy Advice,Bonds remain a safe haven.,190,87,93,Positive,Helpful,Successful,U10294,Retail,Europe,Desktop,16,False,10,Promoter
+70,2021-02-04 11:48,What's your take on AAPL?,Price Check,AAPL earnings beat expectations.,195,86,94,Negative,Needs improvement,Failed,U10076,Retail,Middle East,Tablet,18,False,3,Detractor
+71,2020-10-24 15:22,What's your take on NASDAQ?,Price Check,NASDAQ shows investor optimism.,150,95,90,Positive,Helpful,Successful,U10004,Institutional,North America,Desktop,45,False,10,Promoter
+72,2023-06-26 11:15,Should I diversify with USD?,Buy Order,USD is strengthening against other currencies.,155,94,91,Positive,Helpful,Successful,U10236,Retail,Asia,Mobile,33,False,10,Promoter
+73,2022-11-03 12:35,What's your take on Gold?,Forex Analysis,Gold is up due to inflation concerns.,160,93,92,Negative,Needs improvement,Failed,U10103,Retail,North America,Mobile,27,False,3,Detractor
+74,2024-10-24 13:49,How is ETH trending today?,Buy Order,ETH trading volume is decreasing.,165,92,93,Positive,Helpful,Successful,U10219,Retail,Asia,Mobile,18,True,10,Promoter
+75,2020-11-10 12:33,Is WTI safe to invest in?,Future Investment,WTI is showing high volatility.,170,91,94,Negative,Needs improvement,Failed,U10188,Retail,North America,Desktop,59,True,3,Detractor
+76,2024-09-07 15:18,Market outlook for EUR?,Price Check,EUR is showing mild weakness today.,175,90,90,Positive,Helpful,Successful,U10231,Retail,Asia,Tablet,3,False,10,Promoter
+77,2020-04-16 15:07,Analysis of MSFT?,Stock Prediction,MSFT outlook is positive this quarter.,180,89,91,Positive,Helpful,Successful,U10220,Retail,Europe,Tablet,55,False,10,Promoter
+78,2021-08-21 10:33,Market outlook for Forex?,Cryptocurrency Update,Forex markets favor USD today.,185,88,92,Negative,Needs improvement,Failed,U10099,VIP,Europe,Mobile,56,False,3,Detractor
+79,2020-06-11 11:24,Analysis of Forex?,Financial Advice,Forex markets favor USD today.,190,87,93,Neutral,Needs improvement,Failed,U10013,Retail,Africa,Desktop,36,True,7,Passive
+80,2024-07-12 17:43,How is SPX trending today?,Sell Order,SPX shows mixed market signals.,195,86,94,Positive,Helpful,Successful,U10163,Retail,Europe,Mobile,11,False,10,Promoter
+81,2021-08-25 10:01,Market outlook for Gold?,Stock Prediction,Gold is up due to inflation concerns.,150,95,90,Positive,Helpful,Successful,U10244,VIP,North America,Mobile,20,False,10,Promoter
+82,2024-02-01 13:13,How is Tesla trending today?,Forex Analysis,Tesla shows bullish signs.,155,94,91,Positive,Helpful,Successful,U10052,VIP,Asia,Mobile,3,False,10,Promoter
+83,2020-01-26 15:32,What is your prediction for MSFT?,Strategy Advice,MSFT shows growth potential.,160,93,92,Negative,Needs improvement,Failed,U10233,Retail,Asia,Mobile,44,True,3,Detractor
+84,2022-11-23 17:49,Should I buy or sell SPX?,Portfolio Management,SPX is trending upward.,165,92,93,Positive,Helpful,Successful,U10139,Retail,South America,Mobile,7,False,10,Promoter
+85,2023-07-23 15:05,Give me an update on Forex.,Forex Analysis,Forex markets favor USD today.,170,91,94,Negative,Needs improvement,Failed,U10208,VIP,Europe,Desktop,52,True,3,Detractor
+86,2024-09-20 11:17,What's your take on SPX?,Price Check,SPX shows mixed market signals.,175,90,90,Neutral,Needs improvement,Failed,U10189,Retail,North America,Tablet,49,False,7,Passive
+87,2020-05-03 17:58,Should I diversify with ETH?,Market Analysis,ETH is showing a downward trend.,180,89,91,Positive,Helpful,Successful,U10243,Institutional,Europe,Desktop,49,False,10,Promoter
+88,2021-03-18 14:25,Is AAPL safe to invest in?,Risk Analysis,AAPL earnings beat expectations.,185,88,92,Positive,Helpful,Successful,U10018,Retail,Middle East,Mobile,15,False,10,Promoter
+89,2024-11-25 10:19,What's the price of Forex now?,Buy Order,Forex shows balanced trading.,190,87,93,Positive,Helpful,Successful,U10232,VIP,South America,Mobile,42,False,10,Promoter
+90,2023-12-28 12:03,How is Forex trending today?,Technical Analysis,Forex markets favor USD today.,195,86,94,Positive,Helpful,Successful,U10137,Retail,South America,Mobile,48,False,10,Promoter
+91,2021-02-14 10:29,What's your take on Gold?,Strategy Advice,Investors are flocking to Gold.,150,95,90,Neutral,Needs improvement,Failed,U10088,Retail,Europe,Mobile,31,False,7,Passive
+92,2024-10-02 13:42,How is Oil trending today?,Strategy Advice,Oil shows demand increase.,155,94,91,Positive,Helpful,Successful,U10013,Retail,Africa,Desktop,36,True,10,Promoter
+93,2021-02-01 11:44,Analysis of Equities?,Cryptocurrency Update,Equities are gaining after recent selloff.,160,93,92,Positive,Helpful,Successful,U10059,VIP,South America,Mobile,53,False,10,Promoter
+94,2020-03-16 14:33,What is your prediction for NASDAQ?,Risk Analysis,NASDAQ shows investor optimism.,165,92,93,Negative,Needs improvement,Failed,U10012,Retail,Asia,Mobile,16,True,3,Detractor
+95,2024-12-09 11:23,What is your prediction for Equities?,Market Analysis,Equities are gaining after recent selloff.,170,91,94,Neutral,Needs improvement,Failed,U10280,Retail,Europe,Mobile,34,False,7,Passive
+96,2021-12-25 13:46,How is Forex trending today?,Future Investment,Forex markets favor USD today.,175,90,90,Positive,Helpful,Successful,U10154,Retail,North America,Mobile,10,False,10,Promoter
+97,2020-01-11 15:17,What's the price of GOOGL now?,Buy Order,GOOGL remains a solid long-term pick.,180,89,91,Positive,Helpful,Successful,U10296,Retail,Middle East,Mobile,54,True,10,Promoter
+98,2024-02-09 10:31,What's the trend with Oil?,Buy Order,Oil shows demand increase.,185,88,92,Negative,Needs improvement,Failed,U10162,VIP,Europe,Desktop,6,False,3,Detractor
+99,2023-09-12 09:31,Should I buy or sell USD?,Buy Order,USD remains stable.,190,87,93,Negative,Needs improvement,Failed,U10075,Institutional,Middle East,Mobile,43,True,3,Detractor
+100,2024-03-12 11:16,What's your take on ETH?,Financial Advice,ETH trading volume is decreasing.,195,86,94,Positive,Helpful,Successful,U10225,Institutional,North America,Mobile,56,True,10,Promoter
+101,2020-10-22 10:14,How is Gold trending today?,Sentiment Analysis,Gold is up due to inflation concerns.,150,95,90,Positive,Helpful,Successful,U10057,Retail,Africa,Desktop,57,True,10,Promoter
+102,2024-01-02 09:15,What's the trend with SPX?,Forex Analysis,SPX is trending upward.,155,94,91,Positive,Helpful,Successful,U10107,Institutional,Middle East,Mobile,48,False,10,Promoter
+103,2020-08-12 15:58,Any news on Equities?,Sell Order,Equities are gaining after recent selloff.,160,93,92,Positive,Helpful,Successful,U10234,Institutional,Europe,Desktop,21,False,10,Promoter
+104,2021-03-28 09:35,What's the trend with Oil?,Financial Advice,Oil shows demand increase.,165,92,93,Positive,Helpful,Successful,U10259,Retail,North America,Desktop,12,True,10,Promoter
+105,2023-04-11 12:26,Analysis of Oil?,Cryptocurrency Update,Oil prices are rising.,170,91,94,Positive,Helpful,Successful,U10099,VIP,Europe,Mobile,56,False,10,Promoter
+106,2022-05-27 10:36,Should I diversify with XAU?,Risk Analysis,XAU indicates investor confidence.,175,90,90,Positive,Helpful,Successful,U10037,Retail,Asia,Desktop,57,False,10,Promoter
+107,2022-02-17 09:11,Any news on USD?,Stock Prediction,USD remains stable.,180,89,91,Positive,Helpful,Successful,U10110,Retail,North America,Desktop,2,False,10,Promoter
+108,2021-09-02 15:04,Give me an update on USD.,Market Analysis,USD is strengthening against other currencies.,185,88,92,Neutral,Needs improvement,Failed,U10266,Institutional,South America,Mobile,50,True,7,Passive
+109,2023-05-25 13:20,How is Bonds trending today?,Price Check,Bonds remain a safe haven.,190,87,93,Positive,Helpful,Successful,U10222,Retail,North America,Mobile,55,False,10,Promoter
+110,2020-09-15 09:23,What is your prediction for GOOGL?,Cryptocurrency Update,GOOGL stock is slightly volatile.,195,86,94,Positive,Helpful,Successful,U10268,Retail,Africa,Desktop,10,True,10,Promoter
+111,2021-05-19 13:47,What's your take on Crypto?,Stock Prediction,Volatility remains high in crypto.,150,95,90,Positive,Helpful,Successful,U10115,Retail,South America,Desktop,42,True,10,Promoter
+112,2024-04-15 14:37,What's the price of BTC now?,Forex Analysis,BTC shows positive momentum today.,155,94,91,Positive,Helpful,Successful,U10292,Retail,South America,Mobile,25,True,10,Promoter
+113,2023-04-24 17:48,What's your take on GOOGL?,Stock Prediction,GOOGL stock is slightly volatile.,160,93,92,Negative,Needs improvement,Failed,U10148,Retail,Asia,Mobile,37,False,3,Detractor
+114,2021-03-01 15:01,What's the price of USD now?,Sell Order,USD remains stable.,165,92,93,Positive,Helpful,Successful,U10149,Institutional,South America,Tablet,14,False,10,Promoter
+115,2021-09-12 09:21,Analysis of Tesla?,Forex Analysis,Tesla stock remains volatile.,170,91,94,Positive,Helpful,Successful,U10277,Retail,Africa,Mobile,13,False,10,Promoter
+116,2020-11-13 13:06,Market outlook for Commodities?,Investment Planning,Commodities show strong demand.,175,90,90,Negative,Needs improvement,Failed,U10155,Institutional,North America,Mobile,20,False,3,Detractor
+117,2021-09-08 15:31,Analysis of Bonds?,Financial Advice,Bonds remain a safe haven.,180,89,91,Negative,Needs improvement,Failed,U10240,Retail,Europe,Tablet,44,False,3,Detractor
+118,2020-03-23 13:05,What's the trend with Tesla?,Risk Analysis,Tesla shows bullish signs.,185,88,92,Positive,Helpful,Successful,U10218,Retail,Asia,Desktop,57,False,10,Promoter
+119,2020-04-28 17:26,What is your prediction for Bonds?,Portfolio Management,Bond yields are increasing.,190,87,93,Positive,Helpful,Successful,U10023,Institutional,Europe,Mobile,11,False,10,Promoter
+120,2022-08-24 10:37,Should I diversify with NASDAQ?,Stock Prediction,NASDAQ shows investor optimism.,195,86,94,Neutral,Needs improvement,Failed,U10180,Retail,South America,Mobile,48,False,7,Passive
+121,2020-09-05 15:04,What's the trend with Commodities?,Financial Advice,Commodity markets are steady.,150,95,90,Positive,Helpful,Successful,U10246,Retail,Asia,Mobile,18,False,10,Promoter
+122,2024-10-02 15:42,What is your prediction for AAPL?,Forex Analysis,AAPL earnings beat expectations.,155,94,91,Positive,Helpful,Successful,U10163,Retail,Europe,Mobile,11,False,10,Promoter
+123,2021-04-10 13:54,Should I buy or sell MSFT?,Cryptocurrency Update,MSFT outlook is positive this quarter.,160,93,92,Positive,Helpful,Successful,U10096,Retail,North America,Desktop,30,True,10,Promoter
+124,2022-07-23 14:20,What's the price of GBP now?,Portfolio Management,GBP trends show minor fluctuations.,165,92,93,Positive,Helpful,Successful,U10024,VIP,Middle East,Mobile,33,False,10,Promoter
+125,2023-05-08 10:12,How is BTC trending today?,Future Investment,BTC shows positive momentum today.,170,91,94,Negative,Needs improvement,Failed,U10198,Retail,Europe,Mobile,19,False,3,Detractor
+126,2021-10-04 11:06,What's the trend with GBP?,Market Analysis,GBP is gaining against EUR.,175,90,90,Negative,Needs improvement,Failed,U10091,Retail,Middle East,Mobile,3,True,3,Detractor
+127,2021-08-15 14:26,What's the price of GBP now?,Financial Advice,GBP trends show minor fluctuations.,180,89,91,Negative,Needs improvement,Failed,U10180,Retail,South America,Mobile,48,False,3,Detractor
+128,2020-09-12 12:28,Market outlook for MSFT?,Regulation Inquiry,MSFT shows growth potential.,185,88,92,Positive,Helpful,Successful,U10127,VIP,South America,Mobile,53,False,10,Promoter
+129,2022-08-09 10:05,Analysis of EUR?,Strategy Advice,EUR is holding steady.,190,87,93,Positive,Helpful,Successful,U10206,Retail,South America,Desktop,24,False,10,Promoter
+130,2021-11-10 09:13,What's your take on Crypto?,Price Check,Crypto markets show mixed performance.,195,86,94,Positive,Helpful,Successful,U10105,Institutional,Africa,Mobile,57,False,10,Promoter
+131,2022-03-03 12:22,Give me an update on AAPL.,Market Analysis,AAPL earnings beat expectations.,150,95,90,Negative,Needs improvement,Failed,U10012,Retail,Asia,Mobile,16,True,3,Detractor
+132,2023-09-02 13:16,What is your prediction for Oil?,Strategy Advice,Oil prices are rising.,155,94,91,Negative,Needs improvement,Failed,U10261,Retail,Middle East,Mobile,2,False,3,Detractor
+133,2021-01-13 16:35,Should I buy or sell Tesla?,Sell Order,Tesla shows bullish signs.,160,93,92,Positive,Helpful,Successful,U10105,Institutional,Africa,Mobile,57,False,10,Promoter
+134,2024-04-04 16:06,What's your take on BTC?,Portfolio Management,BTC shows positive momentum today.,165,92,93,Positive,Helpful,Successful,U10299,Institutional,Middle East,Mobile,31,False,10,Promoter
+135,2021-02-01 09:53,How is USD trending today?,Financial Advice,USD remains stable.,170,91,94,Positive,Helpful,Successful,U10082,Institutional,South America,Mobile,5,False,10,Promoter
+136,2021-03-07 15:23,Should I buy or sell Oil?,Buy Order,Oil prices are rising.,175,90,90,Negative,Needs improvement,Failed,U10294,Retail,Europe,Desktop,16,False,3,Detractor
+137,2020-10-19 13:58,Market outlook for Tesla?,Stock Prediction,Tesla stock remains volatile.,180,89,91,Negative,Needs improvement,Failed,U10284,VIP,Middle East,Mobile,38,False,3,Detractor
+138,2020-01-03 12:57,What's the price of Oil now?,Price Check,Oil shows demand increase.,185,88,92,Positive,Helpful,Successful,U10022,Retail,South America,Desktop,35,False,10,Promoter
+139,2023-03-03 14:07,Should I diversify with EUR?,Market Analysis,EUR is showing mild weakness today.,190,87,93,Positive,Helpful,Successful,U10191,Retail,North America,Mobile,28,True,10,Promoter
+140,2020-08-02 11:59,Give me an update on SPX.,Future Investment,SPX shows mixed market signals.,195,86,94,Positive,Helpful,Successful,U10108,Institutional,North America,Mobile,28,False,10,Promoter
+141,2024-07-27 15:31,Should I diversify with Commodities?,Price Check,Commodity markets are steady.,150,95,90,Positive,Helpful,Successful,U10240,Retail,Europe,Tablet,44,False,10,Promoter
+142,2020-07-22 15:11,What's the price of WTI now?,Risk Analysis,WTI is showing high volatility.,155,94,91,Positive,Helpful,Successful,U10203,Institutional,South America,Desktop,41,True,10,Promoter
+143,2022-04-06 13:17,What's the price of GOOGL now?,Future Investment,GOOGL remains a solid long-term pick.,160,93,92,Neutral,Needs improvement,Failed,U10285,VIP,Europe,Desktop,43,False,7,Passive
+144,2023-03-02 12:41,Analysis of Gold?,Risk Analysis,Investors are flocking to Gold.,165,92,93,Positive,Helpful,Successful,U10042,Retail,Europe,Mobile,60,True,10,Promoter
+145,2022-08-14 17:30,What's your take on Tesla?,Price Check,Tesla stock remains volatile.,170,91,94,Positive,Helpful,Successful,U10182,VIP,Asia,Mobile,33,False,10,Promoter
+146,2020-02-09 15:08,What's the trend with Equities?,Portfolio Management,Equity markets are stabilizing.,175,90,90,Negative,Needs improvement,Failed,U10234,Institutional,Europe,Desktop,21,False,3,Detractor
+147,2023-04-21 17:15,Should I diversify with Crypto?,Market Analysis,Volatility remains high in crypto.,180,89,91,Positive,Helpful,Successful,U10010,Institutional,Europe,Mobile,54,False,10,Promoter
+148,2024-01-13 14:30,What is your prediction for ETH?,Buy Order,ETH is showing a downward trend.,185,88,92,Positive,Helpful,Successful,U10020,Institutional,South America,Mobile,5,False,10,Promoter
+149,2024-08-12 17:20,Market outlook for Commodities?,Stock Prediction,Commodity markets are steady.,190,87,93,Negative,Needs improvement,Failed,U10233,Retail,Asia,Mobile,44,True,3,Detractor
+150,2023-05-06 09:20,Market outlook for Forex?,Forex Analysis,Forex markets favor USD today.,195,86,94,Positive,Helpful,Successful,U10109,Retail,South America,Desktop,47,True,10,Promoter
+151,2024-04-01 13:03,Should I diversify with Bonds?,Stock Prediction,Bond yields are increasing.,150,95,90,Neutral,Needs improvement,Failed,U10114,Institutional,Asia,Desktop,4,False,7,Passive
+152,2023-09-12 12:10,Analysis of Tesla?,Cryptocurrency Update,Tesla shows bullish signs.,155,94,91,Negative,Needs improvement,Failed,U10170,Institutional,North America,Mobile,36,True,3,Detractor
+153,2020-04-22 12:17,Give me an update on ETH.,Portfolio Management,ETH is showing a downward trend.,160,93,92,Positive,Helpful,Successful,U10181,VIP,Europe,Tablet,51,False,10,Promoter
+154,2024-12-02 12:36,Is BTC safe to invest in?,Price Check,BTC shows positive momentum today.,165,92,93,Positive,Helpful,Successful,U10203,Institutional,South America,Desktop,41,True,10,Promoter
+155,2023-06-27 11:11,What's your take on Equities?,Cryptocurrency Update,Equity markets are stabilizing.,170,91,94,Positive,Helpful,Successful,U10284,VIP,Middle East,Mobile,38,False,10,Promoter
+156,2021-10-11 14:58,Any news on Crypto?,Buy Order,Crypto markets show mixed performance.,175,90,90,Positive,Helpful,Successful,U10111,Retail,South America,Mobile,28,True,10,Promoter
+157,2024-01-23 14:36,How is XAU trending today?,Portfolio Management,Gold prices are increasing.,180,89,91,Positive,Helpful,Successful,U10228,Institutional,North America,Mobile,51,True,10,Promoter
+158,2024-03-19 12:53,Analysis of Gold?,Market Analysis,Investors are flocking to Gold.,185,88,92,Negative,Needs improvement,Failed,U10172,Retail,Middle East,Mobile,46,True,3,Detractor
+159,2023-09-10 11:31,Market outlook for GOOGL?,Strategy Advice,GOOGL remains a solid long-term pick.,190,87,93,Positive,Helpful,Successful,U10158,Retail,Middle East,Desktop,39,True,10,Promoter
+160,2020-02-02 12:38,Market outlook for Bonds?,Cryptocurrency Update,Bonds remain a safe haven.,195,86,94,Positive,Helpful,Successful,U10119,Institutional,North America,Mobile,38,True,10,Promoter
+161,2021-01-17 16:00,Analysis of NASDAQ?,Buy Order,NASDAQ is rallying.,150,95,90,Negative,Needs improvement,Failed,U10194,Retail,Asia,Mobile,17,False,3,Detractor
+162,2022-10-07 11:21,Market outlook for Gold?,Strategy Advice,Gold is up due to inflation concerns.,155,94,91,Positive,Helpful,Successful,U10074,Institutional,North America,Desktop,30,False,10,Promoter
+163,2021-06-02 09:09,What's the price of USD now?,Buy Order,USD is strengthening against other currencies.,160,93,92,Positive,Helpful,Successful,U10034,Retail,North America,Mobile,38,False,10,Promoter
+164,2024-12-05 10:54,What is your prediction for GBP?,Strategy Advice,GBP is gaining against EUR.,165,92,93,Positive,Helpful,Successful,U10220,Retail,Europe,Tablet,55,False,10,Promoter
+165,2024-06-03 14:45,Market outlook for NASDAQ?,Forex Analysis,NASDAQ is rallying.,170,91,94,Negative,Needs improvement,Failed,U10149,Institutional,South America,Tablet,14,False,3,Detractor
+166,2023-10-04 14:19,Market outlook for EUR?,Forex Analysis,EUR is showing mild weakness today.,175,90,90,Negative,Needs improvement,Failed,U10116,Retail,North America,Desktop,40,True,3,Detractor
+167,2022-03-06 15:50,Is EUR safe to invest in?,Market Analysis,EUR is holding steady.,180,89,91,Positive,Helpful,Successful,U10168,Institutional,South America,Mobile,36,True,10,Promoter
+168,2023-11-11 11:45,Should I diversify with WTI?,Investment Planning,WTI crude sees a price jump.,185,88,92,Positive,Helpful,Successful,U10078,Retail,Africa,Mobile,17,True,10,Promoter
+169,2024-12-20 14:14,Should I diversify with Oil?,Regulation Inquiry,Oil shows demand increase.,190,87,93,Negative,Needs improvement,Failed,U10078,Retail,Africa,Mobile,17,True,3,Detractor
+170,2024-03-13 13:46,Should I buy or sell SPX?,Strategy Advice,SPX shows mixed market signals.,195,86,94,Negative,Needs improvement,Failed,U10133,Retail,North America,Mobile,46,False,3,Detractor
+171,2022-03-06 09:44,What's the trend with Commodities?,Stock Prediction,Commodities show strong demand.,150,95,90,Negative,Needs improvement,Failed,U10298,Retail,Asia,Tablet,53,True,3,Detractor
+172,2024-07-28 09:11,What's your take on NASDAQ?,Investment Planning,NASDAQ is rallying.,155,94,91,Positive,Helpful,Successful,U10085,Retail,North America,Desktop,25,False,10,Promoter
+173,2024-06-26 12:40,Market outlook for USD?,Strategy Advice,USD is strengthening against other currencies.,160,93,92,Negative,Needs improvement,Failed,U10274,Retail,North America,Mobile,3,True,3,Detractor
+174,2024-02-16 11:21,Should I diversify with GBP?,Financial Advice,GBP trends show minor fluctuations.,165,92,93,Neutral,Needs improvement,Failed,U10147,Institutional,North America,Mobile,29,False,7,Passive
+175,2020-04-12 14:10,What is your prediction for AAPL?,Financial Advice,AAPL stock remains steady.,170,91,94,Negative,Needs improvement,Failed,U10036,VIP,Middle East,Mobile,16,True,3,Detractor
+176,2020-12-22 14:28,Analysis of Tesla?,Forex Analysis,Tesla stock remains volatile.,175,90,90,Positive,Helpful,Successful,U10255,Retail,Europe,Mobile,49,False,10,Promoter
+177,2020-05-07 12:44,Should I buy or sell USD?,Stock Prediction,USD is strengthening against other currencies.,180,89,91,Positive,Helpful,Successful,U10135,Institutional,Europe,Mobile,23,False,10,Promoter
+178,2020-06-09 10:46,Give me an update on USD.,Buy Order,USD is strengthening against other currencies.,185,88,92,Positive,Helpful,Successful,U10269,Retail,North America,Desktop,49,False,10,Promoter
+179,2020-01-13 16:46,Should I diversify with Tesla?,Portfolio Management,Tesla shows bullish signs.,190,87,93,Negative,Needs improvement,Failed,U10133,Retail,North America,Mobile,46,False,3,Detractor
+180,2023-03-14 16:56,How is Gold trending today?,Portfolio Management,Investors are flocking to Gold.,195,86,94,Negative,Needs improvement,Failed,U10026,Institutional,North America,Desktop,35,False,3,Detractor
+181,2023-06-18 15:06,Market outlook for SPX?,Market Analysis,SPX is trending upward.,150,95,90,Neutral,Needs improvement,Failed,U10204,Institutional,North America,Desktop,3,False,7,Passive
+182,2023-10-21 12:10,Give me an update on GBP.,Price Check,GBP trends show minor fluctuations.,155,94,91,Positive,Helpful,Successful,U10253,Institutional,Asia,Mobile,4,True,10,Promoter
+183,2023-02-26 09:18,Is ETH safe to invest in?,Cryptocurrency Update,ETH is showing a downward trend.,160,93,92,Positive,Helpful,Successful,U10095,Institutional,North America,Desktop,45,False,10,Promoter
+184,2020-06-09 10:04,What's the price of NASDAQ now?,Sell Order,NASDAQ is rallying.,165,92,93,Positive,Helpful,Successful,U10104,Retail,Europe,Mobile,27,False,10,Promoter
+185,2022-03-13 11:46,What is your prediction for NASDAQ?,Market Analysis,NASDAQ is rallying.,170,91,94,Negative,Needs improvement,Failed,U10019,Retail,Asia,Desktop,56,True,3,Detractor
+186,2020-09-03 14:38,Analysis of USD?,Portfolio Management,USD is strengthening against other currencies.,175,90,90,Positive,Helpful,Successful,U10162,VIP,Europe,Desktop,6,False,10,Promoter
+187,2024-08-23 09:27,Should I buy or sell Forex?,Buy Order,Forex shows balanced trading.,180,89,91,Negative,Needs improvement,Failed,U10267,Retail,North America,Mobile,58,False,3,Detractor
+188,2021-10-14 11:03,What's the price of AAPL now?,Portfolio Management,AAPL stock remains steady.,185,88,92,Neutral,Needs improvement,Failed,U10255,Retail,Europe,Mobile,49,False,7,Passive
+189,2020-06-07 12:26,Any news on Gold?,Portfolio Management,Investors are flocking to Gold.,190,87,93,Negative,Needs improvement,Failed,U10213,Retail,North America,Mobile,57,False,3,Detractor
+190,2024-12-24 17:16,How is Bonds trending today?,Price Check,Bond yields are increasing.,195,86,94,Positive,Helpful,Successful,U10278,Retail,North America,Mobile,7,False,10,Promoter
+191,2022-05-08 10:03,Give me an update on GOOGL.,Forex Analysis,GOOGL remains a solid long-term pick.,150,95,90,Negative,Needs improvement,Failed,U10191,Retail,North America,Mobile,28,True,3,Detractor
+192,2023-10-18 16:09,Is EUR safe to invest in?,Market Analysis,EUR is holding steady.,155,94,91,Positive,Helpful,Successful,U10238,Retail,Middle East,Mobile,57,True,10,Promoter
+193,2020-06-01 15:05,Market outlook for XAU?,Sell Order,XAU indicates investor confidence.,160,93,92,Negative,Needs improvement,Failed,U10152,Retail,Europe,Desktop,5,False,3,Detractor
+194,2022-11-21 16:12,Any news on NASDAQ?,Cryptocurrency Update,NASDAQ shows investor optimism.,165,92,93,Neutral,Needs improvement,Failed,U10036,VIP,Middle East,Mobile,16,True,7,Passive
+195,2020-01-07 11:40,What's the price of Crypto now?,Buy Order,Volatility remains high in crypto.,170,91,94,Positive,Helpful,Successful,U10060,VIP,North America,Desktop,17,True,10,Promoter
+196,2022-02-16 10:19,What is your prediction for MSFT?,Sell Order,MSFT outlook is positive this quarter.,175,90,90,Positive,Helpful,Successful,U10041,Institutional,North America,Mobile,35,False,10,Promoter
+197,2023-08-16 13:05,What's the trend with Forex?,Future Investment,Forex shows balanced trading.,180,89,91,Positive,Helpful,Successful,U10237,Retail,South America,Desktop,42,False,10,Promoter
+198,2024-07-06 14:56,Should I diversify with GOOGL?,Market Analysis,GOOGL stock is slightly volatile.,185,88,92,Positive,Helpful,Successful,U10007,Retail,North America,Tablet,6,False,10,Promoter
+199,2023-06-06 16:02,What's the trend with ETH?,Portfolio Management,ETH is showing a downward trend.,190,87,93,Positive,Helpful,Successful,U10166,Retail,Asia,Tablet,43,False,10,Promoter
+200,2022-08-15 13:14,Market outlook for Oil?,Portfolio Management,Oil prices are rising.,195,86,94,Positive,Helpful,Successful,U10110,Retail,North America,Desktop,2,False,10,Promoter
+201,2022-10-02 11:48,How is GOOGL trending today?,Market Analysis,GOOGL stock is slightly volatile.,150,95,90,Positive,Helpful,Successful,U10241,Retail,Middle East,Mobile,7,False,10,Promoter
+202,2020-02-22 14:51,Should I diversify with Bonds?,Risk Analysis,Bond yields are increasing.,155,94,91,Neutral,Needs improvement,Failed,U10165,Retail,North America,Mobile,8,False,7,Passive
+203,2024-07-25 12:35,How is Crypto trending today?,Forex Analysis,Volatility remains high in crypto.,160,93,92,Negative,Needs improvement,Failed,U10183,Retail,North America,Desktop,7,False,3,Detractor
+204,2020-07-27 17:26,What's the price of Forex now?,Future Investment,Forex markets favor USD today.,165,92,93,Negative,Needs improvement,Failed,U10025,Retail,North America,Desktop,54,False,3,Detractor
+205,2024-11-28 16:36,How is USD trending today?,Forex Analysis,USD is strengthening against other currencies.,170,91,94,Positive,Helpful,Successful,U10092,Retail,Middle East,Mobile,27,False,10,Promoter
+206,2021-08-10 10:25,Analysis of GOOGL?,Sell Order,GOOGL remains a solid long-term pick.,175,90,90,Negative,Needs improvement,Failed,U10299,Institutional,Middle East,Mobile,31,False,3,Detractor
+207,2020-09-19 17:51,Give me an update on NASDAQ.,Buy Order,NASDAQ shows investor optimism.,180,89,91,Positive,Helpful,Successful,U10215,VIP,Europe,Mobile,9,True,10,Promoter
+208,2024-11-20 11:07,Should I buy or sell SPX?,Financial Advice,SPX is trending upward.,185,88,92,Negative,Needs improvement,Failed,U10157,Institutional,Africa,Mobile,32,False,3,Detractor
+209,2023-03-06 12:51,What's the trend with Oil?,Stock Prediction,Oil prices are rising.,190,87,93,Negative,Needs improvement,Failed,U10230,Retail,North America,Mobile,24,False,3,Detractor
+210,2021-03-02 15:05,Is Tesla safe to invest in?,Future Investment,Tesla shows bullish signs.,195,86,94,Neutral,Needs improvement,Failed,U10247,Institutional,Middle East,Tablet,53,False,7,Passive
+211,2023-04-27 11:53,What's the trend with GOOGL?,Financial Advice,GOOGL remains a solid long-term pick.,150,95,90,Positive,Helpful,Successful,U10022,Retail,South America,Desktop,35,False,10,Promoter
+212,2024-05-11 10:05,Should I buy or sell NASDAQ?,Financial Advice,NASDAQ shows investor optimism.,155,94,91,Neutral,Needs improvement,Failed,U10291,Retail,Asia,Desktop,34,True,7,Passive
+213,2023-09-13 17:20,Any news on MSFT?,Strategy Advice,MSFT outlook is positive this quarter.,160,93,92,Positive,Helpful,Successful,U10192,Retail,Asia,Desktop,11,True,10,Promoter
+214,2022-09-15 09:50,How is GBP trending today?,Sell Order,GBP is gaining against EUR.,165,92,93,Positive,Helpful,Successful,U10134,Institutional,North America,Mobile,45,True,10,Promoter
+215,2024-10-17 15:07,Market outlook for Gold?,Stock Prediction,Gold is up due to inflation concerns.,170,91,94,Positive,Helpful,Successful,U10204,Institutional,North America,Desktop,3,False,10,Promoter
+216,2023-03-05 10:59,What's the price of EUR now?,Price Check,EUR is showing mild weakness today.,175,90,90,Negative,Needs improvement,Failed,U10103,Retail,North America,Mobile,27,False,3,Detractor
+217,2020-10-25 10:50,Market outlook for WTI?,Buy Order,WTI crude sees a price jump.,180,89,91,Negative,Needs improvement,Failed,U10263,Retail,North America,Mobile,21,True,3,Detractor
+218,2022-09-12 15:16,What is your prediction for Forex?,Price Check,Forex markets favor USD today.,185,88,92,Positive,Helpful,Successful,U10234,Institutional,Europe,Desktop,21,False,10,Promoter
+219,2023-11-16 16:02,Should I buy or sell AAPL?,Stock Prediction,AAPL stock remains steady.,190,87,93,Positive,Helpful,Successful,U10191,Retail,North America,Mobile,28,True,10,Promoter
+220,2021-05-13 11:39,What is your prediction for NASDAQ?,Buy Order,NASDAQ is rallying.,195,86,94,Negative,Needs improvement,Failed,U10054,Institutional,Europe,Mobile,9,False,3,Detractor
+221,2024-11-23 15:02,What's the trend with Gold?,Risk Analysis,Investors are flocking to Gold.,150,95,90,Neutral,Needs improvement,Failed,U10289,Retail,North America,Mobile,50,False,7,Passive
+222,2023-06-23 12:03,Any news on EUR?,Forex Analysis,EUR is showing mild weakness today.,155,94,91,Negative,Needs improvement,Failed,U10129,Retail,South America,Mobile,43,False,3,Detractor
+223,2023-05-12 09:21,Should I buy or sell Forex?,Stock Prediction,Forex markets favor USD today.,160,93,92,Positive,Helpful,Successful,U10273,Retail,Europe,Mobile,18,False,10,Promoter
+224,2022-05-09 16:54,What's your take on EUR?,Risk Analysis,EUR is holding steady.,165,92,93,Neutral,Needs improvement,Failed,U10016,Retail,South America,Mobile,59,False,7,Passive
+225,2020-04-05 13:47,Should I buy or sell Gold?,Price Check,Gold is up due to inflation concerns.,170,91,94,Negative,Needs improvement,Failed,U10037,Retail,Asia,Desktop,57,False,3,Detractor
+226,2023-06-09 15:38,What's your take on Gold?,Price Check,Gold is up due to inflation concerns.,175,90,90,Positive,Helpful,Successful,U10045,Retail,Asia,Desktop,58,True,10,Promoter
+227,2020-04-15 12:58,Market outlook for Forex?,Buy Order,Forex markets favor USD today.,180,89,91,Positive,Helpful,Successful,U10049,Retail,South America,Mobile,38,False,10,Promoter
+228,2023-12-16 17:55,Analysis of NASDAQ?,Future Investment,NASDAQ is rallying.,185,88,92,Positive,Helpful,Successful,U10096,Retail,North America,Desktop,30,True,10,Promoter
+229,2022-01-17 11:04,What's the price of Oil now?,Stock Prediction,Oil prices are rising.,190,87,93,Positive,Helpful,Successful,U10212,Institutional,Europe,Mobile,41,False,10,Promoter
+230,2022-12-17 15:08,Should I buy or sell BTC?,Strategy Advice,BTC shows positive momentum today.,195,86,94,Positive,Helpful,Successful,U10103,Retail,North America,Mobile,27,False,10,Promoter
+231,2024-10-01 11:12,What's the trend with Forex?,Buy Order,Forex shows balanced trading.,150,95,90,Negative,Needs improvement,Failed,U10282,Retail,South America,Desktop,5,False,3,Detractor
+232,2021-01-08 09:29,How is AAPL trending today?,Strategy Advice,AAPL earnings beat expectations.,155,94,91,Positive,Helpful,Successful,U10268,Retail,Africa,Desktop,10,True,10,Promoter
+233,2020-06-23 12:17,Any news on WTI?,Market Analysis,WTI crude sees a price jump.,160,93,92,Neutral,Needs improvement,Failed,U10253,Institutional,Asia,Mobile,4,True,7,Passive
+234,2022-08-17 15:40,What's your take on USD?,Technical Analysis,USD is strengthening against other currencies.,165,92,93,Negative,Needs improvement,Failed,U10075,Institutional,Middle East,Mobile,43,True,3,Detractor
+235,2020-11-01 12:23,What's your take on ETH?,Price Check,ETH is showing a downward trend.,170,91,94,Positive,Helpful,Successful,U10190,Institutional,Europe,Desktop,58,True,10,Promoter
+236,2023-10-15 11:55,What's your take on ETH?,Investment Planning,ETH is showing a downward trend.,175,90,90,Positive,Helpful,Successful,U10165,Retail,North America,Mobile,8,False,10,Promoter
+237,2023-10-18 14:22,Analysis of MSFT?,Strategy Advice,MSFT shows growth potential.,180,89,91,Negative,Needs improvement,Failed,U10037,Retail,Asia,Desktop,57,False,3,Detractor
+238,2021-05-24 10:18,Should I diversify with ETH?,Financial Advice,ETH trading volume is decreasing.,185,88,92,Positive,Helpful,Successful,U10090,Institutional,Europe,Desktop,49,True,10,Promoter
+239,2020-07-02 11:54,Analysis of Forex?,Portfolio Management,Forex markets favor USD today.,190,87,93,Neutral,Needs improvement,Failed,U10160,Retail,South America,Desktop,37,True,7,Passive
+240,2024-04-28 12:41,What is your prediction for Gold?,Technical Analysis,Gold is up due to inflation concerns.,195,86,94,Negative,Needs improvement,Failed,U10150,Retail,North America,Mobile,36,True,3,Detractor
+241,2021-11-07 13:41,What's your take on Crypto?,Investment Planning,Crypto markets show mixed performance.,150,95,90,Negative,Needs improvement,Failed,U10050,VIP,Asia,Mobile,33,True,3,Detractor
+242,2023-09-01 09:30,What is your prediction for WTI?,Strategy Advice,WTI is showing high volatility.,155,94,91,Positive,Helpful,Successful,U10282,Retail,South America,Desktop,5,False,10,Promoter
+243,2021-11-06 09:14,Any news on BTC?,Risk Analysis,BTC shows positive momentum today.,160,93,92,Positive,Helpful,Successful,U10046,Retail,Africa,Mobile,51,False,10,Promoter
+244,2022-10-26 13:45,What is your prediction for Forex?,Price Check,Forex markets favor USD today.,165,92,93,Positive,Helpful,Successful,U10197,Institutional,Asia,Mobile,25,False,10,Promoter
+245,2022-07-13 14:29,Should I diversify with MSFT?,Stock Prediction,MSFT outlook is positive this quarter.,170,91,94,Positive,Helpful,Successful,U10216,Retail,Africa,Mobile,16,False,10,Promoter
+246,2022-04-15 13:43,What's the trend with Commodities?,Risk Analysis,Commodities show strong demand.,175,90,90,Negative,Needs improvement,Failed,U10181,VIP,Europe,Tablet,51,False,3,Detractor
+247,2024-10-13 10:00,Market outlook for GBP?,Strategy Advice,GBP is gaining against EUR.,180,89,91,Negative,Needs improvement,Failed,U10252,Retail,Asia,Mobile,20,False,3,Detractor
+248,2024-11-27 14:35,Is Bonds safe to invest in?,Buy Order,Bonds remain a safe haven.,185,88,92,Positive,Helpful,Successful,U10169,Retail,Middle East,Mobile,2,False,10,Promoter
+249,2024-10-10 13:43,Should I diversify with Oil?,Stock Prediction,Oil prices are rising.,190,87,93,Positive,Helpful,Successful,U10247,Institutional,Middle East,Tablet,53,False,10,Promoter
+250,2020-08-03 14:17,What's the trend with NASDAQ?,Future Investment,NASDAQ shows investor optimism.,195,86,94,Positive,Helpful,Successful,U10008,Institutional,Asia,Desktop,37,True,10,Promoter
+251,2022-05-09 13:12,Analysis of Commodities?,Risk Analysis,Commodity markets are steady.,150,95,90,Positive,Helpful,Successful,U10013,Retail,Africa,Desktop,36,True,10,Promoter
+252,2021-09-25 12:57,Give me an update on SPX.,Buy Order,SPX is trending upward.,155,94,91,Positive,Helpful,Successful,U10192,Retail,Asia,Desktop,11,True,10,Promoter
+253,2020-10-13 14:43,How is ETH trending today?,Buy Order,ETH trading volume is decreasing.,160,93,92,Positive,Helpful,Successful,U10173,Institutional,Europe,Mobile,31,True,10,Promoter
+254,2021-12-01 16:18,Is WTI safe to invest in?,Sell Order,WTI is showing high volatility.,165,92,93,Positive,Helpful,Successful,U10195,Institutional,Asia,Mobile,35,True,10,Promoter
+255,2022-07-13 15:47,What's your take on MSFT?,Financial Advice,MSFT outlook is positive this quarter.,170,91,94,Positive,Helpful,Successful,U10230,Retail,North America,Mobile,24,False,10,Promoter
+256,2020-10-23 12:21,Is Crypto safe to invest in?,Risk Analysis,Crypto markets show mixed performance.,175,90,90,Positive,Helpful,Successful,U10124,Retail,Europe,Desktop,53,False,10,Promoter
+257,2021-11-18 16:58,What is your prediction for GBP?,Risk Analysis,GBP is gaining against EUR.,180,89,91,Positive,Helpful,Successful,U10191,Retail,North America,Mobile,28,True,10,Promoter
+258,2022-09-10 11:53,How is Forex trending today?,Sell Order,Forex markets favor USD today.,185,88,92,Positive,Helpful,Successful,U10149,Institutional,South America,Tablet,14,False,10,Promoter
+259,2024-03-10 10:30,Is SPX safe to invest in?,Financial Advice,SPX is trending upward.,190,87,93,Positive,Helpful,Successful,U10188,Retail,North America,Desktop,59,True,10,Promoter
+260,2021-12-09 17:48,Is WTI safe to invest in?,Buy Order,WTI crude sees a price jump.,195,86,94,Positive,Helpful,Successful,U10086,VIP,Asia,Mobile,36,False,10,Promoter
+261,2021-11-11 10:14,Analysis of USD?,Price Check,USD is strengthening against other currencies.,150,95,90,Neutral,Needs improvement,Failed,U10286,Retail,Africa,Mobile,25,False,7,Passive
+262,2022-04-24 13:26,What's the price of BTC now?,Market Analysis,"BTC is bullish, buying recommended.",155,94,91,Neutral,Needs improvement,Failed,U10144,Institutional,North America,Mobile,32,True,7,Passive
+263,2022-06-09 13:29,Is Equities safe to invest in?,Financial Advice,Equity markets are stabilizing.,160,93,92,Positive,Helpful,Successful,U10241,Retail,Middle East,Mobile,7,False,10,Promoter
+264,2020-08-02 10:30,What is your prediction for EUR?,Forex Analysis,EUR is holding steady.,165,92,93,Positive,Helpful,Successful,U10205,Institutional,North America,Mobile,48,False,10,Promoter
+265,2021-09-04 15:33,What is your prediction for Gold?,Buy Order,Gold is up due to inflation concerns.,170,91,94,Positive,Helpful,Successful,U10089,VIP,South America,Desktop,19,False,10,Promoter
+266,2022-07-02 11:08,Is GOOGL safe to invest in?,Future Investment,GOOGL stock is slightly volatile.,175,90,90,Neutral,Needs improvement,Failed,U10021,Retail,Asia,Mobile,36,False,7,Passive
+267,2021-06-14 16:09,What's the trend with ETH?,Stock Prediction,ETH trading volume is decreasing.,180,89,91,Positive,Helpful,Successful,U10017,Retail,North America,Desktop,35,True,10,Promoter
+268,2022-12-06 10:31,Any news on XAU?,Forex Analysis,XAU indicates investor confidence.,185,88,92,Negative,Needs improvement,Failed,U10131,Retail,Europe,Mobile,57,True,3,Detractor
+269,2022-11-06 14:40,Analysis of Forex?,Risk Analysis,Forex markets favor USD today.,190,87,93,Positive,Helpful,Successful,U10145,Institutional,North America,Mobile,37,False,10,Promoter
+270,2020-01-15 13:13,Any news on GOOGL?,Risk Analysis,GOOGL remains a solid long-term pick.,195,86,94,Positive,Helpful,Successful,U10061,Retail,Asia,Mobile,39,True,10,Promoter
+271,2021-10-25 11:31,What's the price of GOOGL now?,Buy Order,GOOGL stock is slightly volatile.,150,95,90,Positive,Helpful,Successful,U10181,VIP,Europe,Tablet,51,False,10,Promoter
+272,2020-03-20 15:40,Market outlook for SPX?,Trading Bot Query,SPX shows mixed market signals.,155,94,91,Positive,Helpful,Successful,U10093,Retail,South America,Mobile,26,True,10,Promoter
+273,2023-07-14 16:24,Should I diversify with BTC?,Market Analysis,BTC shows positive momentum today.,160,93,92,Positive,Helpful,Successful,U10215,VIP,Europe,Mobile,9,True,10,Promoter
+274,2020-01-18 12:46,Market outlook for WTI?,Future Investment,WTI is showing high volatility.,165,92,93,Positive,Helpful,Successful,U10220,Retail,Europe,Tablet,55,False,10,Promoter
+275,2022-01-11 17:12,Give me an update on Equities.,Portfolio Management,Equities are gaining after recent selloff.,170,91,94,Positive,Helpful,Successful,U10258,Retail,Africa,Desktop,49,True,10,Promoter
+276,2020-11-01 12:14,Should I diversify with Crypto?,Strategy Advice,Volatility remains high in crypto.,175,90,90,Neutral,Needs improvement,Failed,U10292,Retail,South America,Mobile,25,True,7,Passive
+277,2022-05-05 10:24,Should I diversify with EUR?,Earnings Report Review,EUR is showing mild weakness today.,180,89,91,Positive,Helpful,Successful,U10039,Institutional,Europe,Mobile,56,False,10,Promoter
+278,2024-10-10 11:04,Any news on SPX?,Risk Analysis,SPX is trending upward.,185,88,92,Positive,Helpful,Successful,U10111,Retail,South America,Mobile,28,True,10,Promoter
+279,2020-05-10 16:46,What is your prediction for Equities?,Financial Advice,Equity markets are stabilizing.,190,87,93,Negative,Needs improvement,Failed,U10168,Institutional,South America,Mobile,36,True,3,Detractor
+280,2024-10-17 14:27,Analysis of MSFT?,Strategy Advice,MSFT outlook is positive this quarter.,195,86,94,Negative,Needs improvement,Failed,U10095,Institutional,North America,Desktop,45,False,3,Detractor
+281,2021-06-16 14:48,What's the trend with Commodities?,Buy Order,Commodities show strong demand.,150,95,90,Negative,Needs improvement,Failed,U10139,Retail,South America,Mobile,7,False,3,Detractor
+282,2021-03-26 15:01,Is EUR safe to invest in?,Portfolio Management,EUR is holding steady.,155,94,91,Positive,Helpful,Successful,U10080,Retail,Europe,Mobile,17,True,10,Promoter
+283,2021-04-24 11:13,How is WTI trending today?,Market Analysis,WTI crude sees a price jump.,160,93,92,Positive,Helpful,Successful,U10074,Institutional,North America,Desktop,30,False,10,Promoter
+284,2020-10-17 11:07,Is Equities safe to invest in?,Future Investment,Equity markets are stabilizing.,165,92,93,Negative,Needs improvement,Failed,U10029,Retail,Asia,Mobile,47,False,3,Detractor
+285,2022-12-21 09:24,Give me an update on NASDAQ.,Sell Order,NASDAQ is rallying.,170,91,94,Negative,Needs improvement,Failed,U10087,Retail,North America,Desktop,39,False,3,Detractor
+286,2022-09-20 09:38,Market outlook for GOOGL?,Portfolio Management,GOOGL remains a solid long-term pick.,175,90,90,Negative,Needs improvement,Failed,U10115,Retail,South America,Desktop,42,True,3,Detractor
+287,2020-11-04 09:03,Should I buy or sell Gold?,Risk Analysis,Gold is up due to inflation concerns.,180,89,91,Neutral,Needs improvement,Failed,U10184,Retail,South America,Mobile,42,False,7,Passive
+288,2020-07-15 15:07,What's your take on AAPL?,Risk Analysis,AAPL stock remains steady.,185,88,92,Positive,Helpful,Successful,U10074,Institutional,North America,Desktop,30,False,10,Promoter
+289,2024-05-16 11:13,How is ETH trending today?,Buy Order,ETH is showing a downward trend.,190,87,93,Positive,Helpful,Successful,U10259,Retail,North America,Desktop,12,True,10,Promoter
+290,2020-05-14 10:42,What's your take on MSFT?,Cryptocurrency Update,MSFT outlook is positive this quarter.,195,86,94,Positive,Helpful,Successful,U10047,Retail,South America,Desktop,51,False,10,Promoter
+291,2024-05-20 11:26,Market outlook for GBP?,Price Check,GBP trends show minor fluctuations.,150,95,90,Positive,Helpful,Successful,U10098,Institutional,Asia,Desktop,33,False,10,Promoter
+292,2020-09-24 10:18,Market outlook for AAPL?,Asset Allocation,AAPL stock remains steady.,155,94,91,Neutral,Needs improvement,Failed,U10173,Institutional,Europe,Mobile,31,True,7,Passive
+293,2020-02-16 12:38,Any news on Forex?,Financial Advice,Forex markets favor USD today.,160,93,92,Positive,Helpful,Successful,U10093,Retail,South America,Mobile,26,True,10,Promoter
+294,2021-05-27 17:12,What's your take on Equities?,Forex Analysis,Equities are gaining after recent selloff.,165,92,93,Negative,Needs improvement,Failed,U10228,Institutional,North America,Mobile,51,True,3,Detractor
+295,2022-12-14 13:10,Is Forex safe to invest in?,Market Analysis,Forex markets favor USD today.,170,91,94,Positive,Helpful,Successful,U10149,Institutional,South America,Tablet,14,False,10,Promoter
+296,2020-09-16 12:44,What's your take on XAU?,Market Analysis,XAU indicates investor confidence.,175,90,90,Positive,Helpful,Successful,U10154,Retail,North America,Mobile,10,False,10,Promoter
+297,2023-06-08 09:00,Should I diversify with Tesla?,Strategy Advice,Tesla stock remains volatile.,180,89,91,Negative,Needs improvement,Failed,U10149,Institutional,South America,Tablet,14,False,3,Detractor
+298,2020-02-27 16:09,Analysis of Gold?,Trading Bot Query,Gold is up due to inflation concerns.,185,88,92,Positive,Helpful,Successful,U10092,Retail,Middle East,Mobile,27,False,10,Promoter
+299,2020-09-03 10:57,Market outlook for Tesla?,Trading Bot Query,Tesla shows bullish signs.,190,87,93,Positive,Helpful,Successful,U10006,Retail,Middle East,Desktop,52,True,10,Promoter
+300,2022-11-08 16:18,What's the trend with Gold?,Risk Analysis,Gold is up due to inflation concerns.,195,86,94,Negative,Needs improvement,Failed,U10283,Retail,Europe,Mobile,55,False,3,Detractor
+301,2022-08-02 10:52,Should I buy or sell MSFT?,Buy Order,MSFT outlook is positive this quarter.,150,95,90,Negative,Needs improvement,Failed,U10151,Retail,Asia,Mobile,19,True,3,Detractor
+302,2021-01-28 13:23,Is MSFT safe to invest in?,Financial Advice,MSFT shows growth potential.,155,94,91,Negative,Needs improvement,Failed,U10290,Retail,North America,Mobile,55,False,3,Detractor
+303,2022-07-24 10:06,Market outlook for Oil?,Risk Analysis,Oil shows demand increase.,160,93,92,Positive,Helpful,Successful,U10064,Retail,Europe,Mobile,17,True,10,Promoter
+304,2020-01-28 11:42,Should I buy or sell Forex?,Market Analysis,Forex shows balanced trading.,165,92,93,Positive,Helpful,Successful,U10105,Institutional,Africa,Mobile,57,False,10,Promoter
+305,2021-06-12 16:39,Is GOOGL safe to invest in?,Technical Analysis,GOOGL remains a solid long-term pick.,170,91,94,Positive,Helpful,Successful,U10015,Retail,Europe,Mobile,37,False,10,Promoter
+306,2022-12-03 14:52,What's the trend with GBP?,Future Investment,GBP is gaining against EUR.,175,90,90,Neutral,Needs improvement,Failed,U10148,Retail,Asia,Mobile,37,False,7,Passive
+307,2022-03-04 15:25,Market outlook for Tesla?,Buy Order,Tesla stock remains volatile.,180,89,91,Positive,Helpful,Successful,U10264,VIP,Asia,Desktop,24,True,10,Promoter
+308,2023-05-27 15:44,What's the price of USD now?,Strategy Advice,USD remains stable.,185,88,92,Negative,Needs improvement,Failed,U10196,Retail,Europe,Mobile,41,False,3,Detractor
+309,2023-07-21 11:07,Is NASDAQ safe to invest in?,Risk Analysis,NASDAQ is rallying.,190,87,93,Positive,Helpful,Successful,U10141,Retail,Africa,Mobile,45,False,10,Promoter
+310,2021-12-24 09:54,How is Bonds trending today?,Market Analysis,Bond yields are increasing.,195,86,94,Positive,Helpful,Successful,U10161,Institutional,Asia,Desktop,59,True,10,Promoter
+311,2021-02-14 16:51,What's your take on GOOGL?,Cryptocurrency Update,GOOGL remains a solid long-term pick.,150,95,90,Positive,Helpful,Successful,U10254,Institutional,North America,Mobile,29,False,10,Promoter
+312,2024-11-15 11:39,How is NASDAQ trending today?,Price Check,NASDAQ is rallying.,155,94,91,Positive,Helpful,Successful,U10129,Retail,South America,Mobile,43,False,10,Promoter
+313,2023-06-20 09:55,Should I diversify with SPX?,Sell Order,SPX shows mixed market signals.,160,93,92,Negative,Needs improvement,Failed,U10264,VIP,Asia,Desktop,24,True,3,Detractor
+314,2021-08-16 10:56,What's the price of Forex now?,Risk Analysis,Forex markets favor USD today.,165,92,93,Neutral,Needs improvement,Failed,U10218,Retail,Asia,Desktop,57,False,7,Passive
+315,2023-08-02 10:16,Should I buy or sell GOOGL?,Forex Analysis,GOOGL stock is slightly volatile.,170,91,94,Positive,Helpful,Successful,U10229,Retail,North America,Mobile,48,False,10,Promoter
+316,2022-01-23 17:49,Any news on SPX?,Strategy Advice,SPX is trending upward.,175,90,90,Negative,Needs improvement,Failed,U10109,Retail,South America,Desktop,47,True,3,Detractor
+317,2024-12-19 12:42,Any news on SPX?,Buy Order,SPX shows mixed market signals.,180,89,91,Neutral,Needs improvement,Failed,U10120,Retail,South America,Tablet,26,False,7,Passive
+318,2022-09-17 10:27,What is your prediction for Tesla?,Sell Order,Tesla shows bullish signs.,185,88,92,Neutral,Needs improvement,Failed,U10171,Retail,North America,Desktop,8,False,7,Passive
+319,2021-08-12 15:09,What's the price of MSFT now?,Buy Order,MSFT shows growth potential.,190,87,93,Positive,Helpful,Successful,U10058,Retail,Europe,Mobile,20,False,10,Promoter
+320,2024-10-02 09:41,Should I buy or sell Equities?,Portfolio Management,Equity markets are stabilizing.,195,86,94,Negative,Needs improvement,Failed,U10165,Retail,North America,Mobile,8,False,3,Detractor
+321,2021-09-28 16:54,What's your take on ETH?,Financial Advice,ETH trading volume is decreasing.,150,95,90,Positive,Helpful,Successful,U10022,Retail,South America,Desktop,35,False,10,Promoter
+322,2023-03-03 16:20,What is your prediction for SPX?,Forex Analysis,SPX shows mixed market signals.,155,94,91,Positive,Helpful,Successful,U10151,Retail,Asia,Mobile,19,True,10,Promoter
+323,2021-06-09 09:32,Give me an update on USD.,Technical Analysis,USD is strengthening against other currencies.,160,93,92,Positive,Helpful,Successful,U10229,Retail,North America,Mobile,48,False,10,Promoter
+324,2021-09-21 15:25,What's the trend with Tesla?,Stock Prediction,Tesla stock remains volatile.,165,92,93,Negative,Needs improvement,Failed,U10083,VIP,Asia,Desktop,8,False,3,Detractor
+325,2021-02-15 16:51,What's the price of GOOGL now?,Financial Advice,GOOGL stock is slightly volatile.,170,91,94,Negative,Needs improvement,Failed,U10296,Retail,Middle East,Mobile,54,True,3,Detractor
+326,2024-08-03 16:28,Is NASDAQ safe to invest in?,Forex Analysis,NASDAQ shows investor optimism.,175,90,90,Neutral,Needs improvement,Failed,U10204,Institutional,North America,Desktop,3,False,7,Passive
+327,2022-02-16 09:06,How is ETH trending today?,Portfolio Management,ETH trading volume is decreasing.,180,89,91,Neutral,Needs improvement,Failed,U10035,Retail,North America,Desktop,4,True,7,Passive
+328,2023-07-02 17:35,What's your take on Tesla?,Stock Prediction,Tesla stock remains volatile.,185,88,92,Positive,Helpful,Successful,U10292,Retail,South America,Mobile,25,True,10,Promoter
+329,2020-02-26 13:56,Should I diversify with SPX?,Market Analysis,SPX shows mixed market signals.,190,87,93,Positive,Helpful,Successful,U10118,Retail,Europe,Desktop,48,False,10,Promoter
+330,2024-09-07 16:21,Should I diversify with Oil?,Forex Analysis,Oil shows demand increase.,195,86,94,Positive,Helpful,Successful,U10238,Retail,Middle East,Mobile,57,True,10,Promoter
+331,2022-01-27 12:54,Any news on Commodities?,Risk Analysis,Commodity markets are steady.,150,95,90,Negative,Needs improvement,Failed,U10101,Retail,North America,Mobile,46,True,3,Detractor
+332,2023-06-18 16:45,Market outlook for Bonds?,Market Analysis,Bond yields are increasing.,155,94,91,Positive,Helpful,Successful,U10281,Retail,Africa,Mobile,50,False,10,Promoter
+333,2022-12-15 10:06,Should I buy or sell MSFT?,Regulation Inquiry,MSFT outlook is positive this quarter.,160,93,92,Positive,Helpful,Successful,U10226,Institutional,South America,Mobile,18,False,10,Promoter
+334,2021-01-11 14:53,Is Oil safe to invest in?,Market Analysis,Oil prices are rising.,165,92,93,Negative,Needs improvement,Failed,U10059,VIP,South America,Mobile,53,False,3,Detractor
+335,2022-09-17 14:44,Market outlook for Oil?,Portfolio Management,Oil prices are rising.,170,91,94,Positive,Helpful,Successful,U10152,Retail,Europe,Desktop,5,False,10,Promoter
+336,2020-01-06 16:08,Should I buy or sell WTI?,Buy Order,WTI crude sees a price jump.,175,90,90,Positive,Helpful,Successful,U10150,Retail,North America,Mobile,36,True,10,Promoter
+337,2023-02-09 12:12,How is Bonds trending today?,Technical Analysis,Bond yields are increasing.,180,89,91,Positive,Helpful,Successful,U10013,Retail,Africa,Desktop,36,True,10,Promoter
+338,2020-07-07 16:52,Analysis of Bonds?,Portfolio Management,Bonds remain a safe haven.,185,88,92,Positive,Helpful,Successful,U10041,Institutional,North America,Mobile,35,False,10,Promoter
+339,2021-12-11 10:48,What's your take on Commodities?,Buy Order,Commodity markets are steady.,190,87,93,Negative,Needs improvement,Failed,U10099,VIP,Europe,Mobile,56,False,3,Detractor
+340,2023-01-21 10:49,Give me an update on Commodities.,Strategy Advice,Commodities show strong demand.,195,86,94,Positive,Helpful,Successful,U10142,Institutional,South America,Mobile,1,False,10,Promoter
+341,2023-08-22 17:08,Any news on Crypto?,Market Analysis,Volatility remains high in crypto.,150,95,90,Positive,Helpful,Successful,U10137,Retail,South America,Mobile,48,False,10,Promoter
+342,2023-01-17 09:35,What's the price of Oil now?,Future Investment,Oil prices are rising.,155,94,91,Positive,Helpful,Successful,U10181,VIP,Europe,Tablet,51,False,10,Promoter
+343,2023-10-16 17:49,What's the trend with XAU?,Financial Advice,XAU indicates investor confidence.,160,93,92,Positive,Helpful,Successful,U10154,Retail,North America,Mobile,10,False,10,Promoter
+344,2021-12-19 11:46,Analysis of AAPL?,Future Investment,AAPL stock remains steady.,165,92,93,Negative,Needs improvement,Failed,U10098,Institutional,Asia,Desktop,33,False,3,Detractor
+345,2021-02-13 14:32,Should I buy or sell BTC?,Future Investment,"BTC is bullish, buying recommended.",170,91,94,Negative,Needs improvement,Failed,U10183,Retail,North America,Desktop,7,False,3,Detractor
+346,2023-07-20 12:17,Should I diversify with SPX?,Financial Advice,SPX shows mixed market signals.,175,90,90,Positive,Helpful,Successful,U10048,Institutional,North America,Mobile,4,False,10,Promoter
+347,2023-06-10 16:51,Is GOOGL safe to invest in?,Stock Prediction,GOOGL remains a solid long-term pick.,180,89,91,Positive,Helpful,Successful,U10297,Institutional,Asia,Mobile,50,True,10,Promoter
+348,2021-03-14 17:19,Analysis of Crypto?,Sell Order,Volatility remains high in crypto.,185,88,92,Neutral,Needs improvement,Failed,U10221,VIP,Europe,Tablet,42,False,7,Passive
+349,2024-06-23 17:40,How is GBP trending today?,Sell Order,GBP trends show minor fluctuations.,190,87,93,Neutral,Needs improvement,Failed,U10089,VIP,South America,Desktop,19,False,7,Passive
+350,2021-04-07 13:43,Should I diversify with Crypto?,Future Investment,Volatility remains high in crypto.,195,86,94,Positive,Helpful,Successful,U10100,Retail,North America,Desktop,50,False,10,Promoter
+351,2022-11-05 11:32,Should I diversify with ETH?,Technical Analysis,ETH trading volume is decreasing.,150,95,90,Negative,Needs improvement,Failed,U10248,Institutional,Asia,Desktop,43,False,3,Detractor
+352,2024-12-21 14:45,Should I diversify with Forex?,Market Analysis,Forex markets favor USD today.,155,94,91,Positive,Helpful,Successful,U10159,Retail,Africa,Desktop,37,False,10,Promoter
+353,2020-06-18 16:37,Give me an update on Tesla.,Financial Advice,Tesla shows bullish signs.,160,93,92,Positive,Helpful,Successful,U10212,Institutional,Europe,Mobile,41,False,10,Promoter
+354,2024-11-23 15:43,Is BTC safe to invest in?,Market Analysis,"BTC is bullish, buying recommended.",165,92,93,Positive,Helpful,Successful,U10089,VIP,South America,Desktop,19,False,10,Promoter
+355,2024-05-28 15:51,How is Crypto trending today?,Sell Order,Volatility remains high in crypto.,170,91,94,Negative,Needs improvement,Failed,U10244,VIP,North America,Mobile,20,False,3,Detractor
+356,2020-09-04 09:24,Should I buy or sell BTC?,Forex Analysis,BTC shows positive momentum today.,175,90,90,Neutral,Needs improvement,Failed,U10110,Retail,North America,Desktop,2,False,7,Passive
+357,2021-01-22 09:12,What is your prediction for GBP?,Buy Order,GBP trends show minor fluctuations.,180,89,91,Negative,Needs improvement,Failed,U10202,Institutional,North America,Mobile,17,False,3,Detractor
+358,2022-03-10 13:09,Give me an update on Equities.,Sell Order,Equities are gaining after recent selloff.,185,88,92,Neutral,Needs improvement,Failed,U10293,Retail,South America,Desktop,58,True,7,Passive
+359,2020-12-26 13:13,Market outlook for AAPL?,Investment Planning,AAPL earnings beat expectations.,190,87,93,Negative,Needs improvement,Failed,U10175,Retail,North America,Desktop,55,False,3,Detractor
+360,2024-01-12 16:06,Is Bonds safe to invest in?,Market Analysis,Bond yields are increasing.,195,86,94,Positive,Helpful,Successful,U10239,Retail,Asia,Mobile,7,False,10,Promoter
+361,2024-11-24 17:55,Any news on Commodities?,Future Investment,Commodities show strong demand.,150,95,90,Negative,Needs improvement,Failed,U10217,Retail,Asia,Desktop,48,False,3,Detractor
+362,2021-12-21 17:24,Should I diversify with ETH?,Market Analysis,ETH is showing a downward trend.,155,94,91,Positive,Helpful,Successful,U10206,Retail,South America,Desktop,24,False,10,Promoter
+363,2021-09-26 13:44,Market outlook for BTC?,Financial Advice,"BTC is bullish, buying recommended.",160,93,92,Positive,Helpful,Successful,U10007,Retail,North America,Tablet,6,False,10,Promoter
+364,2020-07-13 15:50,Any news on Gold?,Buy Order,Gold is up due to inflation concerns.,165,92,93,Positive,Helpful,Successful,U10142,Institutional,South America,Mobile,1,False,10,Promoter
+365,2022-09-02 09:47,Should I buy or sell Gold?,Portfolio Management,Gold is up due to inflation concerns.,170,91,94,Positive,Helpful,Successful,U10290,Retail,North America,Mobile,55,False,10,Promoter
+366,2022-04-20 16:53,What's the price of Forex now?,Stock Prediction,Forex shows balanced trading.,175,90,90,Negative,Needs improvement,Failed,U10234,Institutional,Europe,Desktop,21,False,3,Detractor
+367,2021-11-23 14:48,Any news on Commodities?,Financial Advice,Commodity markets are steady.,180,89,91,Positive,Helpful,Successful,U10232,VIP,South America,Mobile,42,False,10,Promoter
+368,2024-09-24 12:49,What is your prediction for AAPL?,Buy Order,AAPL earnings beat expectations.,185,88,92,Positive,Helpful,Successful,U10173,Institutional,Europe,Mobile,31,True,10,Promoter
+369,2021-05-15 11:43,How is GOOGL trending today?,Cryptocurrency Update,GOOGL remains a solid long-term pick.,190,87,93,Positive,Helpful,Successful,U10216,Retail,Africa,Mobile,16,False,10,Promoter
+370,2020-03-06 17:07,Is USD safe to invest in?,Forex Analysis,USD is strengthening against other currencies.,195,86,94,Positive,Helpful,Successful,U10175,Retail,North America,Desktop,55,False,10,Promoter
+371,2023-01-14 13:35,What is your prediction for MSFT?,Buy Order,MSFT outlook is positive this quarter.,150,95,90,Neutral,Needs improvement,Failed,U10051,Retail,Asia,Desktop,16,False,7,Passive
+372,2022-03-06 13:00,Should I buy or sell XAU?,Portfolio Management,XAU indicates investor confidence.,155,94,91,Negative,Needs improvement,Failed,U10188,Retail,North America,Desktop,59,True,3,Detractor
+373,2022-08-23 11:02,How is MSFT trending today?,Future Investment,MSFT shows growth potential.,160,93,92,Positive,Helpful,Successful,U10185,Retail,South America,Mobile,40,False,10,Promoter
+374,2021-06-20 09:49,What is your prediction for Gold?,Risk Analysis,Investors are flocking to Gold.,165,92,93,Negative,Needs improvement,Failed,U10252,Retail,Asia,Mobile,20,False,3,Detractor
+375,2024-11-10 16:50,Analysis of USD?,Financial Advice,USD is strengthening against other currencies.,170,91,94,Positive,Helpful,Successful,U10044,Institutional,Africa,Tablet,55,True,10,Promoter
+376,2024-09-12 10:50,What's the price of Bonds now?,Sell Order,Bond yields are increasing.,175,90,90,Positive,Helpful,Successful,U10204,Institutional,North America,Desktop,3,False,10,Promoter
+377,2022-09-08 11:33,Any news on USD?,Buy Order,USD is strengthening against other currencies.,180,89,91,Negative,Needs improvement,Failed,U10009,Retail,South America,Desktop,6,False,3,Detractor
+378,2020-09-06 15:34,What's the price of ETH now?,Sell Order,ETH trading volume is decreasing.,185,88,92,Neutral,Needs improvement,Failed,U10284,VIP,Middle East,Mobile,38,False,7,Passive
+379,2024-07-03 14:14,What is your prediction for Commodities?,Strategy Advice,Commodity markets are steady.,190,87,93,Positive,Helpful,Successful,U10032,Retail,Asia,Desktop,13,False,10,Promoter
+380,2021-11-11 14:23,How is WTI trending today?,Portfolio Management,WTI crude sees a price jump.,195,86,94,Neutral,Needs improvement,Failed,U10005,Retail,North America,Desktop,7,True,7,Passive
+381,2022-04-25 17:30,Should I buy or sell Gold?,Market Analysis,Gold is up due to inflation concerns.,150,95,90,Positive,Helpful,Successful,U10094,Institutional,North America,Desktop,50,False,10,Promoter
+382,2024-11-01 10:42,Any news on XAU?,Buy Order,XAU indicates investor confidence.,155,94,91,Positive,Helpful,Successful,U10045,Retail,Asia,Desktop,58,True,10,Promoter
+383,2022-08-08 12:02,What's your take on GOOGL?,Stock Prediction,GOOGL stock is slightly volatile.,160,93,92,Positive,Helpful,Successful,U10207,VIP,Middle East,Mobile,53,False,10,Promoter
+384,2022-07-26 10:24,What's the price of GBP now?,Cryptocurrency Update,GBP is gaining against EUR.,165,92,93,Positive,Helpful,Successful,U10123,Retail,North America,Mobile,43,False,10,Promoter
+385,2022-09-24 13:01,Give me an update on Bonds.,Sell Order,Bond yields are increasing.,170,91,94,Positive,Helpful,Successful,U10232,VIP,South America,Mobile,42,False,10,Promoter
+386,2024-06-17 17:28,Should I diversify with EUR?,Strategy Advice,EUR is holding steady.,175,90,90,Positive,Helpful,Successful,U10276,Retail,Europe,Mobile,51,False,10,Promoter
+387,2023-01-10 12:20,Market outlook for Forex?,Sell Order,Forex shows balanced trading.,180,89,91,Positive,Helpful,Successful,U10261,Retail,Middle East,Mobile,2,False,10,Promoter
+388,2024-02-04 11:49,Is Commodities safe to invest in?,Sell Order,Commodities show strong demand.,185,88,92,Positive,Helpful,Successful,U10220,Retail,Europe,Tablet,55,False,10,Promoter
+389,2024-09-01 10:13,How is XAU trending today?,Future Investment,XAU indicates investor confidence.,190,87,93,Positive,Helpful,Successful,U10018,Retail,Middle East,Mobile,15,False,10,Promoter
+390,2021-11-14 10:13,What's the price of WTI now?,Stock Prediction,WTI crude sees a price jump.,195,86,94,Neutral,Needs improvement,Failed,U10041,Institutional,North America,Mobile,35,False,7,Passive
+391,2024-12-24 15:41,Market outlook for Crypto?,Sell Order,Volatility remains high in crypto.,150,95,90,Positive,Helpful,Successful,U10062,Retail,South America,Desktop,33,False,10,Promoter
+392,2020-12-22 11:01,What's your take on AAPL?,Forex Analysis,AAPL stock remains steady.,155,94,91,Positive,Helpful,Successful,U10097,Retail,Asia,Mobile,21,False,10,Promoter
+393,2023-12-11 09:05,Market outlook for BTC?,Risk Analysis,BTC shows positive momentum today.,160,93,92,Positive,Helpful,Successful,U10198,Retail,Europe,Mobile,19,False,10,Promoter
+394,2020-01-06 13:35,What's your take on EUR?,Market Analysis,EUR is holding steady.,165,92,93,Negative,Needs improvement,Failed,U10157,Institutional,Africa,Mobile,32,False,3,Detractor
+395,2020-10-27 12:58,What's the price of XAU now?,Market Analysis,XAU indicates investor confidence.,170,91,94,Negative,Needs improvement,Failed,U10094,Institutional,North America,Desktop,50,False,3,Detractor
+396,2022-07-13 16:40,Is Equities safe to invest in?,Stock Prediction,Equities are gaining after recent selloff.,175,90,90,Neutral,Needs improvement,Failed,U10051,Retail,Asia,Desktop,16,False,7,Passive
+397,2023-07-11 09:24,Analysis of GOOGL?,Sell Order,GOOGL remains a solid long-term pick.,180,89,91,Positive,Helpful,Successful,U10273,Retail,Europe,Mobile,18,False,10,Promoter
+398,2020-09-01 10:48,Give me an update on Crypto.,Technical Analysis,Crypto markets show mixed performance.,185,88,92,Negative,Needs improvement,Failed,U10102,Retail,Europe,Mobile,9,True,3,Detractor
+399,2024-01-23 10:22,Analysis of MSFT?,Stock Prediction,MSFT shows growth potential.,190,87,93,Positive,Helpful,Successful,U10106,Retail,North America,Mobile,49,False,10,Promoter
+400,2024-02-10 13:38,What is your prediction for Equities?,Buy Order,Equity markets are stabilizing.,195,86,94,Positive,Helpful,Successful,U10231,Retail,Asia,Tablet,3,False,10,Promoter
+401,2020-05-25 16:24,What's your take on Oil?,Stock Prediction,Oil shows demand increase.,150,95,90,Positive,Helpful,Successful,U10216,Retail,Africa,Mobile,16,False,10,Promoter
+402,2023-11-01 16:10,How is Forex trending today?,Buy Order,Forex shows balanced trading.,155,94,91,Neutral,Needs improvement,Failed,U10192,Retail,Asia,Desktop,11,True,7,Passive
+403,2024-04-05 15:50,Give me an update on MSFT.,Forex Analysis,MSFT outlook is positive this quarter.,160,93,92,Positive,Helpful,Successful,U10207,VIP,Middle East,Mobile,53,False,10,Promoter
+404,2024-05-21 11:19,Any news on Crypto?,Sell Order,Volatility remains high in crypto.,165,92,93,Positive,Helpful,Successful,U10183,Retail,North America,Desktop,7,False,10,Promoter
+405,2022-01-18 17:09,Should I buy or sell EUR?,Investment Planning,EUR is holding steady.,170,91,94,Positive,Helpful,Successful,U10057,Retail,Africa,Desktop,57,True,10,Promoter
+406,2020-01-01 15:34,Is Gold safe to invest in?,Price Check,Gold is up due to inflation concerns.,175,90,90,Negative,Needs improvement,Failed,U10073,Retail,North America,Desktop,25,False,3,Detractor
+407,2024-02-10 12:47,Is Oil safe to invest in?,Portfolio Management,Oil shows demand increase.,180,89,91,Positive,Helpful,Successful,U10167,Retail,North America,Mobile,40,False,10,Promoter
+408,2022-04-14 17:09,What's the price of BTC now?,Sell Order,"BTC is bullish, buying recommended.",185,88,92,Positive,Helpful,Successful,U10067,Retail,Europe,Mobile,24,False,10,Promoter
+409,2021-03-08 13:12,Market outlook for Bonds?,Buy Order,Bonds remain a safe haven.,190,87,93,Positive,Helpful,Successful,U10291,Retail,Asia,Desktop,34,True,10,Promoter
+410,2020-03-22 09:54,What is your prediction for USD?,Forex Analysis,USD is strengthening against other currencies.,195,86,94,Positive,Helpful,Successful,U10089,VIP,South America,Desktop,19,False,10,Promoter
+411,2024-08-21 17:04,What's the price of ETH now?,Price Check,ETH trading volume is decreasing.,150,95,90,Positive,Helpful,Successful,U10086,VIP,Asia,Mobile,36,False,10,Promoter
+412,2022-11-03 13:06,Market outlook for XAU?,Portfolio Management,XAU indicates investor confidence.,155,94,91,Negative,Needs improvement,Failed,U10062,Retail,South America,Desktop,33,False,3,Detractor
+413,2021-12-19 16:21,Should I diversify with XAU?,Financial Advice,Gold prices are increasing.,160,93,92,Positive,Helpful,Successful,U10211,Institutional,North America,Mobile,30,False,10,Promoter
+414,2022-03-22 12:06,Analysis of Commodities?,Sell Order,Commodity markets are steady.,165,92,93,Positive,Helpful,Successful,U10095,Institutional,North America,Desktop,45,False,10,Promoter
+415,2022-10-03 12:20,Any news on GBP?,Market Analysis,GBP is gaining against EUR.,170,91,94,Negative,Needs improvement,Failed,U10104,Retail,Europe,Mobile,27,False,3,Detractor
+416,2023-08-11 13:44,Should I diversify with Forex?,Market Analysis,Forex shows balanced trading.,175,90,90,Positive,Helpful,Successful,U10280,Retail,Europe,Mobile,34,False,10,Promoter
+417,2024-03-19 14:51,What is your prediction for ETH?,Risk Analysis,ETH trading volume is decreasing.,180,89,91,Positive,Helpful,Successful,U10238,Retail,Middle East,Mobile,57,True,10,Promoter
+418,2022-07-06 09:20,Should I buy or sell Crypto?,Market Analysis,Volatility remains high in crypto.,185,88,92,Negative,Needs improvement,Failed,U10082,Institutional,South America,Mobile,5,False,3,Detractor
+419,2021-04-23 15:17,Should I diversify with AAPL?,Forex Analysis,AAPL stock remains steady.,190,87,93,Positive,Helpful,Successful,U10036,VIP,Middle East,Mobile,16,True,10,Promoter
+420,2022-03-22 14:56,What is your prediction for AAPL?,Cryptocurrency Update,AAPL earnings beat expectations.,195,86,94,Positive,Helpful,Successful,U10202,Institutional,North America,Mobile,17,False,10,Promoter
+421,2023-08-15 14:49,What's your take on GOOGL?,Future Investment,GOOGL stock is slightly volatile.,150,95,90,Negative,Needs improvement,Failed,U10113,Retail,Middle East,Mobile,54,False,3,Detractor
+422,2022-08-18 10:11,Should I buy or sell Crypto?,Technical Analysis,Volatility remains high in crypto.,155,94,91,Positive,Helpful,Successful,U10294,Retail,Europe,Desktop,16,False,10,Promoter
+423,2024-02-27 13:54,What is your prediction for Gold?,Market Analysis,Gold is up due to inflation concerns.,160,93,92,Positive,Helpful,Successful,U10245,Retail,North America,Desktop,15,False,10,Promoter
+424,2021-09-07 13:46,Give me an update on Bonds.,Future Investment,Bonds remain a safe haven.,165,92,93,Positive,Helpful,Successful,U10286,Retail,Africa,Mobile,25,False,10,Promoter
+425,2020-12-03 09:54,Is WTI safe to invest in?,Buy Order,WTI is showing high volatility.,170,91,94,Positive,Helpful,Successful,U10241,Retail,Middle East,Mobile,7,False,10,Promoter
+426,2024-11-01 15:49,Analysis of WTI?,Risk Analysis,WTI crude sees a price jump.,175,90,90,Neutral,Needs improvement,Failed,U10087,Retail,North America,Desktop,39,False,7,Passive
+427,2024-04-02 17:16,Analysis of XAU?,Buy Order,Gold prices are increasing.,180,89,91,Positive,Helpful,Successful,U10086,VIP,Asia,Mobile,36,False,10,Promoter
+428,2024-09-16 11:23,What's the trend with Oil?,Strategy Advice,Oil shows demand increase.,185,88,92,Negative,Needs improvement,Failed,U10214,Retail,Asia,Desktop,41,False,3,Detractor
+429,2023-04-25 13:08,What is your prediction for EUR?,Future Investment,EUR is showing mild weakness today.,190,87,93,Positive,Helpful,Successful,U10103,Retail,North America,Mobile,27,False,10,Promoter
+430,2023-09-17 10:25,Analysis of WTI?,Trading Bot Query,WTI crude sees a price jump.,195,86,94,Positive,Helpful,Successful,U10132,Retail,Africa,Mobile,47,False,10,Promoter
+431,2022-09-01 12:54,Any news on GBP?,Future Investment,GBP is gaining against EUR.,150,95,90,Positive,Helpful,Successful,U10076,Retail,Middle East,Tablet,18,False,10,Promoter
+432,2024-11-06 17:08,Market outlook for Bonds?,Forex Analysis,Bond yields are increasing.,155,94,91,Positive,Helpful,Successful,U10143,Retail,Europe,Mobile,4,True,10,Promoter
+433,2023-03-06 11:47,Any news on BTC?,Strategy Advice,BTC shows positive momentum today.,160,93,92,Positive,Helpful,Successful,U10060,VIP,North America,Desktop,17,True,10,Promoter
+434,2023-06-02 12:48,What's the trend with MSFT?,Forex Analysis,MSFT shows growth potential.,165,92,93,Positive,Helpful,Successful,U10161,Institutional,Asia,Desktop,59,True,10,Promoter
+435,2023-04-03 13:23,Analysis of BTC?,Sell Order,BTC shows positive momentum today.,170,91,94,Neutral,Needs improvement,Failed,U10279,Institutional,Africa,Mobile,42,True,7,Passive
+436,2021-01-22 12:33,Should I diversify with Tesla?,Portfolio Management,Tesla stock remains volatile.,175,90,90,Negative,Needs improvement,Failed,U10208,VIP,Europe,Desktop,52,True,3,Detractor
+437,2022-07-16 16:56,What's the price of BTC now?,Risk Analysis,"BTC is bullish, buying recommended.",180,89,91,Positive,Helpful,Successful,U10041,Institutional,North America,Mobile,35,False,10,Promoter
+438,2020-01-21 14:06,Analysis of USD?,Forex Analysis,USD remains stable.,185,88,92,Negative,Needs improvement,Failed,U10184,Retail,South America,Mobile,42,False,3,Detractor
+439,2024-11-27 13:53,What's your take on Crypto?,Strategy Advice,Crypto markets show mixed performance.,190,87,93,Negative,Needs improvement,Failed,U10176,VIP,Asia,Desktop,19,False,3,Detractor
+440,2022-10-18 11:24,What's the trend with Tesla?,Cryptocurrency Update,Tesla shows bullish signs.,195,86,94,Negative,Needs improvement,Failed,U10072,Retail,Africa,Desktop,56,False,3,Detractor
+441,2023-06-19 10:33,What's your take on Crypto?,Portfolio Management,Volatility remains high in crypto.,150,95,90,Negative,Needs improvement,Failed,U10200,Institutional,South America,Tablet,59,False,3,Detractor
+442,2022-07-08 17:25,How is AAPL trending today?,Sell Order,AAPL stock remains steady.,155,94,91,Negative,Needs improvement,Failed,U10159,Retail,Africa,Desktop,37,False,3,Detractor
+443,2022-06-16 16:56,Is BTC safe to invest in?,Stock Prediction,BTC shows positive momentum today.,160,93,92,Negative,Needs improvement,Failed,U10191,Retail,North America,Mobile,28,True,3,Detractor
+444,2024-01-17 11:28,Analysis of Oil?,Portfolio Management,Oil shows demand increase.,165,92,93,Positive,Helpful,Successful,U10015,Retail,Europe,Mobile,37,False,10,Promoter
+445,2021-04-03 17:41,Analysis of GOOGL?,Strategy Advice,GOOGL remains a solid long-term pick.,170,91,94,Positive,Helpful,Successful,U10123,Retail,North America,Mobile,43,False,10,Promoter
+446,2022-04-05 11:10,Any news on Commodities?,Sell Order,Commodities show strong demand.,175,90,90,Positive,Helpful,Successful,U10215,VIP,Europe,Mobile,9,True,10,Promoter
+447,2022-10-23 10:42,Should I diversify with NASDAQ?,Sell Order,NASDAQ shows investor optimism.,180,89,91,Neutral,Needs improvement,Failed,U10030,Retail,South America,Desktop,9,False,7,Passive
+448,2021-07-26 14:46,What's your take on USD?,Forex Analysis,USD is strengthening against other currencies.,185,88,92,Positive,Helpful,Successful,U10231,Retail,Asia,Tablet,3,False,10,Promoter
+449,2020-08-22 16:30,What's the trend with BTC?,Price Check,BTC shows positive momentum today.,190,87,93,Negative,Needs improvement,Failed,U10001,Retail,South America,Mobile,38,False,3,Detractor
+450,2021-10-06 15:01,How is Oil trending today?,Risk Analysis,Oil shows demand increase.,195,86,94,Negative,Needs improvement,Failed,U10165,Retail,North America,Mobile,8,False,3,Detractor
+451,2021-01-05 11:08,Any news on GBP?,Technical Analysis,GBP is gaining against EUR.,150,95,90,Positive,Helpful,Successful,U10278,Retail,North America,Mobile,7,False,10,Promoter
+452,2024-01-19 11:03,Market outlook for BTC?,Financial Advice,"BTC is bullish, buying recommended.",155,94,91,Positive,Helpful,Successful,U10122,Institutional,Middle East,Desktop,8,False,10,Promoter
+453,2021-05-06 17:25,Give me an update on BTC.,Sentiment Analysis,BTC shows positive momentum today.,160,93,92,Negative,Needs improvement,Failed,U10280,Retail,Europe,Mobile,34,False,3,Detractor
+454,2024-10-21 09:56,What is your prediction for NASDAQ?,Sell Order,NASDAQ shows investor optimism.,165,92,93,Positive,Helpful,Successful,U10263,Retail,North America,Mobile,21,True,10,Promoter
+455,2022-02-07 16:38,Give me an update on AAPL.,Investment Planning,AAPL earnings beat expectations.,170,91,94,Positive,Helpful,Successful,U10143,Retail,Europe,Mobile,4,True,10,Promoter
+456,2023-08-06 12:53,Should I diversify with SPX?,Financial Advice,SPX shows mixed market signals.,175,90,90,Negative,Needs improvement,Failed,U10059,VIP,South America,Mobile,53,False,3,Detractor
+457,2023-10-05 11:39,What's the trend with EUR?,Buy Order,EUR is holding steady.,180,89,91,Neutral,Needs improvement,Failed,U10289,Retail,North America,Mobile,50,False,7,Passive
+458,2024-05-06 14:59,Give me an update on Tesla.,Stock Prediction,Tesla stock remains volatile.,185,88,92,Negative,Needs improvement,Failed,U10096,Retail,North America,Desktop,30,True,3,Detractor
+459,2023-10-19 10:14,Any news on ETH?,Price Check,ETH is showing a downward trend.,190,87,93,Positive,Helpful,Successful,U10193,Institutional,Europe,Desktop,32,False,10,Promoter
+460,2023-07-05 10:01,What is your prediction for Tesla?,Portfolio Management,Tesla shows bullish signs.,195,86,94,Positive,Helpful,Successful,U10272,VIP,Europe,Tablet,21,True,10,Promoter
+461,2021-09-28 17:43,What's the trend with Bonds?,Buy Order,Bond yields are increasing.,150,95,90,Negative,Needs improvement,Failed,U10026,Institutional,North America,Desktop,35,False,3,Detractor
+462,2023-03-20 10:11,Give me an update on BTC.,Portfolio Management,"BTC is bullish, buying recommended.",155,94,91,Positive,Helpful,Successful,U10172,Retail,Middle East,Mobile,46,True,10,Promoter
+463,2023-10-20 09:56,Give me an update on Commodities.,Stock Prediction,Commodity markets are steady.,160,93,92,Negative,Needs improvement,Failed,U10160,Retail,South America,Desktop,37,True,3,Detractor
+464,2024-09-25 10:05,How is XAU trending today?,Price Check,XAU indicates investor confidence.,165,92,93,Positive,Helpful,Successful,U10216,Retail,Africa,Mobile,16,False,10,Promoter
+465,2023-11-05 17:52,Should I diversify with Forex?,Sell Order,Forex shows balanced trading.,170,91,94,Positive,Helpful,Successful,U10281,Retail,Africa,Mobile,50,False,10,Promoter
+466,2020-11-21 15:33,Market outlook for USD?,Strategy Advice,USD is strengthening against other currencies.,175,90,90,Positive,Helpful,Successful,U10273,Retail,Europe,Mobile,18,False,10,Promoter
+467,2023-06-28 09:44,Is GBP safe to invest in?,Stock Prediction,GBP is gaining against EUR.,180,89,91,Negative,Needs improvement,Failed,U10052,VIP,Asia,Mobile,3,False,3,Detractor
+468,2024-07-08 16:50,Analysis of Equities?,Risk Analysis,Equities are gaining after recent selloff.,185,88,92,Positive,Helpful,Successful,U10264,VIP,Asia,Desktop,24,True,10,Promoter
+469,2023-06-19 10:27,Analysis of Bonds?,Technical Analysis,Bonds remain a safe haven.,190,87,93,Negative,Needs improvement,Failed,U10052,VIP,Asia,Mobile,3,False,3,Detractor
+470,2021-05-16 12:58,Should I diversify with USD?,Market Analysis,USD remains stable.,195,86,94,Positive,Helpful,Successful,U10275,Institutional,North America,Desktop,55,True,10,Promoter
+471,2020-05-20 17:26,How is Equities trending today?,Strategy Advice,Equities are gaining after recent selloff.,150,95,90,Negative,Needs improvement,Failed,U10299,Institutional,Middle East,Mobile,31,False,3,Detractor
+472,2022-04-01 09:36,Should I buy or sell AAPL?,Stock Prediction,AAPL stock remains steady.,155,94,91,Negative,Needs improvement,Failed,U10119,Institutional,North America,Mobile,38,True,3,Detractor
+473,2024-02-17 09:24,Should I buy or sell XAU?,Buy Order,XAU indicates investor confidence.,160,93,92,Positive,Helpful,Successful,U10148,Retail,Asia,Mobile,37,False,10,Promoter
+474,2021-12-26 14:26,Should I diversify with EUR?,Future Investment,EUR is showing mild weakness today.,165,92,93,Positive,Helpful,Successful,U10280,Retail,Europe,Mobile,34,False,10,Promoter
+475,2022-02-05 15:41,Is XAU safe to invest in?,Strategy Advice,Gold prices are increasing.,170,91,94,Positive,Helpful,Successful,U10288,VIP,North America,Desktop,33,False,10,Promoter
+476,2024-05-09 17:27,Give me an update on BTC.,Stock Prediction,BTC shows positive momentum today.,175,90,90,Positive,Helpful,Successful,U10277,Retail,Africa,Mobile,13,False,10,Promoter
+477,2024-06-20 13:43,What's the trend with Crypto?,Forex Analysis,Volatility remains high in crypto.,180,89,91,Negative,Needs improvement,Failed,U10263,Retail,North America,Mobile,21,True,3,Detractor
+478,2023-04-14 17:50,Should I diversify with XAU?,Volatility Forecast,XAU indicates investor confidence.,185,88,92,Positive,Helpful,Successful,U10002,Retail,North America,Mobile,2,False,10,Promoter
+479,2024-08-06 14:35,Analysis of Crypto?,Market Analysis,Crypto markets show mixed performance.,190,87,93,Positive,Helpful,Successful,U10170,Institutional,North America,Mobile,36,True,10,Promoter
+480,2024-08-09 13:36,Market outlook for BTC?,Forex Analysis,"BTC is bullish, buying recommended.",195,86,94,Negative,Needs improvement,Failed,U10032,Retail,Asia,Desktop,13,False,3,Detractor
+481,2022-12-13 11:54,What's your take on ETH?,Market Analysis,ETH is showing a downward trend.,150,95,90,Neutral,Needs improvement,Failed,U10294,Retail,Europe,Desktop,16,False,7,Passive
+482,2020-12-08 16:50,Any news on Gold?,Investment Planning,Gold is up due to inflation concerns.,155,94,91,Positive,Helpful,Successful,U10085,Retail,North America,Desktop,25,False,10,Promoter
+483,2021-02-07 17:25,What's your take on XAU?,Strategy Advice,Gold prices are increasing.,160,93,92,Positive,Helpful,Successful,U10296,Retail,Middle East,Mobile,54,True,10,Promoter
+484,2022-09-20 09:10,How is Forex trending today?,Price Check,Forex markets favor USD today.,165,92,93,Neutral,Needs improvement,Failed,U10162,VIP,Europe,Desktop,6,False,7,Passive
+485,2023-11-01 10:52,Market outlook for Tesla?,Future Investment,Tesla shows bullish signs.,170,91,94,Positive,Helpful,Successful,U10148,Retail,Asia,Mobile,37,False,10,Promoter
+486,2021-08-20 15:05,Any news on Forex?,Forex Analysis,Forex markets favor USD today.,175,90,90,Neutral,Needs improvement,Failed,U10281,Retail,Africa,Mobile,50,False,7,Passive
+487,2020-05-08 14:05,What's the price of EUR now?,Stock Prediction,EUR is holding steady.,180,89,91,Negative,Needs improvement,Failed,U10255,Retail,Europe,Mobile,49,False,3,Detractor
+488,2024-01-24 15:59,What's the price of XAU now?,Investment Planning,Gold prices are increasing.,185,88,92,Neutral,Needs improvement,Failed,U10140,Retail,Europe,Mobile,46,False,7,Passive
+489,2023-10-21 17:18,What's your take on Crypto?,Portfolio Management,Volatility remains high in crypto.,190,87,93,Positive,Helpful,Successful,U10057,Retail,Africa,Desktop,57,True,10,Promoter
+490,2024-01-25 11:40,Market outlook for WTI?,Market Analysis,WTI is showing high volatility.,195,86,94,Positive,Helpful,Successful,U10033,Retail,South America,Mobile,58,False,10,Promoter
+491,2023-08-01 12:54,What's the price of Commodities now?,Stock Prediction,Commodities show strong demand.,150,95,90,Negative,Needs improvement,Failed,U10048,Institutional,North America,Mobile,4,False,3,Detractor
+492,2024-05-07 09:50,Give me an update on WTI.,Forex Analysis,WTI is showing high volatility.,155,94,91,Positive,Helpful,Successful,U10137,Retail,South America,Mobile,48,False,10,Promoter
+493,2024-09-17 12:39,How is Equities trending today?,Technical Analysis,Equity markets are stabilizing.,160,93,92,Negative,Needs improvement,Failed,U10077,Retail,South America,Desktop,22,False,3,Detractor
+494,2021-11-02 14:15,What's the price of EUR now?,Strategy Advice,EUR is showing mild weakness today.,165,92,93,Positive,Helpful,Successful,U10055,Retail,Europe,Desktop,5,True,10,Promoter
+495,2020-03-03 13:49,What's the trend with Gold?,Stock Prediction,Investors are flocking to Gold.,170,91,94,Neutral,Needs improvement,Failed,U10220,Retail,Europe,Tablet,55,False,7,Passive
+496,2023-06-22 15:25,How is EUR trending today?,Market Analysis,EUR is showing mild weakness today.,175,90,90,Negative,Needs improvement,Failed,U10237,Retail,South America,Desktop,42,False,3,Detractor
+497,2024-04-17 09:47,Give me an update on USD.,Stock Prediction,USD is strengthening against other currencies.,180,89,91,Negative,Needs improvement,Failed,U10170,Institutional,North America,Mobile,36,True,3,Detractor
+498,2020-02-18 13:46,Any news on SPX?,Forex Analysis,SPX shows mixed market signals.,185,88,92,Negative,Needs improvement,Failed,U10227,Retail,North America,Mobile,12,True,3,Detractor
+499,2024-10-12 14:52,How is GOOGL trending today?,Future Investment,GOOGL stock is slightly volatile.,190,87,93,Positive,Helpful,Successful,U10052,VIP,Asia,Mobile,3,False,10,Promoter
+500,2022-04-20 12:29,What's the price of Tesla now?,Sell Order,Tesla stock remains volatile.,195,86,94,Positive,Helpful,Successful,U10256,Retail,North America,Desktop,38,False,10,Promoter
+501,2023-10-01 13:11,What's your take on BTC?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed,U10269,Retail,North America,Desktop,49,False,3,Detractor
+502,2023-09-04 17:04,Should I diversify with WTI?,Strategy Advice,WTI crude sees a price jump.,155,94,91,Negative,Needs improvement,Failed,U10248,Institutional,Asia,Desktop,43,False,3,Detractor
+503,2024-05-11 10:51,What is your prediction for EUR?,Forex Analysis,EUR is showing mild weakness today.,160,93,92,Positive,Helpful,Successful,U10154,Retail,North America,Mobile,10,False,10,Promoter
+504,2024-05-18 13:44,How is Tesla trending today?,Risk Analysis,Tesla stock remains volatile.,165,92,93,Negative,Needs improvement,Failed,U10026,Institutional,North America,Desktop,35,False,3,Detractor
+505,2023-07-19 16:49,Give me an update on WTI.,Cryptocurrency Update,WTI is showing high volatility.,170,91,94,Negative,Needs improvement,Failed,U10200,Institutional,South America,Tablet,59,False,3,Detractor
+506,2021-06-25 16:43,What's the price of WTI now?,Buy Order,WTI crude sees a price jump.,175,90,90,Positive,Helpful,Successful,U10055,Retail,Europe,Desktop,5,True,10,Promoter
+507,2023-10-28 09:30,Is EUR safe to invest in?,Portfolio Management,EUR is showing mild weakness today.,180,89,91,Positive,Helpful,Successful,U10042,Retail,Europe,Mobile,60,True,10,Promoter
+508,2020-05-03 15:40,How is Bonds trending today?,Market Analysis,Bond yields are increasing.,185,88,92,Positive,Helpful,Successful,U10097,Retail,Asia,Mobile,21,False,10,Promoter
+509,2021-11-23 12:51,Should I diversify with Oil?,Strategy Advice,Oil shows demand increase.,190,87,93,Positive,Helpful,Successful,U10074,Institutional,North America,Desktop,30,False,10,Promoter
+510,2022-07-12 17:34,How is Oil trending today?,Strategy Advice,Oil prices are rising.,195,86,94,Positive,Helpful,Successful,U10078,Retail,Africa,Mobile,17,True,10,Promoter
+511,2020-12-27 13:15,Should I diversify with GOOGL?,Financial Advice,GOOGL stock is slightly volatile.,150,95,90,Positive,Helpful,Successful,U10070,Institutional,North America,Tablet,56,True,10,Promoter
+512,2022-02-13 14:04,How is ETH trending today?,Forex Analysis,ETH is showing a downward trend.,155,94,91,Positive,Helpful,Successful,U10226,Institutional,South America,Mobile,18,False,10,Promoter
+513,2024-03-16 14:22,What's the price of Commodities now?,Price Check,Commodities show strong demand.,160,93,92,Positive,Helpful,Successful,U10286,Retail,Africa,Mobile,25,False,10,Promoter
+514,2021-10-09 11:47,Any news on AAPL?,Financial Advice,AAPL earnings beat expectations.,165,92,93,Negative,Needs improvement,Failed,U10090,Institutional,Europe,Desktop,49,True,3,Detractor
+515,2021-08-24 12:15,Should I buy or sell ETH?,Future Investment,ETH is showing a downward trend.,170,91,94,Positive,Helpful,Successful,U10216,Retail,Africa,Mobile,16,False,10,Promoter
+516,2021-05-07 12:12,Market outlook for ETH?,Financial Advice,ETH is showing a downward trend.,175,90,90,Negative,Needs improvement,Failed,U10003,Institutional,South America,Mobile,29,False,3,Detractor
+517,2021-10-12 11:49,What is your prediction for Bonds?,Buy Order,Bonds remain a safe haven.,180,89,91,Positive,Helpful,Successful,U10196,Retail,Europe,Mobile,41,False,10,Promoter
+518,2020-02-03 16:39,Analysis of Gold?,Buy Order,Gold is up due to inflation concerns.,185,88,92,Positive,Helpful,Successful,U10207,VIP,Middle East,Mobile,53,False,10,Promoter
+519,2020-09-02 16:23,How is GOOGL trending today?,Forex Analysis,GOOGL remains a solid long-term pick.,190,87,93,Negative,Needs improvement,Failed,U10018,Retail,Middle East,Mobile,15,False,3,Detractor
+520,2024-06-16 13:31,Analysis of ETH?,Market Analysis,ETH is showing a downward trend.,195,86,94,Positive,Helpful,Successful,U10035,Retail,North America,Desktop,4,True,10,Promoter
+521,2021-09-09 15:14,Is ETH safe to invest in?,Portfolio Management,ETH is showing a downward trend.,150,95,90,Neutral,Needs improvement,Failed,U10092,Retail,Middle East,Mobile,27,False,7,Passive
+522,2024-03-02 17:51,What is your prediction for Commodities?,Cryptocurrency Update,Commodity markets are steady.,155,94,91,Positive,Helpful,Successful,U10121,Retail,Asia,Desktop,16,True,10,Promoter
+523,2023-08-18 09:32,What's your take on GOOGL?,Strategy Advice,GOOGL stock is slightly volatile.,160,93,92,Positive,Helpful,Successful,U10150,Retail,North America,Mobile,36,True,10,Promoter
+524,2022-07-28 11:29,Should I diversify with Gold?,Forex Analysis,Gold is up due to inflation concerns.,165,92,93,Negative,Needs improvement,Failed,U10268,Retail,Africa,Desktop,10,True,3,Detractor
+525,2020-12-17 16:20,Give me an update on Bonds.,Market Analysis,Bond yields are increasing.,170,91,94,Positive,Helpful,Successful,U10211,Institutional,North America,Mobile,30,False,10,Promoter
+526,2020-01-22 12:24,Analysis of Bonds?,Portfolio Management,Bond yields are increasing.,175,90,90,Neutral,Needs improvement,Failed,U10093,Retail,South America,Mobile,26,True,7,Passive
+527,2024-02-11 14:39,What's the price of Oil now?,Strategy Advice,Oil shows demand increase.,180,89,91,Neutral,Needs improvement,Failed,U10035,Retail,North America,Desktop,4,True,7,Passive
+528,2022-03-18 13:15,What's your take on Oil?,Future Investment,Oil shows demand increase.,185,88,92,Positive,Helpful,Successful,U10274,Retail,North America,Mobile,3,True,10,Promoter
+529,2022-08-20 14:23,What's your take on Bonds?,Strategy Advice,Bonds remain a safe haven.,190,87,93,Positive,Helpful,Successful,U10088,Retail,Europe,Mobile,31,False,10,Promoter
+530,2021-08-14 12:26,Should I diversify with GOOGL?,Stock Prediction,GOOGL stock is slightly volatile.,195,86,94,Positive,Helpful,Successful,U10184,Retail,South America,Mobile,42,False,10,Promoter
+531,2022-06-28 15:17,Any news on BTC?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed,U10065,Retail,South America,Mobile,8,True,3,Detractor
+532,2023-03-19 11:36,Market outlook for Forex?,Stock Prediction,Forex shows balanced trading.,155,94,91,Negative,Needs improvement,Failed,U10040,Institutional,Africa,Mobile,26,False,3,Detractor
+533,2021-02-24 13:51,Any news on Equities?,Financial Advice,Equity markets are stabilizing.,160,93,92,Positive,Helpful,Successful,U10045,Retail,Asia,Desktop,58,True,10,Promoter
+534,2021-09-14 15:12,Give me an update on GOOGL.,Cryptocurrency Update,GOOGL remains a solid long-term pick.,165,92,93,Positive,Helpful,Successful,U10224,Retail,Africa,Desktop,14,True,10,Promoter
+535,2021-12-05 16:51,How is BTC trending today?,Investment Planning,"BTC is bullish, buying recommended.",170,91,94,Negative,Needs improvement,Failed,U10181,VIP,Europe,Tablet,51,False,3,Detractor
+536,2020-03-14 16:08,Should I diversify with AAPL?,Price Check,AAPL stock remains steady.,175,90,90,Positive,Helpful,Successful,U10124,Retail,Europe,Desktop,53,False,10,Promoter
+537,2024-09-24 14:50,Should I diversify with GBP?,Portfolio Management,GBP is gaining against EUR.,180,89,91,Positive,Helpful,Successful,U10164,Institutional,Europe,Tablet,53,False,10,Promoter
+538,2023-05-09 17:54,Should I diversify with MSFT?,Strategy Advice,MSFT outlook is positive this quarter.,185,88,92,Positive,Helpful,Successful,U10141,Retail,Africa,Mobile,45,False,10,Promoter
+539,2024-01-13 10:44,Analysis of Forex?,Strategy Advice,Forex markets favor USD today.,190,87,93,Positive,Helpful,Successful,U10161,Institutional,Asia,Desktop,59,True,10,Promoter
+540,2021-01-07 13:30,What is your prediction for NASDAQ?,Buy Order,NASDAQ shows investor optimism.,195,86,94,Negative,Needs improvement,Failed,U10199,Retail,Africa,Desktop,18,True,3,Detractor
+541,2020-08-24 14:16,What's your take on Tesla?,Sell Order,Tesla shows bullish signs.,150,95,90,Positive,Helpful,Successful,U10065,Retail,South America,Mobile,8,True,10,Promoter
+542,2022-06-18 17:59,What's the trend with Bonds?,Market Analysis,Bonds remain a safe haven.,155,94,91,Positive,Helpful,Successful,U10074,Institutional,North America,Desktop,30,False,10,Promoter
+543,2022-06-01 15:07,Market outlook for USD?,Price Check,USD remains stable.,160,93,92,Positive,Helpful,Successful,U10226,Institutional,South America,Mobile,18,False,10,Promoter
+544,2022-11-20 12:36,Give me an update on MSFT.,Price Check,MSFT outlook is positive this quarter.,165,92,93,Negative,Needs improvement,Failed,U10261,Retail,Middle East,Mobile,2,False,3,Detractor
+545,2024-11-21 17:11,What's the price of ETH now?,Market Analysis,ETH is showing a downward trend.,170,91,94,Negative,Needs improvement,Failed,U10024,VIP,Middle East,Mobile,33,False,3,Detractor
+546,2022-06-11 17:31,Should I buy or sell SPX?,Risk Analysis,SPX shows mixed market signals.,175,90,90,Neutral,Needs improvement,Failed,U10134,Institutional,North America,Mobile,45,True,7,Passive
+547,2023-02-13 13:29,Should I diversify with Gold?,Future Investment,Gold is up due to inflation concerns.,180,89,91,Neutral,Needs improvement,Failed,U10211,Institutional,North America,Mobile,30,False,7,Passive
+548,2021-03-21 14:26,Is NASDAQ safe to invest in?,Price Check,NASDAQ is rallying.,185,88,92,Negative,Needs improvement,Failed,U10023,Institutional,Europe,Mobile,11,False,3,Detractor
+549,2024-10-13 10:05,What is your prediction for Equities?,Investment Planning,Equities are gaining after recent selloff.,190,87,93,Negative,Needs improvement,Failed,U10169,Retail,Middle East,Mobile,2,False,3,Detractor
+550,2021-06-08 14:20,Is MSFT safe to invest in?,Risk Analysis,MSFT shows growth potential.,195,86,94,Negative,Needs improvement,Failed,U10018,Retail,Middle East,Mobile,15,False,3,Detractor
+551,2022-12-09 15:17,Should I buy or sell Tesla?,Stock Prediction,Tesla stock remains volatile.,150,95,90,Negative,Needs improvement,Failed,U10164,Institutional,Europe,Tablet,53,False,3,Detractor
+552,2023-06-24 17:28,What is your prediction for Bonds?,Strategy Advice,Bonds remain a safe haven.,155,94,91,Positive,Helpful,Successful,U10151,Retail,Asia,Mobile,19,True,10,Promoter
+553,2023-03-06 09:08,Any news on SPX?,Sentiment Analysis,SPX is trending upward.,160,93,92,Positive,Helpful,Successful,U10171,Retail,North America,Desktop,8,False,10,Promoter
+554,2021-11-09 10:13,Any news on BTC?,Portfolio Management,BTC shows positive momentum today.,165,92,93,Positive,Helpful,Successful,U10044,Institutional,Africa,Tablet,55,True,10,Promoter
+555,2021-07-04 10:04,Is Equities safe to invest in?,Stock Prediction,Equity markets are stabilizing.,170,91,94,Negative,Needs improvement,Failed,U10098,Institutional,Asia,Desktop,33,False,3,Detractor
+556,2023-09-02 09:49,Analysis of MSFT?,Financial Advice,MSFT outlook is positive this quarter.,175,90,90,Positive,Helpful,Successful,U10156,Institutional,Africa,Mobile,30,False,10,Promoter
+557,2023-09-25 10:06,What's the price of EUR now?,Strategy Advice,EUR is holding steady.,180,89,91,Negative,Needs improvement,Failed,U10034,Retail,North America,Mobile,38,False,3,Detractor
+558,2022-10-05 10:41,Is Crypto safe to invest in?,Forex Analysis,Volatility remains high in crypto.,185,88,92,Positive,Helpful,Successful,U10061,Retail,Asia,Mobile,39,True,10,Promoter
+559,2023-05-08 12:47,What's the price of Gold now?,Sentiment Analysis,Gold is up due to inflation concerns.,190,87,93,Negative,Needs improvement,Failed,U10174,Retail,Europe,Tablet,33,False,3,Detractor
+560,2022-08-21 11:08,Any news on GBP?,Portfolio Management,GBP trends show minor fluctuations.,195,86,94,Neutral,Needs improvement,Failed,U10027,VIP,Africa,Mobile,32,True,7,Passive
+561,2024-03-01 09:42,Give me an update on GBP.,Market Analysis,GBP trends show minor fluctuations.,150,95,90,Neutral,Needs improvement,Failed,U10153,VIP,South America,Desktop,43,False,7,Passive
+562,2022-06-28 16:29,How is WTI trending today?,Sell Order,WTI is showing high volatility.,155,94,91,Positive,Helpful,Successful,U10242,Retail,North America,Mobile,36,False,10,Promoter
+563,2024-05-18 16:08,Give me an update on Tesla.,Financial Advice,Tesla shows bullish signs.,160,93,92,Negative,Needs improvement,Failed,U10136,Institutional,Europe,Desktop,18,False,3,Detractor
+564,2024-03-19 16:40,What's the trend with Oil?,Market Analysis,Oil shows demand increase.,165,92,93,Neutral,Needs improvement,Failed,U10153,VIP,South America,Desktop,43,False,7,Passive
+565,2024-07-17 17:19,Should I diversify with WTI?,Sentiment Analysis,WTI crude sees a price jump.,170,91,94,Positive,Helpful,Successful,U10137,Retail,South America,Mobile,48,False,10,Promoter
+566,2022-08-18 12:51,Should I diversify with Equities?,Market Analysis,Equities are gaining after recent selloff.,175,90,90,Negative,Needs improvement,Failed,U10017,Retail,North America,Desktop,35,True,3,Detractor
+567,2020-08-10 14:26,Any news on Bonds?,Financial Advice,Bond yields are increasing.,180,89,91,Positive,Helpful,Successful,U10138,Institutional,North America,Mobile,31,True,10,Promoter
+568,2022-03-10 09:00,What is your prediction for Gold?,Buy Order,Gold is up due to inflation concerns.,185,88,92,Positive,Helpful,Successful,U10242,Retail,North America,Mobile,36,False,10,Promoter
+569,2024-03-12 13:30,Any news on USD?,Sell Order,USD remains stable.,190,87,93,Positive,Helpful,Successful,U10216,Retail,Africa,Mobile,16,False,10,Promoter
+570,2024-01-23 16:48,How is Oil trending today?,Strategy Advice,Oil shows demand increase.,195,86,94,Negative,Needs improvement,Failed,U10118,Retail,Europe,Desktop,48,False,3,Detractor
+571,2023-05-01 15:51,What's the price of Tesla now?,Financial Advice,Tesla shows bullish signs.,150,95,90,Positive,Helpful,Successful,U10244,VIP,North America,Mobile,20,False,10,Promoter
+572,2022-10-08 09:35,Give me an update on BTC.,Financial Advice,BTC shows positive momentum today.,155,94,91,Negative,Needs improvement,Failed,U10223,Retail,North America,Desktop,2,True,3,Detractor
+573,2022-04-14 17:27,Analysis of EUR?,Sell Order,EUR is holding steady.,160,93,92,Positive,Helpful,Successful,U10173,Institutional,Europe,Mobile,31,True,10,Promoter
+574,2023-04-06 15:53,What's the trend with EUR?,Strategy Advice,EUR is showing mild weakness today.,165,92,93,Positive,Helpful,Successful,U10013,Retail,Africa,Desktop,36,True,10,Promoter
+575,2023-04-09 10:27,Market outlook for Bonds?,Buy Order,Bond yields are increasing.,170,91,94,Positive,Helpful,Successful,U10103,Retail,North America,Mobile,27,False,10,Promoter
+576,2021-09-25 13:18,Give me an update on EUR.,Future Investment,EUR is showing mild weakness today.,175,90,90,Positive,Helpful,Successful,U10019,Retail,Asia,Desktop,56,True,10,Promoter
+577,2024-05-14 12:54,Market outlook for WTI?,Financial Advice,WTI crude sees a price jump.,180,89,91,Negative,Needs improvement,Failed,U10298,Retail,Asia,Tablet,53,True,3,Detractor
+578,2020-03-05 13:07,What's the trend with Commodities?,Financial Advice,Commodities show strong demand.,185,88,92,Positive,Helpful,Successful,U10280,Retail,Europe,Mobile,34,False,10,Promoter
+579,2023-10-15 13:44,Give me an update on Commodities.,Sell Order,Commodities show strong demand.,190,87,93,Negative,Needs improvement,Failed,U10020,Institutional,South America,Mobile,5,False,3,Detractor
+580,2024-08-07 14:01,Should I buy or sell BTC?,Strategy Advice,"BTC is bullish, buying recommended.",195,86,94,Negative,Needs improvement,Failed,U10280,Retail,Europe,Mobile,34,False,3,Detractor
+581,2021-01-18 09:11,Any news on BTC?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed,U10009,Retail,South America,Desktop,6,False,3,Detractor
+582,2020-05-09 11:45,How is NASDAQ trending today?,Strategy Advice,NASDAQ is rallying.,155,94,91,Negative,Needs improvement,Failed,U10122,Institutional,Middle East,Desktop,8,False,3,Detractor
+583,2023-12-01 12:05,What's the price of Crypto now?,Financial Advice,Crypto markets show mixed performance.,160,93,92,Negative,Needs improvement,Failed,U10230,Retail,North America,Mobile,24,False,3,Detractor
+584,2021-01-16 12:21,How is MSFT trending today?,Strategy Advice,MSFT outlook is positive this quarter.,165,92,93,Neutral,Needs improvement,Failed,U10229,Retail,North America,Mobile,48,False,7,Passive
+585,2023-05-26 16:23,What is your prediction for Oil?,Buy Order,Oil prices are rising.,170,91,94,Neutral,Needs improvement,Failed,U10293,Retail,South America,Desktop,58,True,7,Passive
+586,2023-12-26 09:21,Give me an update on Equities.,Sell Order,Equities are gaining after recent selloff.,175,90,90,Negative,Needs improvement,Failed,U10193,Institutional,Europe,Desktop,32,False,3,Detractor
+587,2020-03-02 13:49,Any news on ETH?,Financial Advice,ETH trading volume is decreasing.,180,89,91,Positive,Helpful,Successful,U10126,Retail,South America,Tablet,18,False,10,Promoter
+588,2023-02-18 16:11,What's the price of GBP now?,Forex Analysis,GBP trends show minor fluctuations.,185,88,92,Positive,Helpful,Successful,U10297,Institutional,Asia,Mobile,50,True,10,Promoter
+589,2021-05-27 15:53,Give me an update on SPX.,Stock Prediction,SPX shows mixed market signals.,190,87,93,Positive,Helpful,Successful,U10114,Institutional,Asia,Desktop,4,False,10,Promoter
+590,2020-02-25 12:24,Should I buy or sell EUR?,Cryptocurrency Update,EUR is holding steady.,195,86,94,Positive,Helpful,Successful,U10260,Retail,North America,Mobile,43,False,10,Promoter
+591,2023-04-24 09:12,What is your prediction for USD?,Market Analysis,USD is strengthening against other currencies.,150,95,90,Negative,Needs improvement,Failed,U10272,VIP,Europe,Tablet,21,True,3,Detractor
+592,2023-12-25 10:33,Any news on Crypto?,Stock Prediction,Crypto markets show mixed performance.,155,94,91,Positive,Helpful,Successful,U10112,Retail,North America,Mobile,14,False,10,Promoter
+593,2021-08-13 13:59,Give me an update on USD.,Future Investment,USD is strengthening against other currencies.,160,93,92,Positive,Helpful,Successful,U10204,Institutional,North America,Desktop,3,False,10,Promoter
+594,2022-03-21 09:47,Give me an update on BTC.,Price Check,"BTC is bullish, buying recommended.",165,92,93,Positive,Helpful,Successful,U10198,Retail,Europe,Mobile,19,False,10,Promoter
+595,2024-09-04 13:30,Should I buy or sell XAU?,Forex Analysis,XAU indicates investor confidence.,170,91,94,Negative,Needs improvement,Failed,U10161,Institutional,Asia,Desktop,59,True,3,Detractor
+596,2022-04-12 09:55,How is BTC trending today?,Financial Advice,BTC shows positive momentum today.,175,90,90,Positive,Helpful,Successful,U10196,Retail,Europe,Mobile,41,False,10,Promoter
+597,2021-02-08 15:20,Analysis of MSFT?,Sell Order,MSFT outlook is positive this quarter.,180,89,91,Negative,Needs improvement,Failed,U10104,Retail,Europe,Mobile,27,False,3,Detractor
+598,2020-03-26 13:37,What's your take on GOOGL?,Cryptocurrency Update,GOOGL remains a solid long-term pick.,185,88,92,Positive,Helpful,Successful,U10053,Retail,Asia,Mobile,60,True,10,Promoter
+599,2020-07-26 12:00,Any news on GBP?,Forex Analysis,GBP trends show minor fluctuations.,190,87,93,Negative,Needs improvement,Failed,U10161,Institutional,Asia,Desktop,59,True,3,Detractor
+600,2020-10-26 16:44,What is your prediction for Oil?,Buy Order,Oil prices are rising.,195,86,94,Neutral,Needs improvement,Failed,U10158,Retail,Middle East,Desktop,39,True,7,Passive
+601,2024-03-12 10:15,Give me an update on NASDAQ.,Investment Planning,NASDAQ shows investor optimism.,150,95,90,Neutral,Needs improvement,Failed,U10218,Retail,Asia,Desktop,57,False,7,Passive
+602,2021-08-03 14:59,Any news on USD?,Risk Analysis,USD is strengthening against other currencies.,155,94,91,Positive,Helpful,Successful,U10066,Institutional,Africa,Mobile,54,False,10,Promoter
+603,2020-01-12 11:44,Is Bonds safe to invest in?,Stock Prediction,Bonds remain a safe haven.,160,93,92,Positive,Helpful,Successful,U10001,Retail,South America,Mobile,38,False,10,Promoter
+604,2024-02-05 16:14,What's your take on AAPL?,Strategy Advice,AAPL stock remains steady.,165,92,93,Neutral,Needs improvement,Failed,U10006,Retail,Middle East,Desktop,52,True,7,Passive
+605,2022-09-26 14:51,How is MSFT trending today?,Price Check,MSFT shows growth potential.,170,91,94,Positive,Helpful,Successful,U10089,VIP,South America,Desktop,19,False,10,Promoter
+606,2023-12-07 09:44,Should I buy or sell GBP?,Sell Order,GBP is gaining against EUR.,175,90,90,Positive,Helpful,Successful,U10202,Institutional,North America,Mobile,17,False,10,Promoter
+607,2023-06-24 11:16,Give me an update on Crypto.,Risk Analysis,Volatility remains high in crypto.,180,89,91,Positive,Helpful,Successful,U10163,Retail,Europe,Mobile,11,False,10,Promoter
+608,2020-08-23 16:35,What's your take on NASDAQ?,Sell Order,NASDAQ is rallying.,185,88,92,Positive,Helpful,Successful,U10159,Retail,Africa,Desktop,37,False,10,Promoter
+609,2022-09-23 16:12,Any news on Bonds?,Price Check,Bonds remain a safe haven.,190,87,93,Positive,Helpful,Successful,U10247,Institutional,Middle East,Tablet,53,False,10,Promoter
+610,2024-03-18 14:20,What's your take on EUR?,Portfolio Management,EUR is holding steady.,195,86,94,Positive,Helpful,Successful,U10074,Institutional,North America,Desktop,30,False,10,Promoter
+611,2023-05-28 17:10,What's the price of Bonds now?,Forex Analysis,Bond yields are increasing.,150,95,90,Neutral,Needs improvement,Failed,U10103,Retail,North America,Mobile,27,False,7,Passive
+612,2020-09-05 16:18,Should I diversify with GBP?,Investment Planning,GBP is gaining against EUR.,155,94,91,Positive,Helpful,Successful,U10082,Institutional,South America,Mobile,5,False,10,Promoter
+613,2022-09-12 16:00,Is SPX safe to invest in?,Financial Advice,SPX shows mixed market signals.,160,93,92,Positive,Helpful,Successful,U10281,Retail,Africa,Mobile,50,False,10,Promoter
+614,2024-07-24 11:56,Should I buy or sell WTI?,Market Analysis,WTI is showing high volatility.,165,92,93,Positive,Helpful,Successful,U10217,Retail,Asia,Desktop,48,False,10,Promoter
+615,2020-10-28 14:49,Give me an update on ETH.,Strategy Advice,ETH is showing a downward trend.,170,91,94,Negative,Needs improvement,Failed,U10033,Retail,South America,Mobile,58,False,3,Detractor
+616,2024-04-11 10:42,Analysis of XAU?,Strategy Advice,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed,U10242,Retail,North America,Mobile,36,False,3,Detractor
+617,2024-07-07 17:43,Should I buy or sell Forex?,Stock Prediction,Forex shows balanced trading.,180,89,91,Positive,Helpful,Successful,U10125,Retail,Europe,Desktop,30,False,10,Promoter
+618,2023-09-05 13:20,Should I diversify with Tesla?,Financial Advice,Tesla shows bullish signs.,185,88,92,Positive,Helpful,Successful,U10229,Retail,North America,Mobile,48,False,10,Promoter
+619,2023-11-11 10:06,Give me an update on AAPL.,Forex Analysis,AAPL stock remains steady.,190,87,93,Negative,Needs improvement,Failed,U10265,Institutional,North America,Mobile,34,True,3,Detractor
+620,2024-11-03 09:53,Market outlook for Bonds?,Sell Order,Bonds remain a safe haven.,195,86,94,Positive,Helpful,Successful,U10004,Institutional,North America,Desktop,45,False,10,Promoter
+621,2021-03-28 09:12,How is USD trending today?,Sell Order,USD remains stable.,150,95,90,Negative,Needs improvement,Failed,U10061,Retail,Asia,Mobile,39,True,3,Detractor
+622,2020-08-07 10:02,Is Commodities safe to invest in?,Price Check,Commodities show strong demand.,155,94,91,Positive,Helpful,Successful,U10030,Retail,South America,Desktop,9,False,10,Promoter
+623,2024-11-27 15:42,Analysis of Forex?,Strategy Advice,Forex markets favor USD today.,160,93,92,Positive,Helpful,Successful,U10010,Institutional,Europe,Mobile,54,False,10,Promoter
+624,2023-09-20 13:03,Any news on Tesla?,Portfolio Management,Tesla stock remains volatile.,165,92,93,Positive,Helpful,Successful,U10179,VIP,Middle East,Tablet,16,False,10,Promoter
+625,2022-04-20 10:00,Is Oil safe to invest in?,Financial Advice,Oil prices are rising.,170,91,94,Positive,Helpful,Successful,U10210,Institutional,Europe,Desktop,36,False,10,Promoter
+626,2021-11-16 10:29,Should I buy or sell WTI?,Stock Prediction,WTI crude sees a price jump.,175,90,90,Positive,Helpful,Successful,U10014,Retail,South America,Mobile,53,True,10,Promoter
+627,2020-06-18 15:52,What's the trend with NASDAQ?,Price Check,NASDAQ is rallying.,180,89,91,Positive,Helpful,Successful,U10222,Retail,North America,Mobile,55,False,10,Promoter
+628,2022-12-02 13:33,Is Tesla safe to invest in?,Market Analysis,Tesla shows bullish signs.,185,88,92,Positive,Helpful,Successful,U10120,Retail,South America,Tablet,26,False,10,Promoter
+629,2020-12-03 13:04,What's the trend with Tesla?,Portfolio Management,Tesla shows bullish signs.,190,87,93,Positive,Helpful,Successful,U10070,Institutional,North America,Tablet,56,True,10,Promoter
+630,2021-09-04 10:46,Market outlook for XAU?,Technical Analysis,XAU indicates investor confidence.,195,86,94,Negative,Needs improvement,Failed,U10065,Retail,South America,Mobile,8,True,3,Detractor
+631,2021-09-13 12:12,Should I diversify with Commodities?,Risk Analysis,Commodities show strong demand.,150,95,90,Positive,Helpful,Successful,U10259,Retail,North America,Desktop,12,True,10,Promoter
+632,2024-11-08 11:35,Analysis of Equities?,Sell Order,Equity markets are stabilizing.,155,94,91,Positive,Helpful,Successful,U10016,Retail,South America,Mobile,59,False,10,Promoter
+633,2024-07-24 10:49,Analysis of ETH?,Cryptocurrency Update,ETH trading volume is decreasing.,160,93,92,Negative,Needs improvement,Failed,U10151,Retail,Asia,Mobile,19,True,3,Detractor
+634,2024-06-22 16:44,Give me an update on EUR.,Market Analysis,EUR is holding steady.,165,92,93,Positive,Helpful,Successful,U10086,VIP,Asia,Mobile,36,False,10,Promoter
+635,2023-02-06 11:35,Give me an update on Oil.,Market Analysis,Oil prices are rising.,170,91,94,Positive,Helpful,Successful,U10244,VIP,North America,Mobile,20,False,10,Promoter
+636,2023-09-11 11:34,Give me an update on Commodities.,Risk Analysis,Commodities show strong demand.,175,90,90,Negative,Needs improvement,Failed,U10219,Retail,Asia,Mobile,18,True,3,Detractor
+637,2024-08-12 14:35,Give me an update on SPX.,Buy Order,SPX is trending upward.,180,89,91,Positive,Helpful,Successful,U10095,Institutional,North America,Desktop,45,False,10,Promoter
+638,2022-06-14 15:52,What's your take on Commodities?,Risk Analysis,Commodities show strong demand.,185,88,92,Negative,Needs improvement,Failed,U10179,VIP,Middle East,Tablet,16,False,3,Detractor
+639,2022-10-08 17:13,Should I diversify with USD?,Sell Order,USD remains stable.,190,87,93,Negative,Needs improvement,Failed,U10201,Retail,Africa,Mobile,52,True,3,Detractor
+640,2023-09-24 13:23,Any news on XAU?,Buy Order,Gold prices are increasing.,195,86,94,Negative,Needs improvement,Failed,U10096,Retail,North America,Desktop,30,True,3,Detractor
+641,2023-08-13 09:46,Is AAPL safe to invest in?,Risk Analysis,AAPL earnings beat expectations.,150,95,90,Neutral,Needs improvement,Failed,U10090,Institutional,Europe,Desktop,49,True,7,Passive
+642,2020-05-20 09:33,Should I buy or sell AAPL?,Price Check,AAPL stock remains steady.,155,94,91,Positive,Helpful,Successful,U10042,Retail,Europe,Mobile,60,True,10,Promoter
+643,2021-05-01 13:14,What is your prediction for Oil?,Market Analysis,Oil prices are rising.,160,93,92,Positive,Helpful,Successful,U10198,Retail,Europe,Mobile,19,False,10,Promoter
+644,2021-06-01 13:58,Is NASDAQ safe to invest in?,Portfolio Management,NASDAQ shows investor optimism.,165,92,93,Negative,Needs improvement,Failed,U10066,Institutional,Africa,Mobile,54,False,3,Detractor
+645,2024-09-18 11:06,Give me an update on Equities.,Price Check,Equities are gaining after recent selloff.,170,91,94,Negative,Needs improvement,Failed,U10090,Institutional,Europe,Desktop,49,True,3,Detractor
+646,2020-08-12 11:08,What's the price of Oil now?,Sell Order,Oil prices are rising.,175,90,90,Positive,Helpful,Successful,U10018,Retail,Middle East,Mobile,15,False,10,Promoter
+647,2022-06-19 12:14,Is Bonds safe to invest in?,Strategy Advice,Bond yields are increasing.,180,89,91,Negative,Needs improvement,Failed,U10284,VIP,Middle East,Mobile,38,False,3,Detractor
+648,2022-05-03 15:36,Any news on Gold?,Strategy Advice,Gold is up due to inflation concerns.,185,88,92,Positive,Helpful,Successful,U10263,Retail,North America,Mobile,21,True,10,Promoter
+649,2021-12-03 14:50,Market outlook for Oil?,Stock Prediction,Oil prices are rising.,190,87,93,Negative,Needs improvement,Failed,U10273,Retail,Europe,Mobile,18,False,3,Detractor
+650,2023-03-16 10:38,What's your take on Gold?,Stock Prediction,Investors are flocking to Gold.,195,86,94,Negative,Needs improvement,Failed,U10187,VIP,Asia,Desktop,32,False,3,Detractor
+651,2022-01-24 15:05,Any news on Tesla?,Strategy Advice,Tesla shows bullish signs.,150,95,90,Positive,Helpful,Successful,U10128,Retail,Middle East,Desktop,6,True,10,Promoter
+652,2020-06-12 15:26,Any news on XAU?,Buy Order,XAU indicates investor confidence.,155,94,91,Positive,Helpful,Successful,U10148,Retail,Asia,Mobile,37,False,10,Promoter
+653,2020-04-24 09:40,What's your take on BTC?,Future Investment,"BTC is bullish, buying recommended.",160,93,92,Positive,Helpful,Successful,U10291,Retail,Asia,Desktop,34,True,10,Promoter
+654,2023-01-10 17:02,Should I buy or sell Oil?,Stock Prediction,Oil shows demand increase.,165,92,93,Negative,Needs improvement,Failed,U10282,Retail,South America,Desktop,5,False,3,Detractor
+655,2022-09-19 11:20,Give me an update on XAU.,Sell Order,Gold prices are increasing.,170,91,94,Positive,Helpful,Successful,U10201,Retail,Africa,Mobile,52,True,10,Promoter
+656,2024-12-08 11:03,Analysis of AAPL?,Cryptocurrency Update,AAPL stock remains steady.,175,90,90,Negative,Needs improvement,Failed,U10235,Retail,Europe,Desktop,36,False,3,Detractor
+657,2023-08-25 17:05,Any news on AAPL?,Stock Prediction,AAPL stock remains steady.,180,89,91,Neutral,Needs improvement,Failed,U10095,Institutional,North America,Desktop,45,False,7,Passive
+658,2021-07-10 15:09,What is your prediction for Forex?,Trading Bot Query,Forex shows balanced trading.,185,88,92,Positive,Helpful,Successful,U10124,Retail,Europe,Desktop,53,False,10,Promoter
+659,2021-06-03 16:36,Is Crypto safe to invest in?,Portfolio Management,Crypto markets show mixed performance.,190,87,93,Negative,Needs improvement,Failed,U10044,Institutional,Africa,Tablet,55,True,3,Detractor
+660,2020-09-13 13:05,Analysis of AAPL?,Sell Order,AAPL earnings beat expectations.,195,86,94,Positive,Helpful,Successful,U10112,Retail,North America,Mobile,14,False,10,Promoter
+661,2023-09-14 11:48,What is your prediction for EUR?,Strategy Advice,EUR is showing mild weakness today.,150,95,90,Positive,Helpful,Successful,U10226,Institutional,South America,Mobile,18,False,10,Promoter
+662,2021-08-18 12:31,How is GOOGL trending today?,Buy Order,GOOGL stock is slightly volatile.,155,94,91,Positive,Helpful,Successful,U10142,Institutional,South America,Mobile,1,False,10,Promoter
+663,2023-11-19 12:35,How is NASDAQ trending today?,Strategy Advice,NASDAQ shows investor optimism.,160,93,92,Negative,Needs improvement,Failed,U10254,Institutional,North America,Mobile,29,False,3,Detractor
+664,2024-12-17 12:15,What's the price of Crypto now?,Stock Prediction,Crypto markets show mixed performance.,165,92,93,Positive,Helpful,Successful,U10090,Institutional,Europe,Desktop,49,True,10,Promoter
+665,2020-05-25 15:20,Give me an update on WTI.,Buy Order,WTI is showing high volatility.,170,91,94,Positive,Helpful,Successful,U10212,Institutional,Europe,Mobile,41,False,10,Promoter
+666,2024-02-04 15:27,Give me an update on WTI.,Market Analysis,WTI crude sees a price jump.,175,90,90,Positive,Helpful,Successful,U10241,Retail,Middle East,Mobile,7,False,10,Promoter
+667,2022-06-07 14:22,What is your prediction for SPX?,Future Investment,SPX is trending upward.,180,89,91,Positive,Helpful,Successful,U10274,Retail,North America,Mobile,3,True,10,Promoter
+668,2024-11-01 13:10,What's the trend with XAU?,Price Check,XAU indicates investor confidence.,185,88,92,Positive,Helpful,Successful,U10168,Institutional,South America,Mobile,36,True,10,Promoter
+669,2022-10-27 16:39,Give me an update on Bonds.,Buy Order,Bonds remain a safe haven.,190,87,93,Neutral,Needs improvement,Failed,U10290,Retail,North America,Mobile,55,False,7,Passive
+670,2021-08-02 12:12,Should I buy or sell Crypto?,Portfolio Management,Crypto markets show mixed performance.,195,86,94,Neutral,Needs improvement,Failed,U10167,Retail,North America,Mobile,40,False,7,Passive
+671,2022-03-25 10:07,What is your prediction for BTC?,Risk Analysis,BTC shows positive momentum today.,150,95,90,Positive,Helpful,Successful,U10040,Institutional,Africa,Mobile,26,False,10,Promoter
+672,2020-04-20 11:55,What is your prediction for SPX?,Buy Order,SPX is trending upward.,155,94,91,Positive,Helpful,Successful,U10072,Retail,Africa,Desktop,56,False,10,Promoter
+673,2022-01-11 10:19,Any news on Commodities?,Sell Order,Commodity markets are steady.,160,93,92,Positive,Helpful,Successful,U10061,Retail,Asia,Mobile,39,True,10,Promoter
+674,2023-08-01 14:13,What's your take on Equities?,Market Analysis,Equity markets are stabilizing.,165,92,93,Negative,Needs improvement,Failed,U10194,Retail,Asia,Mobile,17,False,3,Detractor
+675,2024-04-07 17:33,Analysis of BTC?,Cryptocurrency Update,"BTC is bullish, buying recommended.",170,91,94,Neutral,Needs improvement,Failed,U10276,Retail,Europe,Mobile,51,False,7,Passive
+676,2022-09-16 11:44,Market outlook for Forex?,Financial Advice,Forex shows balanced trading.,175,90,90,Positive,Helpful,Successful,U10254,Institutional,North America,Mobile,29,False,10,Promoter
+677,2020-07-19 17:02,Should I buy or sell Commodities?,Price Check,Commodities show strong demand.,180,89,91,Positive,Helpful,Successful,U10027,VIP,Africa,Mobile,32,True,10,Promoter
+678,2022-03-02 13:12,Give me an update on EUR.,Buy Order,EUR is showing mild weakness today.,185,88,92,Negative,Needs improvement,Failed,U10217,Retail,Asia,Desktop,48,False,3,Detractor
+679,2024-05-02 16:41,What's the trend with GBP?,Buy Order,GBP is gaining against EUR.,190,87,93,Positive,Helpful,Successful,U10057,Retail,Africa,Desktop,57,True,10,Promoter
+680,2020-02-13 13:42,Market outlook for EUR?,Sell Order,EUR is showing mild weakness today.,195,86,94,Negative,Needs improvement,Failed,U10080,Retail,Europe,Mobile,17,True,3,Detractor
+681,2022-02-01 13:55,Is Equities safe to invest in?,Financial Advice,Equity markets are stabilizing.,150,95,90,Positive,Helpful,Successful,U10202,Institutional,North America,Mobile,17,False,10,Promoter
+682,2023-04-13 17:45,Is Oil safe to invest in?,Buy Order,Oil prices are rising.,155,94,91,Negative,Needs improvement,Failed,U10180,Retail,South America,Mobile,48,False,3,Detractor
+683,2020-06-16 17:05,What's the trend with Oil?,Sell Order,Oil shows demand increase.,160,93,92,Positive,Helpful,Successful,U10262,Retail,Europe,Mobile,26,False,10,Promoter
+684,2021-04-17 16:35,Any news on AAPL?,Market Analysis,AAPL earnings beat expectations.,165,92,93,Positive,Helpful,Successful,U10056,Institutional,Asia,Mobile,35,True,10,Promoter
+685,2020-01-08 17:19,Any news on GBP?,Sell Order,GBP trends show minor fluctuations.,170,91,94,Positive,Helpful,Successful,U10228,Institutional,North America,Mobile,51,True,10,Promoter
+686,2022-08-13 11:01,What's your take on Gold?,Forex Analysis,Gold is up due to inflation concerns.,175,90,90,Negative,Needs improvement,Failed,U10217,Retail,Asia,Desktop,48,False,3,Detractor
+687,2022-11-12 14:40,Give me an update on Oil.,Market Analysis,Oil shows demand increase.,180,89,91,Negative,Needs improvement,Failed,U10167,Retail,North America,Mobile,40,False,3,Detractor
+688,2022-04-17 13:51,Market outlook for Crypto?,Sell Order,Crypto markets show mixed performance.,185,88,92,Positive,Helpful,Successful,U10143,Retail,Europe,Mobile,4,True,10,Promoter
+689,2020-11-09 15:56,What's the price of NASDAQ now?,Sell Order,NASDAQ is rallying.,190,87,93,Positive,Helpful,Successful,U10260,Retail,North America,Mobile,43,False,10,Promoter
+690,2020-09-09 12:09,Should I buy or sell Equities?,Stock Prediction,Equities are gaining after recent selloff.,195,86,94,Positive,Helpful,Successful,U10099,VIP,Europe,Mobile,56,False,10,Promoter
+691,2022-07-22 11:05,Should I buy or sell SPX?,Sell Order,SPX shows mixed market signals.,150,95,90,Negative,Needs improvement,Failed,U10287,Retail,North America,Desktop,48,False,3,Detractor
+692,2023-09-22 12:26,What's the trend with BTC?,Strategy Advice,"BTC is bullish, buying recommended.",155,94,91,Positive,Helpful,Successful,U10004,Institutional,North America,Desktop,45,False,10,Promoter
+693,2021-10-05 15:19,Market outlook for NASDAQ?,Cryptocurrency Update,NASDAQ shows investor optimism.,160,93,92,Negative,Needs improvement,Failed,U10281,Retail,Africa,Mobile,50,False,3,Detractor
+694,2024-06-15 17:08,Any news on EUR?,Sell Order,EUR is holding steady.,165,92,93,Positive,Helpful,Successful,U10288,VIP,North America,Desktop,33,False,10,Promoter
+695,2021-11-05 17:43,What's your take on Gold?,Forex Analysis,Investors are flocking to Gold.,170,91,94,Negative,Needs improvement,Failed,U10035,Retail,North America,Desktop,4,True,3,Detractor
+696,2021-03-10 17:58,Analysis of Commodities?,Risk Analysis,Commodities show strong demand.,175,90,90,Positive,Helpful,Successful,U10299,Institutional,Middle East,Mobile,31,False,10,Promoter
+697,2021-07-25 11:41,What's the trend with Crypto?,Portfolio Management,Crypto markets show mixed performance.,180,89,91,Positive,Helpful,Successful,U10143,Retail,Europe,Mobile,4,True,10,Promoter
+698,2024-03-11 10:35,What is your prediction for WTI?,Investment Planning,WTI is showing high volatility.,185,88,92,Positive,Helpful,Successful,U10072,Retail,Africa,Desktop,56,False,10,Promoter
+699,2024-12-04 11:20,Should I diversify with BTC?,Stock Prediction,"BTC is bullish, buying recommended.",190,87,93,Positive,Helpful,Successful,U10181,VIP,Europe,Tablet,51,False,10,Promoter
+700,2021-12-01 14:56,Should I diversify with ETH?,Strategy Advice,ETH is showing a downward trend.,195,86,94,Positive,Helpful,Successful,U10061,Retail,Asia,Mobile,39,True,10,Promoter
+701,2023-07-10 16:47,Should I buy or sell MSFT?,Forex Analysis,MSFT shows growth potential.,150,95,90,Negative,Needs improvement,Failed,U10274,Retail,North America,Mobile,3,True,3,Detractor
+702,2022-03-25 12:06,Any news on Equities?,Forex Analysis,Equities are gaining after recent selloff.,155,94,91,Positive,Helpful,Successful,U10165,Retail,North America,Mobile,8,False,10,Promoter
+703,2021-03-01 13:38,Analysis of Bonds?,Price Check,Bonds remain a safe haven.,160,93,92,Positive,Helpful,Successful,U10232,VIP,South America,Mobile,42,False,10,Promoter
+704,2024-10-08 12:14,Should I diversify with Equities?,Strategy Advice,Equities are gaining after recent selloff.,165,92,93,Positive,Helpful,Successful,U10114,Institutional,Asia,Desktop,4,False,10,Promoter
+705,2020-06-03 16:08,What's your take on Commodities?,Sell Order,Commodity markets are steady.,170,91,94,Negative,Needs improvement,Failed,U10160,Retail,South America,Desktop,37,True,3,Detractor
+706,2024-10-16 14:11,Give me an update on Commodities.,Investment Planning,Commodity markets are steady.,175,90,90,Positive,Helpful,Successful,U10107,Institutional,Middle East,Mobile,48,False,10,Promoter
+707,2023-08-16 11:10,How is Crypto trending today?,Strategy Advice,Crypto markets show mixed performance.,180,89,91,Positive,Helpful,Successful,U10078,Retail,Africa,Mobile,17,True,10,Promoter
+708,2021-04-02 15:48,What's your take on GBP?,Price Check,GBP is gaining against EUR.,185,88,92,Negative,Needs improvement,Failed,U10153,VIP,South America,Desktop,43,False,3,Detractor
+709,2020-05-14 12:47,Market outlook for GOOGL?,Strategy Advice,GOOGL stock is slightly volatile.,190,87,93,Negative,Needs improvement,Failed,U10149,Institutional,South America,Tablet,14,False,3,Detractor
+710,2021-04-03 11:59,Any news on Equities?,Sell Order,Equities are gaining after recent selloff.,195,86,94,Positive,Helpful,Successful,U10029,Retail,Asia,Mobile,47,False,10,Promoter
+711,2023-10-16 14:55,Market outlook for SPX?,Investment Planning,SPX shows mixed market signals.,150,95,90,Neutral,Needs improvement,Failed,U10294,Retail,Europe,Desktop,16,False,7,Passive
+712,2023-04-14 15:49,How is USD trending today?,Risk Analysis,USD remains stable.,155,94,91,Neutral,Needs improvement,Failed,U10140,Retail,Europe,Mobile,46,False,7,Passive
+713,2020-10-24 15:46,How is Crypto trending today?,Risk Analysis,Crypto markets show mixed performance.,160,93,92,Negative,Needs improvement,Failed,U10251,Retail,Asia,Mobile,48,False,3,Detractor
+714,2022-07-20 17:33,Should I buy or sell ETH?,Future Investment,ETH is showing a downward trend.,165,92,93,Neutral,Needs improvement,Failed,U10274,Retail,North America,Mobile,3,True,7,Passive
+715,2020-09-04 16:29,What's the trend with Bonds?,Portfolio Management,Bond yields are increasing.,170,91,94,Positive,Helpful,Successful,U10111,Retail,South America,Mobile,28,True,10,Promoter
+716,2020-04-17 17:25,Market outlook for BTC?,Stock Prediction,"BTC is bullish, buying recommended.",175,90,90,Negative,Needs improvement,Failed,U10124,Retail,Europe,Desktop,53,False,3,Detractor
+717,2020-09-13 17:48,Should I buy or sell GBP?,Sell Order,GBP is gaining against EUR.,180,89,91,Positive,Helpful,Successful,U10168,Institutional,South America,Mobile,36,True,10,Promoter
+718,2020-04-10 16:25,How is Commodities trending today?,Market Analysis,Commodities show strong demand.,185,88,92,Positive,Helpful,Successful,U10066,Institutional,Africa,Mobile,54,False,10,Promoter
+719,2022-05-15 11:27,What is your prediction for GBP?,Price Check,GBP is gaining against EUR.,190,87,93,Positive,Helpful,Successful,U10043,Institutional,Middle East,Mobile,42,False,10,Promoter
+720,2022-10-02 17:57,Give me an update on SPX.,Sell Order,SPX shows mixed market signals.,195,86,94,Positive,Helpful,Successful,U10078,Retail,Africa,Mobile,17,True,10,Promoter
+721,2021-08-27 16:05,Analysis of Forex?,Market Analysis,Forex markets favor USD today.,150,95,90,Negative,Needs improvement,Failed,U10280,Retail,Europe,Mobile,34,False,3,Detractor
+722,2024-02-06 17:08,How is Oil trending today?,Sell Order,Oil prices are rising.,155,94,91,Positive,Helpful,Successful,U10173,Institutional,Europe,Mobile,31,True,10,Promoter
+723,2023-07-11 16:01,What's the price of NASDAQ now?,Cryptocurrency Update,NASDAQ is rallying.,160,93,92,Positive,Helpful,Successful,U10125,Retail,Europe,Desktop,30,False,10,Promoter
+724,2021-08-19 12:56,Is BTC safe to invest in?,Forex Analysis,"BTC is bullish, buying recommended.",165,92,93,Negative,Needs improvement,Failed,U10045,Retail,Asia,Desktop,58,True,3,Detractor
+725,2023-02-09 14:44,Should I buy or sell WTI?,Financial Advice,WTI is showing high volatility.,170,91,94,Positive,Helpful,Successful,U10098,Institutional,Asia,Desktop,33,False,10,Promoter
+726,2021-12-24 10:05,What's your take on Commodities?,Price Check,Commodities show strong demand.,175,90,90,Negative,Needs improvement,Failed,U10113,Retail,Middle East,Mobile,54,False,3,Detractor
+727,2020-12-15 14:05,Should I buy or sell GOOGL?,Stock Prediction,GOOGL stock is slightly volatile.,180,89,91,Positive,Helpful,Successful,U10250,Retail,North America,Mobile,43,False,10,Promoter
+728,2024-12-13 17:39,Should I buy or sell Crypto?,Forex Analysis,Crypto markets show mixed performance.,185,88,92,Negative,Needs improvement,Failed,U10149,Institutional,South America,Tablet,14,False,3,Detractor
+729,2021-07-18 15:02,What's your take on Tesla?,Risk Analysis,Tesla shows bullish signs.,190,87,93,Negative,Needs improvement,Failed,U10196,Retail,Europe,Mobile,41,False,3,Detractor
+730,2021-06-19 11:10,What's the trend with AAPL?,Cryptocurrency Update,AAPL stock remains steady.,195,86,94,Neutral,Needs improvement,Failed,U10205,Institutional,North America,Mobile,48,False,7,Passive
+731,2021-03-25 09:26,What's your take on GBP?,Buy Order,GBP is gaining against EUR.,150,95,90,Positive,Helpful,Successful,U10077,Retail,South America,Desktop,22,False,10,Promoter
+732,2022-05-24 16:18,Should I buy or sell GBP?,Stock Prediction,GBP trends show minor fluctuations.,155,94,91,Positive,Helpful,Successful,U10246,Retail,Asia,Mobile,18,False,10,Promoter
+733,2021-02-05 12:00,What is your prediction for Gold?,Forex Analysis,Investors are flocking to Gold.,160,93,92,Positive,Helpful,Successful,U10289,Retail,North America,Mobile,50,False,10,Promoter
+734,2024-05-01 16:31,What's the trend with Tesla?,Risk Analysis,Tesla shows bullish signs.,165,92,93,Positive,Helpful,Successful,U10192,Retail,Asia,Desktop,11,True,10,Promoter
+735,2023-09-26 09:38,Should I buy or sell Bonds?,Risk Analysis,Bond yields are increasing.,170,91,94,Neutral,Needs improvement,Failed,U10147,Institutional,North America,Mobile,29,False,7,Passive
+736,2023-04-07 16:29,Should I diversify with SPX?,Buy Order,SPX is trending upward.,175,90,90,Negative,Needs improvement,Failed,U10050,VIP,Asia,Mobile,33,True,3,Detractor
+737,2023-08-03 09:15,Should I diversify with GBP?,Financial Advice,GBP is gaining against EUR.,180,89,91,Positive,Helpful,Successful,U10238,Retail,Middle East,Mobile,57,True,10,Promoter
+738,2024-05-20 17:52,Is Oil safe to invest in?,Strategy Advice,Oil shows demand increase.,185,88,92,Negative,Needs improvement,Failed,U10050,VIP,Asia,Mobile,33,True,3,Detractor
+739,2021-01-06 11:03,What is your prediction for GBP?,Future Investment,GBP is gaining against EUR.,190,87,93,Negative,Needs improvement,Failed,U10216,Retail,Africa,Mobile,16,False,3,Detractor
+740,2022-01-05 09:42,What's the price of MSFT now?,Strategy Advice,MSFT shows growth potential.,195,86,94,Neutral,Needs improvement,Failed,U10146,Retail,North America,Mobile,27,False,7,Passive
+741,2024-10-10 14:58,Market outlook for AAPL?,Market Analysis,AAPL earnings beat expectations.,150,95,90,Neutral,Needs improvement,Failed,U10275,Institutional,North America,Desktop,55,True,7,Passive
+742,2020-01-04 15:11,What's your take on Bonds?,Sentiment Analysis,Bond yields are increasing.,155,94,91,Negative,Needs improvement,Failed,U10162,VIP,Europe,Desktop,6,False,3,Detractor
+743,2021-11-10 17:11,Give me an update on Forex.,Future Investment,Forex shows balanced trading.,160,93,92,Positive,Helpful,Successful,U10192,Retail,Asia,Desktop,11,True,10,Promoter
+744,2023-12-19 14:59,Any news on Equities?,Forex Analysis,Equities are gaining after recent selloff.,165,92,93,Positive,Helpful,Successful,U10017,Retail,North America,Desktop,35,True,10,Promoter
+745,2020-02-25 13:20,Market outlook for Oil?,Forex Analysis,Oil shows demand increase.,170,91,94,Positive,Helpful,Successful,U10010,Institutional,Europe,Mobile,54,False,10,Promoter
+746,2022-07-27 10:48,Market outlook for Equities?,Risk Analysis,Equities are gaining after recent selloff.,175,90,90,Neutral,Needs improvement,Failed,U10254,Institutional,North America,Mobile,29,False,7,Passive
+747,2023-09-03 13:30,What's the price of AAPL now?,Sell Order,AAPL earnings beat expectations.,180,89,91,Positive,Helpful,Successful,U10283,Retail,Europe,Mobile,55,False,10,Promoter
+748,2021-02-23 13:21,What is your prediction for Oil?,Strategy Advice,Oil prices are rising.,185,88,92,Negative,Needs improvement,Failed,U10200,Institutional,South America,Tablet,59,False,3,Detractor
+749,2024-07-17 12:44,Any news on SPX?,Buy Order,SPX is trending upward.,190,87,93,Positive,Helpful,Successful,U10229,Retail,North America,Mobile,48,False,10,Promoter
+750,2021-10-02 10:36,What's your take on Bonds?,Sell Order,Bond yields are increasing.,195,86,94,Positive,Helpful,Successful,U10123,Retail,North America,Mobile,43,False,10,Promoter
+751,2024-02-16 13:27,Should I buy or sell Gold?,Stock Prediction,Investors are flocking to Gold.,150,95,90,Neutral,Needs improvement,Failed,U10252,Retail,Asia,Mobile,20,False,7,Passive
+752,2024-06-09 17:36,Give me an update on USD.,Market Analysis,USD remains stable.,155,94,91,Negative,Needs improvement,Failed,U10069,Institutional,Europe,Mobile,56,False,3,Detractor
+753,2024-06-05 16:33,Should I diversify with Gold?,Risk Analysis,Gold is up due to inflation concerns.,160,93,92,Negative,Needs improvement,Failed,U10212,Institutional,Europe,Mobile,41,False,3,Detractor
+754,2023-08-26 11:56,Market outlook for Commodities?,Buy Order,Commodity markets are steady.,165,92,93,Negative,Needs improvement,Failed,U10002,Retail,North America,Mobile,2,False,3,Detractor
+755,2024-04-23 13:12,Analysis of USD?,Cryptocurrency Update,USD remains stable.,170,91,94,Negative,Needs improvement,Failed,U10151,Retail,Asia,Mobile,19,True,3,Detractor
+756,2020-02-01 16:40,What's the trend with Equities?,Risk Analysis,Equities are gaining after recent selloff.,175,90,90,Positive,Helpful,Successful,U10111,Retail,South America,Mobile,28,True,10,Promoter
+757,2020-12-28 12:51,How is Commodities trending today?,Forex Analysis,Commodity markets are steady.,180,89,91,Positive,Helpful,Successful,U10185,Retail,South America,Mobile,40,False,10,Promoter
+758,2024-07-14 09:21,What's the trend with ETH?,Cryptocurrency Update,ETH is showing a downward trend.,185,88,92,Positive,Helpful,Successful,U10200,Institutional,South America,Tablet,59,False,10,Promoter
+759,2022-09-26 12:00,Give me an update on USD.,Buy Order,USD remains stable.,190,87,93,Positive,Helpful,Successful,U10184,Retail,South America,Mobile,42,False,10,Promoter
+760,2021-12-10 13:50,What is your prediction for Crypto?,Forex Analysis,Crypto markets show mixed performance.,195,86,94,Negative,Needs improvement,Failed,U10144,Institutional,North America,Mobile,32,True,3,Detractor
+761,2020-05-10 17:35,What is your prediction for AAPL?,Strategy Advice,AAPL earnings beat expectations.,150,95,90,Positive,Helpful,Successful,U10146,Retail,North America,Mobile,27,False,10,Promoter
+762,2022-01-04 14:21,What's the trend with GBP?,Financial Advice,GBP is gaining against EUR.,155,94,91,Positive,Helpful,Successful,U10001,Retail,South America,Mobile,38,False,10,Promoter
+763,2023-12-19 09:53,Market outlook for Gold?,Stock Prediction,Gold is up due to inflation concerns.,160,93,92,Neutral,Needs improvement,Failed,U10165,Retail,North America,Mobile,8,False,7,Passive
+764,2021-04-11 14:59,Is GOOGL safe to invest in?,Cryptocurrency Update,GOOGL remains a solid long-term pick.,165,92,93,Positive,Helpful,Successful,U10003,Institutional,South America,Mobile,29,False,10,Promoter
+765,2023-08-26 09:41,Any news on AAPL?,Buy Order,AAPL stock remains steady.,170,91,94,Negative,Needs improvement,Failed,U10158,Retail,Middle East,Desktop,39,True,3,Detractor
+766,2021-08-05 16:57,How is Forex trending today?,Stock Prediction,Forex markets favor USD today.,175,90,90,Negative,Needs improvement,Failed,U10082,Institutional,South America,Mobile,5,False,3,Detractor
+767,2024-06-15 15:59,Any news on Gold?,Stock Prediction,Investors are flocking to Gold.,180,89,91,Neutral,Needs improvement,Failed,U10293,Retail,South America,Desktop,58,True,7,Passive
+768,2020-09-10 14:35,Market outlook for USD?,Sell Order,USD is strengthening against other currencies.,185,88,92,Positive,Helpful,Successful,U10005,Retail,North America,Desktop,7,True,10,Promoter
+769,2024-01-07 14:51,What is your prediction for GBP?,Future Investment,GBP trends show minor fluctuations.,190,87,93,Positive,Helpful,Successful,U10243,Institutional,Europe,Desktop,49,False,10,Promoter
+770,2022-02-05 13:53,Is ETH safe to invest in?,Price Check,ETH is showing a downward trend.,195,86,94,Positive,Helpful,Successful,U10202,Institutional,North America,Mobile,17,False,10,Promoter
+771,2020-06-13 17:53,Market outlook for BTC?,Technical Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful,U10241,Retail,Middle East,Mobile,7,False,10,Promoter
+772,2021-10-20 15:11,How is Oil trending today?,Sell Order,Oil prices are rising.,155,94,91,Positive,Helpful,Successful,U10272,VIP,Europe,Tablet,21,True,10,Promoter
+773,2024-02-28 13:45,What's your take on WTI?,Buy Order,WTI crude sees a price jump.,160,93,92,Neutral,Needs improvement,Failed,U10032,Retail,Asia,Desktop,13,False,7,Passive
+774,2022-12-02 13:26,What's the trend with Commodities?,Strategy Advice,Commodity markets are steady.,165,92,93,Positive,Helpful,Successful,U10028,VIP,Middle East,Desktop,20,True,10,Promoter
+775,2020-08-08 14:28,Give me an update on Commodities.,Sentiment Analysis,Commodity markets are steady.,170,91,94,Negative,Needs improvement,Failed,U10044,Institutional,Africa,Tablet,55,True,3,Detractor
+776,2022-04-17 13:11,What's the price of BTC now?,Market Analysis,"BTC is bullish, buying recommended.",175,90,90,Positive,Helpful,Successful,U10057,Retail,Africa,Desktop,57,True,10,Promoter
+777,2020-06-26 09:49,What is your prediction for GOOGL?,Buy Order,GOOGL remains a solid long-term pick.,180,89,91,Negative,Needs improvement,Failed,U10157,Institutional,Africa,Mobile,32,False,3,Detractor
+778,2021-02-15 17:01,What's the trend with MSFT?,Risk Analysis,MSFT shows growth potential.,185,88,92,Positive,Helpful,Successful,U10244,VIP,North America,Mobile,20,False,10,Promoter
+779,2023-09-05 12:21,Any news on Oil?,Strategy Advice,Oil shows demand increase.,190,87,93,Positive,Helpful,Successful,U10080,Retail,Europe,Mobile,17,True,10,Promoter
+780,2023-12-28 17:19,Market outlook for Oil?,Stock Prediction,Oil shows demand increase.,195,86,94,Positive,Helpful,Successful,U10119,Institutional,North America,Mobile,38,True,10,Promoter
+781,2022-03-25 10:52,How is AAPL trending today?,Financial Advice,AAPL stock remains steady.,150,95,90,Positive,Helpful,Successful,U10111,Retail,South America,Mobile,28,True,10,Promoter
+782,2024-11-05 12:46,Is EUR safe to invest in?,Strategy Advice,EUR is holding steady.,155,94,91,Positive,Helpful,Successful,U10121,Retail,Asia,Desktop,16,True,10,Promoter
+783,2020-08-13 17:07,What's the trend with Oil?,Future Investment,Oil shows demand increase.,160,93,92,Negative,Needs improvement,Failed,U10169,Retail,Middle East,Mobile,2,False,3,Detractor
+784,2020-05-02 10:21,Should I buy or sell Tesla?,Price Check,Tesla shows bullish signs.,165,92,93,Positive,Helpful,Successful,U10297,Institutional,Asia,Mobile,50,True,10,Promoter
+785,2023-01-04 17:49,What is your prediction for USD?,Future Investment,USD remains stable.,170,91,94,Positive,Helpful,Successful,U10067,Retail,Europe,Mobile,24,False,10,Promoter
+786,2022-01-19 13:40,Should I buy or sell BTC?,Portfolio Management,BTC shows positive momentum today.,175,90,90,Negative,Needs improvement,Failed,U10205,Institutional,North America,Mobile,48,False,3,Detractor
+787,2021-06-07 12:18,Should I diversify with GOOGL?,Market Analysis,GOOGL stock is slightly volatile.,180,89,91,Positive,Helpful,Successful,U10254,Institutional,North America,Mobile,29,False,10,Promoter
+788,2022-09-11 16:42,Should I buy or sell SPX?,Financial Advice,SPX is trending upward.,185,88,92,Positive,Helpful,Successful,U10196,Retail,Europe,Mobile,41,False,10,Promoter
+789,2020-05-05 11:17,How is Crypto trending today?,Risk Analysis,Crypto markets show mixed performance.,190,87,93,Negative,Needs improvement,Failed,U10257,Institutional,North America,Mobile,39,True,3,Detractor
+790,2020-01-20 17:32,What's the trend with Commodities?,Price Check,Commodities show strong demand.,195,86,94,Positive,Helpful,Successful,U10227,Retail,North America,Mobile,12,True,10,Promoter
+791,2020-04-18 14:35,Should I buy or sell AAPL?,Portfolio Management,AAPL stock remains steady.,150,95,90,Positive,Helpful,Successful,U10028,VIP,Middle East,Desktop,20,True,10,Promoter
+792,2022-05-05 13:36,Analysis of BTC?,Financial Advice,"BTC is bullish, buying recommended.",155,94,91,Positive,Helpful,Successful,U10113,Retail,Middle East,Mobile,54,False,10,Promoter
+793,2021-03-03 13:39,Analysis of XAU?,Strategy Advice,XAU indicates investor confidence.,160,93,92,Negative,Needs improvement,Failed,U10165,Retail,North America,Mobile,8,False,3,Detractor
+794,2022-09-15 09:08,Should I buy or sell Oil?,Portfolio Management,Oil shows demand increase.,165,92,93,Negative,Needs improvement,Failed,U10016,Retail,South America,Mobile,59,False,3,Detractor
+795,2020-08-22 09:06,Any news on USD?,Buy Order,USD remains stable.,170,91,94,Neutral,Needs improvement,Failed,U10002,Retail,North America,Mobile,2,False,7,Passive
+796,2023-01-03 15:25,Give me an update on ETH.,Price Check,ETH is showing a downward trend.,175,90,90,Negative,Needs improvement,Failed,U10051,Retail,Asia,Desktop,16,False,3,Detractor
+797,2021-12-20 16:39,Analysis of Crypto?,Market Analysis,Crypto markets show mixed performance.,180,89,91,Positive,Helpful,Successful,U10149,Institutional,South America,Tablet,14,False,10,Promoter
+798,2022-05-11 12:45,Give me an update on Oil.,Strategy Advice,Oil shows demand increase.,185,88,92,Positive,Helpful,Successful,U10130,Retail,Middle East,Mobile,14,False,10,Promoter
+799,2024-02-25 16:36,What's the trend with ETH?,Sell Order,ETH trading volume is decreasing.,190,87,93,Positive,Helpful,Successful,U10235,Retail,Europe,Desktop,36,False,10,Promoter
+800,2021-02-27 16:06,Analysis of Forex?,Buy Order,Forex markets favor USD today.,195,86,94,Negative,Needs improvement,Failed,U10169,Retail,Middle East,Mobile,2,False,3,Detractor
+801,2023-05-22 16:30,Analysis of GOOGL?,Market Analysis,GOOGL stock is slightly volatile.,150,95,90,Positive,Helpful,Successful,U10257,Institutional,North America,Mobile,39,True,10,Promoter
+802,2021-04-05 13:58,What's your take on SPX?,Future Investment,SPX shows mixed market signals.,155,94,91,Neutral,Needs improvement,Failed,U10028,VIP,Middle East,Desktop,20,True,7,Passive
+803,2022-07-06 14:50,Market outlook for ETH?,Future Investment,ETH is showing a downward trend.,160,93,92,Positive,Helpful,Successful,U10158,Retail,Middle East,Desktop,39,True,10,Promoter
+804,2022-08-16 09:04,Should I diversify with BTC?,Price Check,"BTC is bullish, buying recommended.",165,92,93,Negative,Needs improvement,Failed,U10012,Retail,Asia,Mobile,16,True,3,Detractor
+805,2023-02-12 16:29,What's the price of Commodities now?,Sell Order,Commodity markets are steady.,170,91,94,Positive,Helpful,Successful,U10063,VIP,Middle East,Mobile,28,False,10,Promoter
+806,2021-05-25 14:38,Give me an update on EUR.,Financial Advice,EUR is showing mild weakness today.,175,90,90,Negative,Needs improvement,Failed,U10260,Retail,North America,Mobile,43,False,3,Detractor
+807,2024-03-17 10:25,Any news on EUR?,Forex Analysis,EUR is showing mild weakness today.,180,89,91,Positive,Helpful,Successful,U10266,Institutional,South America,Mobile,50,True,10,Promoter
+808,2020-06-18 10:50,Give me an update on AAPL.,Trading Bot Query,AAPL stock remains steady.,185,88,92,Positive,Helpful,Successful,U10142,Institutional,South America,Mobile,1,False,10,Promoter
+809,2022-09-15 15:37,What's the price of Gold now?,Future Investment,Investors are flocking to Gold.,190,87,93,Positive,Helpful,Successful,U10013,Retail,Africa,Desktop,36,True,10,Promoter
+810,2023-04-20 12:35,What's the price of BTC now?,Sell Order,BTC shows positive momentum today.,195,86,94,Positive,Helpful,Successful,U10022,Retail,South America,Desktop,35,False,10,Promoter
+811,2021-08-13 10:21,Any news on GBP?,Price Check,GBP trends show minor fluctuations.,150,95,90,Positive,Helpful,Successful,U10277,Retail,Africa,Mobile,13,False,10,Promoter
+812,2021-12-19 15:50,Analysis of AAPL?,Portfolio Management,AAPL stock remains steady.,155,94,91,Neutral,Needs improvement,Failed,U10269,Retail,North America,Desktop,49,False,7,Passive
+813,2023-10-26 14:34,Give me an update on GOOGL.,Portfolio Management,GOOGL stock is slightly volatile.,160,93,92,Negative,Needs improvement,Failed,U10169,Retail,Middle East,Mobile,2,False,3,Detractor
+814,2021-03-22 10:47,Analysis of USD?,Forex Analysis,USD is strengthening against other currencies.,165,92,93,Negative,Needs improvement,Failed,U10009,Retail,South America,Desktop,6,False,3,Detractor
+815,2024-08-04 16:20,What's the trend with USD?,Market Analysis,USD remains stable.,170,91,94,Negative,Needs improvement,Failed,U10278,Retail,North America,Mobile,7,False,3,Detractor
+816,2024-02-27 16:11,What's the price of Gold now?,Sell Order,Investors are flocking to Gold.,175,90,90,Negative,Needs improvement,Failed,U10094,Institutional,North America,Desktop,50,False,3,Detractor
+817,2022-07-03 10:43,Is GOOGL safe to invest in?,Buy Order,GOOGL remains a solid long-term pick.,180,89,91,Negative,Needs improvement,Failed,U10288,VIP,North America,Desktop,33,False,3,Detractor
+818,2024-07-11 16:41,Any news on WTI?,Strategy Advice,WTI is showing high volatility.,185,88,92,Positive,Helpful,Successful,U10176,VIP,Asia,Desktop,19,False,10,Promoter
+819,2020-02-07 11:56,Is GBP safe to invest in?,Buy Order,GBP is gaining against EUR.,190,87,93,Positive,Helpful,Successful,U10225,Institutional,North America,Mobile,56,True,10,Promoter
+820,2024-11-26 09:48,Should I diversify with GBP?,Market Analysis,GBP trends show minor fluctuations.,195,86,94,Negative,Needs improvement,Failed,U10213,Retail,North America,Mobile,57,False,3,Detractor
+821,2021-11-05 16:34,Is Commodities safe to invest in?,Price Check,Commodities show strong demand.,150,95,90,Positive,Helpful,Successful,U10119,Institutional,North America,Mobile,38,True,10,Promoter
+822,2022-07-20 16:12,What's your take on GOOGL?,Strategy Advice,GOOGL remains a solid long-term pick.,155,94,91,Negative,Needs improvement,Failed,U10023,Institutional,Europe,Mobile,11,False,3,Detractor
+823,2021-11-11 13:36,Give me an update on GBP.,Risk Analysis,GBP is gaining against EUR.,160,93,92,Negative,Needs improvement,Failed,U10048,Institutional,North America,Mobile,4,False,3,Detractor
+824,2022-07-23 14:05,How is NASDAQ trending today?,Price Check,NASDAQ is rallying.,165,92,93,Positive,Helpful,Successful,U10072,Retail,Africa,Desktop,56,False,10,Promoter
+825,2024-01-20 17:25,Any news on USD?,Forex Analysis,USD is strengthening against other currencies.,170,91,94,Negative,Needs improvement,Failed,U10250,Retail,North America,Mobile,43,False,3,Detractor
+826,2021-05-02 14:57,What's the price of Commodities now?,Portfolio Management,Commodity markets are steady.,175,90,90,Negative,Needs improvement,Failed,U10116,Retail,North America,Desktop,40,True,3,Detractor
+827,2024-01-01 17:52,Analysis of WTI?,Forex Analysis,WTI crude sees a price jump.,180,89,91,Negative,Needs improvement,Failed,U10268,Retail,Africa,Desktop,10,True,3,Detractor
+828,2022-02-28 13:55,What's the price of Commodities now?,Buy Order,Commodities show strong demand.,185,88,92,Neutral,Needs improvement,Failed,U10099,VIP,Europe,Mobile,56,False,7,Passive
+829,2020-04-14 15:40,Give me an update on Oil.,Stock Prediction,Oil prices are rising.,190,87,93,Positive,Helpful,Successful,U10226,Institutional,South America,Mobile,18,False,10,Promoter
+830,2022-12-13 15:24,Give me an update on AAPL.,Risk Analysis,AAPL stock remains steady.,195,86,94,Positive,Helpful,Successful,U10041,Institutional,North America,Mobile,35,False,10,Promoter
+831,2023-09-07 11:30,Analysis of XAU?,Sentiment Analysis,XAU indicates investor confidence.,150,95,90,Positive,Helpful,Successful,U10296,Retail,Middle East,Mobile,54,True,10,Promoter
+832,2021-04-18 15:53,Analysis of Bonds?,Financial Advice,Bond yields are increasing.,155,94,91,Negative,Needs improvement,Failed,U10217,Retail,Asia,Desktop,48,False,3,Detractor
+833,2022-07-05 13:55,Any news on ETH?,Sell Order,ETH is showing a downward trend.,160,93,92,Positive,Helpful,Successful,U10150,Retail,North America,Mobile,36,True,10,Promoter
+834,2021-03-01 10:41,How is GBP trending today?,Market Analysis,GBP is gaining against EUR.,165,92,93,Positive,Helpful,Successful,U10292,Retail,South America,Mobile,25,True,10,Promoter
+835,2020-03-24 16:42,What's your take on SPX?,Sell Order,SPX shows mixed market signals.,170,91,94,Negative,Needs improvement,Failed,U10016,Retail,South America,Mobile,59,False,3,Detractor
+836,2023-03-03 11:41,Should I diversify with Tesla?,Strategy Advice,Tesla shows bullish signs.,175,90,90,Positive,Helpful,Successful,U10131,Retail,Europe,Mobile,57,True,10,Promoter
+837,2023-08-26 15:39,How is Crypto trending today?,Risk Analysis,Crypto markets show mixed performance.,180,89,91,Negative,Needs improvement,Failed,U10251,Retail,Asia,Mobile,48,False,3,Detractor
+838,2021-08-17 15:35,Should I diversify with USD?,Strategy Advice,USD remains stable.,185,88,92,Negative,Needs improvement,Failed,U10102,Retail,Europe,Mobile,9,True,3,Detractor
+839,2023-07-12 12:11,What is your prediction for GOOGL?,Price Check,GOOGL remains a solid long-term pick.,190,87,93,Positive,Helpful,Successful,U10230,Retail,North America,Mobile,24,False,10,Promoter
+840,2023-10-01 16:54,Should I diversify with WTI?,Risk Analysis,WTI crude sees a price jump.,195,86,94,Positive,Helpful,Successful,U10286,Retail,Africa,Mobile,25,False,10,Promoter
+841,2021-12-17 13:26,Analysis of Commodities?,Sell Order,Commodity markets are steady.,150,95,90,Positive,Helpful,Successful,U10119,Institutional,North America,Mobile,38,True,10,Promoter
+842,2024-10-12 09:02,Analysis of MSFT?,Stock Prediction,MSFT shows growth potential.,155,94,91,Negative,Needs improvement,Failed,U10232,VIP,South America,Mobile,42,False,3,Detractor
+843,2024-08-23 14:07,Any news on USD?,Market Analysis,USD is strengthening against other currencies.,160,93,92,Neutral,Needs improvement,Failed,U10008,Institutional,Asia,Desktop,37,True,7,Passive
+844,2024-08-23 10:09,Analysis of WTI?,Portfolio Management,WTI crude sees a price jump.,165,92,93,Positive,Helpful,Successful,U10081,Retail,Asia,Desktop,44,False,10,Promoter
+845,2024-05-15 17:05,Analysis of Tesla?,Financial Advice,Tesla stock remains volatile.,170,91,94,Positive,Helpful,Successful,U10297,Institutional,Asia,Mobile,50,True,10,Promoter
+846,2024-10-03 12:30,How is WTI trending today?,Buy Order,WTI crude sees a price jump.,175,90,90,Positive,Helpful,Successful,U10147,Institutional,North America,Mobile,29,False,10,Promoter
+847,2020-11-21 17:51,What's the price of Bonds now?,Buy Order,Bond yields are increasing.,180,89,91,Negative,Needs improvement,Failed,U10106,Retail,North America,Mobile,49,False,3,Detractor
+848,2024-05-20 09:57,Should I diversify with Oil?,Financial Advice,Oil prices are rising.,185,88,92,Neutral,Needs improvement,Failed,U10282,Retail,South America,Desktop,5,False,7,Passive
+849,2022-09-25 09:30,What's your take on Forex?,Strategy Advice,Forex shows balanced trading.,190,87,93,Positive,Helpful,Successful,U10129,Retail,South America,Mobile,43,False,10,Promoter
+850,2023-09-16 14:26,Analysis of EUR?,Portfolio Management,EUR is holding steady.,195,86,94,Positive,Helpful,Successful,U10203,Institutional,South America,Desktop,41,True,10,Promoter
+851,2022-05-10 11:02,Is Equities safe to invest in?,Buy Order,Equity markets are stabilizing.,150,95,90,Negative,Needs improvement,Failed,U10198,Retail,Europe,Mobile,19,False,3,Detractor
+852,2024-12-10 13:03,What's the trend with BTC?,Forex Analysis,BTC shows positive momentum today.,155,94,91,Negative,Needs improvement,Failed,U10025,Retail,North America,Desktop,54,False,3,Detractor
+853,2023-10-06 09:42,Give me an update on BTC.,Risk Analysis,"BTC is bullish, buying recommended.",160,93,92,Positive,Helpful,Successful,U10185,Retail,South America,Mobile,40,False,10,Promoter
+854,2022-12-20 09:18,Should I diversify with GOOGL?,Price Check,GOOGL stock is slightly volatile.,165,92,93,Positive,Helpful,Successful,U10239,Retail,Asia,Mobile,7,False,10,Promoter
+855,2023-02-05 17:04,What is your prediction for EUR?,Forex Analysis,EUR is holding steady.,170,91,94,Neutral,Needs improvement,Failed,U10213,Retail,North America,Mobile,57,False,7,Passive
+856,2022-05-05 13:17,What's the trend with Gold?,Market Analysis,Investors are flocking to Gold.,175,90,90,Positive,Helpful,Successful,U10024,VIP,Middle East,Mobile,33,False,10,Promoter
+857,2022-01-24 10:38,Give me an update on Bonds.,Sell Order,Bond yields are increasing.,180,89,91,Positive,Helpful,Successful,U10046,Retail,Africa,Mobile,51,False,10,Promoter
+858,2021-10-24 11:42,How is ETH trending today?,Buy Order,ETH is showing a downward trend.,185,88,92,Positive,Helpful,Successful,U10213,Retail,North America,Mobile,57,False,10,Promoter
+859,2023-06-26 11:16,Should I buy or sell NASDAQ?,Portfolio Management,NASDAQ is rallying.,190,87,93,Positive,Helpful,Successful,U10190,Institutional,Europe,Desktop,58,True,10,Promoter
+860,2021-08-06 17:55,Market outlook for SPX?,Portfolio Management,SPX shows mixed market signals.,195,86,94,Negative,Needs improvement,Failed,U10221,VIP,Europe,Tablet,42,False,3,Detractor
+861,2020-06-03 11:38,Give me an update on MSFT.,Stock Prediction,MSFT shows growth potential.,150,95,90,Positive,Helpful,Successful,U10095,Institutional,North America,Desktop,45,False,10,Promoter
+862,2021-08-25 15:49,What's your take on GBP?,Investment Planning,GBP is gaining against EUR.,155,94,91,Positive,Helpful,Successful,U10031,VIP,North America,Mobile,39,False,10,Promoter
+863,2023-04-22 16:46,Analysis of ETH?,Financial Advice,ETH is showing a downward trend.,160,93,92,Positive,Helpful,Successful,U10001,Retail,South America,Mobile,38,False,10,Promoter
+864,2021-04-19 14:03,Give me an update on Bonds.,Investment Planning,Bond yields are increasing.,165,92,93,Positive,Helpful,Successful,U10092,Retail,Middle East,Mobile,27,False,10,Promoter
+865,2022-02-02 11:29,Market outlook for WTI?,Financial Advice,WTI crude sees a price jump.,170,91,94,Positive,Helpful,Successful,U10107,Institutional,Middle East,Mobile,48,False,10,Promoter
+866,2023-08-10 16:47,Should I buy or sell XAU?,Stock Prediction,XAU indicates investor confidence.,175,90,90,Positive,Helpful,Successful,U10080,Retail,Europe,Mobile,17,True,10,Promoter
+867,2024-04-13 15:30,Any news on ETH?,Cryptocurrency Update,ETH is showing a downward trend.,180,89,91,Neutral,Needs improvement,Failed,U10039,Institutional,Europe,Mobile,56,False,7,Passive
+868,2022-03-17 15:00,Is Gold safe to invest in?,Sell Order,Gold is up due to inflation concerns.,185,88,92,Positive,Helpful,Successful,U10056,Institutional,Asia,Mobile,35,True,10,Promoter
+869,2022-08-13 14:33,Analysis of SPX?,Forex Analysis,SPX shows mixed market signals.,190,87,93,Negative,Needs improvement,Failed,U10134,Institutional,North America,Mobile,45,True,3,Detractor
+870,2020-02-18 14:54,What's the price of EUR now?,Price Check,EUR is holding steady.,195,86,94,Positive,Helpful,Successful,U10166,Retail,Asia,Tablet,43,False,10,Promoter
+871,2023-10-21 13:21,What's the trend with WTI?,Cryptocurrency Update,WTI is showing high volatility.,150,95,90,Positive,Helpful,Successful,U10122,Institutional,Middle East,Desktop,8,False,10,Promoter
+872,2022-05-26 10:16,Any news on EUR?,Financial Advice,EUR is showing mild weakness today.,155,94,91,Positive,Helpful,Successful,U10007,Retail,North America,Tablet,6,False,10,Promoter
+873,2024-07-15 12:46,Give me an update on Crypto.,Strategy Advice,Volatility remains high in crypto.,160,93,92,Negative,Needs improvement,Failed,U10106,Retail,North America,Mobile,49,False,3,Detractor
+874,2024-04-17 14:43,What's the price of EUR now?,Price Check,EUR is showing mild weakness today.,165,92,93,Negative,Needs improvement,Failed,U10027,VIP,Africa,Mobile,32,True,3,Detractor
+875,2021-06-18 09:43,Analysis of EUR?,Strategy Advice,EUR is showing mild weakness today.,170,91,94,Positive,Helpful,Successful,U10179,VIP,Middle East,Tablet,16,False,10,Promoter
+876,2020-02-01 15:06,Should I diversify with Commodities?,Market Analysis,Commodities show strong demand.,175,90,90,Positive,Helpful,Successful,U10097,Retail,Asia,Mobile,21,False,10,Promoter
+877,2024-02-22 16:22,Is WTI safe to invest in?,Stock Prediction,WTI is showing high volatility.,180,89,91,Positive,Helpful,Successful,U10115,Retail,South America,Desktop,42,True,10,Promoter
+878,2021-12-10 13:12,Should I buy or sell Oil?,Risk Analysis,Oil prices are rising.,185,88,92,Negative,Needs improvement,Failed,U10087,Retail,North America,Desktop,39,False,3,Detractor
+879,2020-01-20 10:03,Analysis of BTC?,Stock Prediction,"BTC is bullish, buying recommended.",190,87,93,Neutral,Needs improvement,Failed,U10116,Retail,North America,Desktop,40,True,7,Passive
+880,2024-11-27 12:38,How is Tesla trending today?,Investment Planning,Tesla stock remains volatile.,195,86,94,Positive,Helpful,Successful,U10025,Retail,North America,Desktop,54,False,10,Promoter
+881,2020-12-04 10:54,How is GBP trending today?,Forex Analysis,GBP is gaining against EUR.,150,95,90,Negative,Needs improvement,Failed,U10270,Retail,Africa,Desktop,30,False,3,Detractor
+882,2024-03-13 11:57,What's the price of MSFT now?,Forex Analysis,MSFT shows growth potential.,155,94,91,Positive,Helpful,Successful,U10271,Institutional,Europe,Tablet,37,False,10,Promoter
+883,2020-12-06 13:18,Give me an update on MSFT.,Forex Analysis,MSFT shows growth potential.,160,93,92,Negative,Needs improvement,Failed,U10293,Retail,South America,Desktop,58,True,3,Detractor
+884,2023-11-03 16:59,How is USD trending today?,Buy Order,USD is strengthening against other currencies.,165,92,93,Positive,Helpful,Successful,U10171,Retail,North America,Desktop,8,False,10,Promoter
+885,2022-07-23 14:16,Should I diversify with Crypto?,Trading Bot Query,Volatility remains high in crypto.,170,91,94,Positive,Helpful,Successful,U10050,VIP,Asia,Mobile,33,True,10,Promoter
+886,2021-02-09 09:24,Give me an update on EUR.,Financial Advice,EUR is showing mild weakness today.,175,90,90,Negative,Needs improvement,Failed,U10114,Institutional,Asia,Desktop,4,False,3,Detractor
+887,2023-06-02 13:52,Is AAPL safe to invest in?,Regulation Inquiry,AAPL stock remains steady.,180,89,91,Negative,Needs improvement,Failed,U10041,Institutional,North America,Mobile,35,False,3,Detractor
+888,2022-03-15 10:31,What's your take on Oil?,Financial Advice,Oil shows demand increase.,185,88,92,Positive,Helpful,Successful,U10090,Institutional,Europe,Desktop,49,True,10,Promoter
+889,2021-10-13 11:41,What is your prediction for USD?,Stock Prediction,USD remains stable.,190,87,93,Positive,Helpful,Successful,U10147,Institutional,North America,Mobile,29,False,10,Promoter
+890,2023-02-05 17:49,What's the trend with GBP?,Strategy Advice,GBP is gaining against EUR.,195,86,94,Positive,Helpful,Successful,U10018,Retail,Middle East,Mobile,15,False,10,Promoter
+891,2023-04-20 10:58,Give me an update on Gold.,Trading Bot Query,Investors are flocking to Gold.,150,95,90,Positive,Helpful,Successful,U10130,Retail,Middle East,Mobile,14,False,10,Promoter
+892,2023-12-09 10:02,Should I buy or sell Bonds?,Financial Advice,Bond yields are increasing.,155,94,91,Negative,Needs improvement,Failed,U10126,Retail,South America,Tablet,18,False,3,Detractor
+893,2020-02-19 13:49,Give me an update on SPX.,Forex Analysis,SPX shows mixed market signals.,160,93,92,Positive,Helpful,Successful,U10145,Institutional,North America,Mobile,37,False,10,Promoter
+894,2023-01-16 11:41,What is your prediction for Equities?,Technical Analysis,Equities are gaining after recent selloff.,165,92,93,Positive,Helpful,Successful,U10023,Institutional,Europe,Mobile,11,False,10,Promoter
+895,2020-01-22 15:17,Market outlook for GBP?,Buy Order,GBP trends show minor fluctuations.,170,91,94,Positive,Helpful,Successful,U10075,Institutional,Middle East,Mobile,43,True,10,Promoter
+896,2021-12-11 15:36,What is your prediction for Tesla?,Price Check,Tesla stock remains volatile.,175,90,90,Positive,Helpful,Successful,U10073,Retail,North America,Desktop,25,False,10,Promoter
+897,2020-09-23 16:30,How is NASDAQ trending today?,Portfolio Management,NASDAQ is rallying.,180,89,91,Positive,Helpful,Successful,U10187,VIP,Asia,Desktop,32,False,10,Promoter
+898,2023-07-28 10:34,What's your take on Commodities?,Portfolio Management,Commodity markets are steady.,185,88,92,Positive,Helpful,Successful,U10178,Retail,Europe,Mobile,35,False,10,Promoter
+899,2021-01-13 16:07,Should I buy or sell Tesla?,Forex Analysis,Tesla stock remains volatile.,190,87,93,Positive,Helpful,Successful,U10058,Retail,Europe,Mobile,20,False,10,Promoter
+900,2024-09-12 14:43,Market outlook for Gold?,Price Check,Gold is up due to inflation concerns.,195,86,94,Positive,Helpful,Successful,U10032,Retail,Asia,Desktop,13,False,10,Promoter
+901,2022-07-02 10:23,Is Bonds safe to invest in?,Stock Prediction,Bonds remain a safe haven.,150,95,90,Positive,Helpful,Successful,U10091,Retail,Middle East,Mobile,3,True,10,Promoter
+902,2024-06-03 16:48,What's the trend with Gold?,Financial Advice,Gold is up due to inflation concerns.,155,94,91,Negative,Needs improvement,Failed,U10284,VIP,Middle East,Mobile,38,False,3,Detractor
+903,2022-11-07 11:35,Should I buy or sell Tesla?,Price Check,Tesla stock remains volatile.,160,93,92,Negative,Needs improvement,Failed,U10099,VIP,Europe,Mobile,56,False,3,Detractor
+904,2020-07-22 12:19,What's the price of Commodities now?,Buy Order,Commodity markets are steady.,165,92,93,Positive,Helpful,Successful,U10186,Institutional,Middle East,Desktop,55,False,10,Promoter
+905,2023-02-21 14:31,What's your take on AAPL?,Future Investment,AAPL stock remains steady.,170,91,94,Positive,Helpful,Successful,U10241,Retail,Middle East,Mobile,7,False,10,Promoter
+906,2020-11-15 12:08,What is your prediction for Bonds?,Future Investment,Bonds remain a safe haven.,175,90,90,Negative,Needs improvement,Failed,U10098,Institutional,Asia,Desktop,33,False,3,Detractor
+907,2020-04-01 12:31,Is MSFT safe to invest in?,Stock Prediction,MSFT outlook is positive this quarter.,180,89,91,Positive,Helpful,Successful,U10100,Retail,North America,Desktop,50,False,10,Promoter
+908,2023-02-26 17:41,Is USD safe to invest in?,Stock Prediction,USD remains stable.,185,88,92,Positive,Helpful,Successful,U10244,VIP,North America,Mobile,20,False,10,Promoter
+909,2022-08-18 16:01,What is your prediction for Commodities?,Risk Analysis,Commodities show strong demand.,190,87,93,Positive,Helpful,Successful,U10257,Institutional,North America,Mobile,39,True,10,Promoter
+910,2020-06-02 14:50,Market outlook for SPX?,Buy Order,SPX is trending upward.,195,86,94,Positive,Helpful,Successful,U10292,Retail,South America,Mobile,25,True,10,Promoter
+911,2020-07-04 12:51,Market outlook for SPX?,Buy Order,SPX shows mixed market signals.,150,95,90,Positive,Helpful,Successful,U10040,Institutional,Africa,Mobile,26,False,10,Promoter
+912,2024-08-22 17:09,What's your take on Crypto?,Market Analysis,Volatility remains high in crypto.,155,94,91,Positive,Helpful,Successful,U10096,Retail,North America,Desktop,30,True,10,Promoter
+913,2024-04-03 09:47,Should I diversify with Tesla?,Market Analysis,Tesla stock remains volatile.,160,93,92,Positive,Helpful,Successful,U10284,VIP,Middle East,Mobile,38,False,10,Promoter
+914,2021-08-21 09:30,How is WTI trending today?,Strategy Advice,WTI is showing high volatility.,165,92,93,Negative,Needs improvement,Failed,U10060,VIP,North America,Desktop,17,True,3,Detractor
+915,2024-01-08 11:00,Should I buy or sell Tesla?,Strategy Advice,Tesla stock remains volatile.,170,91,94,Positive,Helpful,Successful,U10094,Institutional,North America,Desktop,50,False,10,Promoter
+916,2021-11-02 13:52,Give me an update on MSFT.,Market Analysis,MSFT shows growth potential.,175,90,90,Positive,Helpful,Successful,U10289,Retail,North America,Mobile,50,False,10,Promoter
+917,2020-08-20 11:53,Give me an update on BTC.,Risk Analysis,"BTC is bullish, buying recommended.",180,89,91,Negative,Needs improvement,Failed,U10290,Retail,North America,Mobile,55,False,3,Detractor
+918,2024-02-27 10:07,What's the price of Forex now?,Portfolio Management,Forex shows balanced trading.,185,88,92,Positive,Helpful,Successful,U10087,Retail,North America,Desktop,39,False,10,Promoter
+919,2023-10-26 12:04,What's the trend with NASDAQ?,Market Analysis,NASDAQ shows investor optimism.,190,87,93,Positive,Helpful,Successful,U10208,VIP,Europe,Desktop,52,True,10,Promoter
+920,2021-07-11 15:20,Market outlook for Commodities?,Portfolio Management,Commodities show strong demand.,195,86,94,Positive,Helpful,Successful,U10147,Institutional,North America,Mobile,29,False,10,Promoter
+921,2020-11-19 17:08,What's your take on Commodities?,Portfolio Management,Commodities show strong demand.,150,95,90,Positive,Helpful,Successful,U10172,Retail,Middle East,Mobile,46,True,10,Promoter
+922,2022-04-25 09:37,What's the trend with NASDAQ?,Buy Order,NASDAQ shows investor optimism.,155,94,91,Negative,Needs improvement,Failed,U10072,Retail,Africa,Desktop,56,False,3,Detractor
+923,2021-06-03 10:17,What's your take on Tesla?,Forex Analysis,Tesla stock remains volatile.,160,93,92,Neutral,Needs improvement,Failed,U10112,Retail,North America,Mobile,14,False,7,Passive
+924,2021-07-06 14:35,What is your prediction for Equities?,Buy Order,Equities are gaining after recent selloff.,165,92,93,Positive,Helpful,Successful,U10244,VIP,North America,Mobile,20,False,10,Promoter
+925,2021-08-08 09:08,How is Gold trending today?,Forex Analysis,Gold is up due to inflation concerns.,170,91,94,Negative,Needs improvement,Failed,U10117,Retail,South America,Mobile,14,False,3,Detractor
+926,2020-11-20 15:49,What's the price of GOOGL now?,Price Check,GOOGL stock is slightly volatile.,175,90,90,Positive,Helpful,Successful,U10034,Retail,North America,Mobile,38,False,10,Promoter
+927,2021-01-16 10:00,What's your take on Equities?,Market Analysis,Equities are gaining after recent selloff.,180,89,91,Positive,Helpful,Successful,U10169,Retail,Middle East,Mobile,2,False,10,Promoter
+928,2020-03-03 13:26,Should I buy or sell GBP?,Stock Prediction,GBP trends show minor fluctuations.,185,88,92,Positive,Helpful,Successful,U10177,Institutional,Asia,Desktop,56,True,10,Promoter
+929,2023-12-05 12:09,What's your take on XAU?,Portfolio Management,Gold prices are increasing.,190,87,93,Positive,Helpful,Successful,U10163,Retail,Europe,Mobile,11,False,10,Promoter
+930,2022-09-15 15:15,What's the trend with NASDAQ?,Financial Advice,NASDAQ is rallying.,195,86,94,Negative,Needs improvement,Failed,U10204,Institutional,North America,Desktop,3,False,3,Detractor
+931,2021-10-23 09:38,Is Tesla safe to invest in?,Sentiment Analysis,Tesla stock remains volatile.,150,95,90,Positive,Helpful,Successful,U10165,Retail,North America,Mobile,8,False,10,Promoter
+932,2021-12-16 10:40,Analysis of NASDAQ?,Forex Analysis,NASDAQ is rallying.,155,94,91,Negative,Needs improvement,Failed,U10285,VIP,Europe,Desktop,43,False,3,Detractor
+933,2022-06-14 09:35,What's the trend with ETH?,Volatility Forecast,ETH trading volume is decreasing.,160,93,92,Positive,Helpful,Successful,U10138,Institutional,North America,Mobile,31,True,10,Promoter
+934,2021-04-04 17:06,Analysis of Commodities?,Risk Analysis,Commodities show strong demand.,165,92,93,Positive,Helpful,Successful,U10212,Institutional,Europe,Mobile,41,False,10,Promoter
+935,2024-06-28 17:32,What's your take on EUR?,Future Investment,EUR is holding steady.,170,91,94,Positive,Helpful,Successful,U10131,Retail,Europe,Mobile,57,True,10,Promoter
+936,2021-08-25 12:17,Give me an update on Tesla.,Sell Order,Tesla shows bullish signs.,175,90,90,Negative,Needs improvement,Failed,U10087,Retail,North America,Desktop,39,False,3,Detractor
+937,2020-04-04 11:43,What's the price of NASDAQ now?,Buy Order,NASDAQ is rallying.,180,89,91,Positive,Helpful,Successful,U10207,VIP,Middle East,Mobile,53,False,10,Promoter
+938,2023-08-06 11:42,Analysis of BTC?,Stock Prediction,"BTC is bullish, buying recommended.",185,88,92,Positive,Helpful,Successful,U10245,Retail,North America,Desktop,15,False,10,Promoter
+939,2020-01-21 14:18,What's the trend with MSFT?,Price Check,MSFT outlook is positive this quarter.,190,87,93,Positive,Helpful,Successful,U10238,Retail,Middle East,Mobile,57,True,10,Promoter
+940,2021-07-09 14:39,What is your prediction for Bonds?,Strategy Advice,Bond yields are increasing.,195,86,94,Positive,Helpful,Successful,U10122,Institutional,Middle East,Desktop,8,False,10,Promoter
+941,2023-01-04 09:59,Market outlook for MSFT?,Sell Order,MSFT outlook is positive this quarter.,150,95,90,Positive,Helpful,Successful,U10149,Institutional,South America,Tablet,14,False,10,Promoter
+942,2024-03-06 09:31,What is your prediction for EUR?,Future Investment,EUR is holding steady.,155,94,91,Positive,Helpful,Successful,U10190,Institutional,Europe,Desktop,58,True,10,Promoter
+943,2024-02-03 12:46,Should I diversify with Equities?,Forex Analysis,Equity markets are stabilizing.,160,93,92,Negative,Needs improvement,Failed,U10072,Retail,Africa,Desktop,56,False,3,Detractor
+944,2023-10-19 14:26,Analysis of USD?,Price Check,USD remains stable.,165,92,93,Positive,Helpful,Successful,U10197,Institutional,Asia,Mobile,25,False,10,Promoter
+945,2021-12-22 14:14,What's the price of GOOGL now?,Investment Planning,GOOGL remains a solid long-term pick.,170,91,94,Positive,Helpful,Successful,U10214,Retail,Asia,Desktop,41,False,10,Promoter
+946,2020-06-08 10:15,How is Commodities trending today?,Stock Prediction,Commodities show strong demand.,175,90,90,Positive,Helpful,Successful,U10236,Retail,Asia,Mobile,33,False,10,Promoter
+947,2023-04-13 12:04,What's your take on Equities?,Strategy Advice,Equity markets are stabilizing.,180,89,91,Negative,Needs improvement,Failed,U10022,Retail,South America,Desktop,35,False,3,Detractor
+948,2023-10-16 09:56,How is Forex trending today?,Risk Analysis,Forex shows balanced trading.,185,88,92,Negative,Needs improvement,Failed,U10297,Institutional,Asia,Mobile,50,True,3,Detractor
+949,2023-03-07 16:11,Give me an update on Gold.,Cryptocurrency Update,Investors are flocking to Gold.,190,87,93,Positive,Helpful,Successful,U10143,Retail,Europe,Mobile,4,True,10,Promoter
+950,2023-06-05 16:46,Should I buy or sell Gold?,Sell Order,Gold is up due to inflation concerns.,195,86,94,Negative,Needs improvement,Failed,U10120,Retail,South America,Tablet,26,False,3,Detractor
+951,2021-11-12 13:12,What is your prediction for SPX?,Future Investment,SPX is trending upward.,150,95,90,Negative,Needs improvement,Failed,U10151,Retail,Asia,Mobile,19,True,3,Detractor
+952,2022-03-02 09:17,Is Crypto safe to invest in?,Risk Analysis,Volatility remains high in crypto.,155,94,91,Positive,Helpful,Successful,U10276,Retail,Europe,Mobile,51,False,10,Promoter
+953,2021-02-28 16:29,Analysis of Commodities?,Strategy Advice,Commodity markets are steady.,160,93,92,Negative,Needs improvement,Failed,U10207,VIP,Middle East,Mobile,53,False,3,Detractor
+954,2023-03-25 14:14,Should I diversify with SPX?,Forex Analysis,SPX is trending upward.,165,92,93,Negative,Needs improvement,Failed,U10163,Retail,Europe,Mobile,11,False,3,Detractor
+955,2022-10-06 11:36,What's the trend with Gold?,Stock Prediction,Gold is up due to inflation concerns.,170,91,94,Positive,Helpful,Successful,U10237,Retail,South America,Desktop,42,False,10,Promoter
+956,2024-04-03 15:54,What's the trend with AAPL?,Price Check,AAPL earnings beat expectations.,175,90,90,Neutral,Needs improvement,Failed,U10107,Institutional,Middle East,Mobile,48,False,7,Passive
+957,2024-08-28 12:37,How is Equities trending today?,Forex Analysis,Equity markets are stabilizing.,180,89,91,Negative,Needs improvement,Failed,U10268,Retail,Africa,Desktop,10,True,3,Detractor
+958,2023-08-09 09:46,Any news on MSFT?,Strategy Advice,MSFT outlook is positive this quarter.,185,88,92,Negative,Needs improvement,Failed,U10161,Institutional,Asia,Desktop,59,True,3,Detractor
+959,2023-12-28 12:15,What is your prediction for GBP?,Future Investment,GBP is gaining against EUR.,190,87,93,Positive,Helpful,Successful,U10191,Retail,North America,Mobile,28,True,10,Promoter
+960,2022-07-19 12:57,What's the trend with Commodities?,Forex Analysis,Commodity markets are steady.,195,86,94,Positive,Helpful,Successful,U10025,Retail,North America,Desktop,54,False,10,Promoter
+961,2024-03-19 09:26,What's the trend with SPX?,Price Check,SPX is trending upward.,150,95,90,Positive,Helpful,Successful,U10230,Retail,North America,Mobile,24,False,10,Promoter
+962,2020-01-16 17:02,What's the price of USD now?,Risk Analysis,USD is strengthening against other currencies.,155,94,91,Positive,Helpful,Successful,U10197,Institutional,Asia,Mobile,25,False,10,Promoter
+963,2023-09-13 16:51,Market outlook for BTC?,Strategy Advice,BTC shows positive momentum today.,160,93,92,Negative,Needs improvement,Failed,U10106,Retail,North America,Mobile,49,False,3,Detractor
+964,2020-08-16 12:05,How is AAPL trending today?,Buy Order,AAPL earnings beat expectations.,165,92,93,Positive,Helpful,Successful,U10194,Retail,Asia,Mobile,17,False,10,Promoter
+965,2024-01-23 15:13,What's the trend with Gold?,Sell Order,Gold is up due to inflation concerns.,170,91,94,Positive,Helpful,Successful,U10013,Retail,Africa,Desktop,36,True,10,Promoter
+966,2021-06-10 12:41,Is Gold safe to invest in?,Forex Analysis,Gold is up due to inflation concerns.,175,90,90,Positive,Helpful,Successful,U10295,Institutional,South America,Desktop,15,False,10,Promoter
+967,2020-01-16 13:10,Analysis of SPX?,Investment Planning,SPX is trending upward.,180,89,91,Negative,Needs improvement,Failed,U10203,Institutional,South America,Desktop,41,True,3,Detractor
+968,2023-10-24 09:29,What's the trend with Gold?,Price Check,Gold is up due to inflation concerns.,185,88,92,Negative,Needs improvement,Failed,U10119,Institutional,North America,Mobile,38,True,3,Detractor
+969,2023-03-28 15:11,Should I buy or sell USD?,Sell Order,USD is strengthening against other currencies.,190,87,93,Positive,Helpful,Successful,U10225,Institutional,North America,Mobile,56,True,10,Promoter
+970,2022-11-15 09:55,Any news on USD?,Strategy Advice,USD remains stable.,195,86,94,Positive,Helpful,Successful,U10289,Retail,North America,Mobile,50,False,10,Promoter
+971,2020-07-23 14:33,What's the trend with MSFT?,Price Check,MSFT outlook is positive this quarter.,150,95,90,Positive,Helpful,Successful,U10129,Retail,South America,Mobile,43,False,10,Promoter
+972,2020-05-14 13:44,Give me an update on Tesla.,Investment Planning,Tesla stock remains volatile.,155,94,91,Positive,Helpful,Successful,U10003,Institutional,South America,Mobile,29,False,10,Promoter
+973,2024-09-19 12:50,Should I buy or sell Forex?,Financial Advice,Forex shows balanced trading.,160,93,92,Negative,Needs improvement,Failed,U10077,Retail,South America,Desktop,22,False,3,Detractor
+974,2020-10-11 09:32,How is Oil trending today?,Buy Order,Oil shows demand increase.,165,92,93,Neutral,Needs improvement,Failed,U10153,VIP,South America,Desktop,43,False,7,Passive
+975,2022-01-04 15:23,Should I diversify with GBP?,Investment Planning,GBP trends show minor fluctuations.,170,91,94,Negative,Needs improvement,Failed,U10155,Institutional,North America,Mobile,20,False,3,Detractor
+976,2023-10-02 14:23,Should I buy or sell GBP?,Sell Order,GBP trends show minor fluctuations.,175,90,90,Negative,Needs improvement,Failed,U10174,Retail,Europe,Tablet,33,False,3,Detractor
+977,2021-11-18 10:35,What's the price of USD now?,Forex Analysis,USD is strengthening against other currencies.,180,89,91,Positive,Helpful,Successful,U10172,Retail,Middle East,Mobile,46,True,10,Promoter
+978,2021-03-11 12:34,Give me an update on XAU.,Risk Analysis,XAU indicates investor confidence.,185,88,92,Positive,Helpful,Successful,U10133,Retail,North America,Mobile,46,False,10,Promoter
+979,2020-11-16 12:48,What's your take on Oil?,Sell Order,Oil prices are rising.,190,87,93,Positive,Helpful,Successful,U10117,Retail,South America,Mobile,14,False,10,Promoter
+980,2021-06-12 13:32,Analysis of Bonds?,Risk Analysis,Bond yields are increasing.,195,86,94,Negative,Needs improvement,Failed,U10231,Retail,Asia,Tablet,3,False,3,Detractor
+981,2023-05-02 10:23,How is USD trending today?,Price Check,USD is strengthening against other currencies.,150,95,90,Positive,Helpful,Successful,U10176,VIP,Asia,Desktop,19,False,10,Promoter
+982,2022-08-16 17:33,How is SPX trending today?,Financial Advice,SPX is trending upward.,155,94,91,Positive,Helpful,Successful,U10150,Retail,North America,Mobile,36,True,10,Promoter
+983,2020-08-23 17:43,How is Commodities trending today?,Sell Order,Commodity markets are steady.,160,93,92,Positive,Helpful,Successful,U10103,Retail,North America,Mobile,27,False,10,Promoter
+984,2024-05-15 14:51,How is XAU trending today?,Forex Analysis,Gold prices are increasing.,165,92,93,Positive,Helpful,Successful,U10007,Retail,North America,Tablet,6,False,10,Promoter
+985,2020-04-15 10:05,How is WTI trending today?,Asset Allocation,WTI crude sees a price jump.,170,91,94,Positive,Helpful,Successful,U10031,VIP,North America,Mobile,39,False,10,Promoter
+986,2023-03-10 10:06,What's the price of Equities now?,Future Investment,Equities are gaining after recent selloff.,175,90,90,Neutral,Needs improvement,Failed,U10124,Retail,Europe,Desktop,53,False,7,Passive
+987,2021-05-04 11:31,Give me an update on Tesla.,Buy Order,Tesla shows bullish signs.,180,89,91,Positive,Helpful,Successful,U10288,VIP,North America,Desktop,33,False,10,Promoter
+988,2021-04-17 09:18,Market outlook for GOOGL?,Strategy Advice,GOOGL stock is slightly volatile.,185,88,92,Neutral,Needs improvement,Failed,U10034,Retail,North America,Mobile,38,False,7,Passive
+989,2023-11-18 11:30,What's the price of ETH now?,Risk Analysis,ETH trading volume is decreasing.,190,87,93,Negative,Needs improvement,Failed,U10282,Retail,South America,Desktop,5,False,3,Detractor
+990,2022-07-15 09:18,What is your prediction for BTC?,Market Analysis,"BTC is bullish, buying recommended.",195,86,94,Positive,Helpful,Successful,U10042,Retail,Europe,Mobile,60,True,10,Promoter
+991,2021-02-01 12:53,Analysis of Equities?,Sell Order,Equity markets are stabilizing.,150,95,90,Negative,Needs improvement,Failed,U10093,Retail,South America,Mobile,26,True,3,Detractor
+992,2024-11-11 15:37,What's the price of GOOGL now?,Financial Advice,GOOGL remains a solid long-term pick.,155,94,91,Negative,Needs improvement,Failed,U10136,Institutional,Europe,Desktop,18,False,3,Detractor
+993,2022-11-21 14:31,Give me an update on Forex.,Market Analysis,Forex markets favor USD today.,160,93,92,Positive,Helpful,Successful,U10062,Retail,South America,Desktop,33,False,10,Promoter
+994,2024-11-23 17:53,What's the price of Commodities now?,Price Check,Commodity markets are steady.,165,92,93,Positive,Helpful,Successful,U10144,Institutional,North America,Mobile,32,True,10,Promoter
+995,2024-08-15 13:36,Should I diversify with Forex?,Sell Order,Forex markets favor USD today.,170,91,94,Positive,Helpful,Successful,U10142,Institutional,South America,Mobile,1,False,10,Promoter
+996,2021-05-06 13:14,What is your prediction for Tesla?,Risk Analysis,Tesla stock remains volatile.,175,90,90,Positive,Helpful,Successful,U10131,Retail,Europe,Mobile,57,True,10,Promoter
+997,2023-06-10 09:09,Market outlook for WTI?,Forex Analysis,WTI is showing high volatility.,180,89,91,Negative,Needs improvement,Failed,U10209,VIP,North America,Tablet,56,False,3,Detractor
+998,2022-05-15 11:39,Should I diversify with Gold?,Buy Order,Investors are flocking to Gold.,185,88,92,Negative,Needs improvement,Failed,U10095,Institutional,North America,Desktop,45,False,3,Detractor
+999,2021-12-18 13:11,Any news on NASDAQ?,Sell Order,NASDAQ shows investor optimism.,190,87,93,Positive,Helpful,Successful,U10090,Institutional,Europe,Desktop,49,True,10,Promoter
+1000,2021-12-23 11:10,Analysis of WTI?,Market Analysis,WTI crude sees a price jump.,195,86,94,Positive,Helpful,Successful,U10243,Institutional,Europe,Desktop,49,False,10,Promoter

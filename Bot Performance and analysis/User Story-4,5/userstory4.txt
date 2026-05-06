@@ -1,0 +1,97 @@
+To generate Key Performance Indicators (KPIs) using Power BI based on your dataset and the goals in User Story 3, here’s a complete plan with practical implementation steps:
+________________________________________
+✅ Key Performance Indicators in Power BI
+Based on your dataset and defined metrics:
+•	Response Time (ms)
+•	Success Rate
+•	User Drop-off Points
+•	(Optional) Accuracy & Sentiment Trends
+________________________________________
+🛠️ Step-by-Step Guide
+🔹 1. Prepare the Dataset
+Make sure your dataset includes the following fields (as per your generated CSV):
+Column Name	Description
+Interaction ID	Unique ID for each interaction
+Timestamp	Date and time of interaction
+User Query	Text query from user
+Intent Detected	Predicted intent
+Bot Response	Response from the bot
+Response Time (ms)	Time taken to respond
+Prediction Accuracy (%)	Model prediction confidence
+Entity Extraction Accuracy (%)	Entity detection accuracy
+User Sentiment	Positive / Neutral / Negative
+User Feedback	Helpful / Needs improvement
+Conversation Success	Successful / Failed
+________________________________________
+🔹 2. Load Data into Power BI
+1.	Open Power BI Desktop.
+2.	Click Home > Get Data > CSV and load your file trading_bot_dataset.csv.
+3.	Review the data in Data view.
+________________________________________
+🔹 3. Create Measures for KPIs
+✅ Success Rate (%)
+Success Rate (%) = 
+VAR Total = COUNT('Table'[Interaction ID])
+VAR Success = CALCULATE(COUNT('Table'[Conversation Success]), 'Table'[Conversation Success] = "Successful")
+RETURN DIVIDE(Success, Total) * 100
+✅ Average Response Time (ms)
+Avg Response Time (ms) = AVERAGE('Table'[Response Time (ms)])
+✅ Drop-Off Rate (%)
+Assuming drop-off is indicated by “Failed” conversations:
+Drop-Off Rate (%) = 
+VAR Total = COUNT('Table'[Interaction ID])
+VAR Failed = CALCULATE(COUNT('Table'[Conversation Success]), 'Table'[Conversation Success] = "Failed")
+RETURN DIVIDE(Failed, Total) * 100
+✅ Average Accuracy Score
+Avg Prediction Accuracy (%) = AVERAGE('Table'[Prediction Accuracy (%)])
+✅ Sentiment Distribution (Pie or Bar)
+No DAX needed—just use User Sentiment in a pie chart or bar chart.
+________________________________________
+🔹 4. Create KPI Visuals
+Use Power BI KPI or Card Visuals:
+•	Add a Card for:
+o	Success Rate
+o	Drop-Off Rate
+o	Avg Response Time
+o	Avg Accuracy
+Use Bar Charts or Pie Charts for:
+•	User Sentiment
+•	Intent Distribution
+•	Feedback Summary
+Use Line Graph for:
+•	Response Time over time (Timestamp on X-axis)
+________________________________________
+🔹 5. Enhance the Report with Filters
+•	Add slicers for:
+o	Time range (from Timestamp)
+o	Sentiment
+o	Intent
+o	Channel (if applicable later)
+________________________________________
+🧪 Optional Benchmarks (Could Have)
+If you define thresholds (e.g., ideal Success Rate > 85%), you can use conditional formatting:
+•	Green for above threshold
+•	Red for below threshold
+Example in KPI visual options > Indicators.
+________________________________________
+📊 Sample Layout for Dashboard
+Visual	Metric
+KPI Card	Success Rate (%)
+KPI Card	Avg Response Time (ms)
+KPI Card	Drop-Off Rate (%)
+Pie Chart	User Sentiment Distribution
+Bar Chart	Intent Frequency
+Line Chart	Response Time Over Time
+Table	Interaction Log with key fields
+________________________________________
+🧾 Notes:
+•	Replace 'Table' with your actual table name in Power BI.
+•	You can create custom tooltips to show supporting metrics when hovering over visuals.
+•	If you’re using Power BI Service, you can schedule data refreshes.
+________________________________________
+Would you like:
+•	A downloadable .pbix file with a sample dashboard?
+•	Integration instructions for Hive or other live data sources?
+•	Embedded alerts or Power BI Goals setup?
+Let me know how you'd like to proceed!
+

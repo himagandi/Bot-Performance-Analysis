@@ -1,0 +1,553 @@
+
+
+### **1. Average Response Time per Intent**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      avg_response_time: { $avg: "$Response_Time_ms" }
+    }
+  }
+])
+```
+
+* **Power BI C
+hart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Intent_Detected`
+  * **Y-axis**: `avg_response_time`
+* **DAX**:
+
+```DAX
+AvgResponseByIntent = AVERAGEX(GROUPBY(Data, Data[Intent_Detected]), Data[Response_Time_ms])
+```
+
+---
+
+### **2. Successful vs. Failed Conversations**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Conversation_Success",
+      count: { $sum: 1 }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Pie Chart**
+* **Fields to Keep**:
+
+  * **Legend**: `Conversation_Success`
+  * **Values**: `count`
+* **DAX**:
+
+```DAX
+SuccessCount = COUNTAX(FILTER(Data, Data[Conversation_Success] = "Successful"), Data[Conversation_Success])
+```
+
+---
+
+### **3. Average Prediction Accuracy by Sentiment**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$User_Sentiment",
+      avg_accuracy: { $avg: "$Prediction_Accuracy_percent" }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `User_Sentiment`
+  * **Y-axis**: `avg_accuracy`
+* **DAX**:
+
+```DAX
+AvgPredictionBySentiment = AVERAGEX(GROUPBY(Data, Data[User_Sentiment]), Data[Prediction_Accuracy_percent])
+```
+
+---
+
+### **4. User Feedback: Helpful vs Needs Improvement**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$User_Feedback",
+      feedback_count: { $sum: 1 }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `User_Feedback`
+  * **Y-axis**: `feedback_count`
+
+---
+
+### **5. Average Entity Extraction Accuracy by Intent**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      avg_entity_accuracy: { $avg: "$Entity_Extraction_Accuracy_percent" }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Intent_Detected`
+  * **Y-axis**: `avg_entity_accuracy`
+* **DAX**:
+
+```DAX
+AvgEntityAccuracyByIntent = AVERAGEX(GROUPBY(Data, Data[Intent_Detected]), Data[Entity_Extraction_Accuracy_percent])
+```
+
+---
+
+### **6. Monthly Success Rate for Conversations**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $addFields: {
+      parsedDate: { $dateFromString: { dateString: "$Timestamp", format: "%m/%d/%Y %H:%M" } }
+    }
+  },
+  {
+    $group: {
+      _id: { month: { $month: "$parsedDate" }, year: { $year: "$parsedDate" } },
+      successful: {
+        $sum: {
+          $cond: [{ $eq: ["$Conversation_Success", "Successful"] }, 1, 0]
+        }
+      },
+      total: { $sum: 1 }
+    }
+  },
+  { $sort: { "_id.year": 1, "_id.month": 1 } }
+])
+```
+
+* **Power BI Chart Type**: **Line Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Year-Month`
+  * **Y-axis**: `Success Rate` (calculated as successful/total)
+
+---
+
+### **7. Average Response Time for Failed Conversations**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  { $match: { "Conversation_Success": "Failed" } },
+  {
+    $group: {
+      _id: "$Conversation_Success",
+      avg_response_time: { $avg: "$Response_Time_ms" }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Card**
+* **Fields to Keep**:
+
+  * **Value**: `avg_response_time`
+* **DAX**:
+
+```DAX
+AvgResponseFailed = CALCULATE(AVERAGE(Data[Response_Time_ms]), Data[Conversation_Success] = "Failed")
+```
+
+---
+
+### **8. Number of Interactions for Each Sentiment**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$User_Sentiment",
+      total_interactions: { $sum: 1 }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `User_Sentiment`
+  * **Y-axis**: `total_interactions`
+
+---
+
+### **9. Intents with the Highest Failure Rate**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      failed: {
+        $sum: {
+          $cond: [{ $eq: ["$Conversation_Success", "Failed"] }, 1, 0]
+        }
+      },
+      total: { $sum: 1 }
+    }
+  },
+  {
+    $addFields: {
+      failure_rate: { $multiply: [{ $divide: ["$failed", "$total"] }, 100] }
+    }
+  },
+  { $sort: { failure_rate: -1 } }
+])
+```
+
+* **Power BI Chart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Intent_Detected`
+  * **Y-axis**: `failure_rate`
+
+---
+
+### **10. Correlation Between User Sentiment and Response Time**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$User_Sentiment",
+      avg_response_time: { $avg: "$Response_Time_ms" }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Scatter Plot**
+* **Fields to Keep**:
+
+  * **X-axis**: `User_Sentiment`
+  * **Y-axis**: `avg_response_time`
+
+---
+
+### **11. Daily Number of Interactions**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $addFields: {
+      day: { $dayOfMonth: { $dateFromString: { dateString: "$Timestamp" } } }
+    }
+  },
+  {
+    $group: {
+      _id: "$day",
+      total_interactions: { $sum: 1 }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Line Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `day`
+  * **Y-axis**: `total_interactions`
+
+---
+
+### **12. Average Sentiment per Intent**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      avg_sentiment: { $avg: "$User_Sentiment" }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Column Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Intent_Detected`
+  * **Y-axis**: `avg_sentiment`
+
+---
+
+### **13. Most Common Intent**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      count: { $sum: 1 }
+    }
+  },
+  { $sort: { count: -1 } },
+  { $limit: 1 }
+])
+```
+
+* **Power BI Chart Type**: **Pie Chart**
+* **Fields to Keep**:
+
+  * **Legend**: `Intent_Detected`
+  * **Values**: `count`
+
+---
+
+### **14. User Feedback Ratings for Each Intent**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      feedback_count: { $sum: 1 }
+    }
+  }
+])
+```
+
+* **Power BI Chart Type**: **Column Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Intent_Detected`
+  * **Y-axis**: `feedback_count`
+
+---
+
+### **15. Top 5 Intents by Prediction Accuracy**
+
+* **MongoDB Query:**
+
+```js
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Intent_Detected",
+      avg_accuracy: { $avg: "$Prediction_Accuracy_percent" }
+    }
+  },
+  { $sort: { avg_accuracy: -1 } },
+  { $limit: 5 }
+])
+```
+
+* **Power BI Chart Type**: **Bar Chart**
+* **Fields to Keep**:
+
+  * **X-axis**: `Intent_Detected`
+  * **Y-axis**: `avg_accuracy`
+
+---
+
+### 🔷 **DAX Insights (5)**
+
+---
+
+### **16. Percentage of Conversations Marked as Successful**
+16. Percentage of Conversations Marked as Successful
+MongoDB Query:
+
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$Conversation_Success",
+      total_conversations: { $sum: 1 }
+    }
+  },
+  {
+    $project: {
+      _id: 0,
+      status: "$_id",
+      total_conversations: 1
+    }
+  }
+])
+------------------------------
+```DAX
+SuccessPercentage = 
+    DIVIDE(
+        CALCULATE(COUNTROWS(Data), Data[Conversation_Success] = "Successful"), 
+        COUNTROWS(Data)
+    )
+```
+
+---
+
+### **17. Average Response Time by Month**
+db.collection.aggregate([
+  {
+    $addFields: {
+      month: { $month: { $dateFromString: { dateString: "$Timestamp" } } },
+      year: { $year: { $dateFromString: { dateString: "$Timestamp" } } }
+    }
+  },
+  {
+    $group: {
+      _id: { year: "$year", month: "$month" },
+      avg_response_time: { $avg: "$Response_Time_ms" }
+    }
+  },
+  { $sort: { "_id.year": 1, "_id.month": 1 } }
+])
+
+
+
+```DAX
+AvgResponseTimeByMonth = 
+    AVERAGEX(
+        VALUES(Data[Month]), 
+        CALCULATE(AVERAGE(Data[Response_Time_ms]))
+    )
+```
+
+---
+
+### **18. Entity Extraction Accuracy Above Threshold (e.g., 90%)**
+db.collection.aggregate([
+  {
+    $match: {
+      "Entity_Extraction_Accuracy_percent": { $gt: 90 }
+    }
+  },
+  {
+    $group: {
+      _id: "$Entity_Extraction_Accuracy_percent",
+      total_count: { $sum: 1 }
+    }
+  }
+])
+
+
+```DAX
+AboveThresholdEntityAccuracy = 
+    CALCULATE(
+        COUNTROWS(Data), 
+        Data[Entity_Extraction_Accuracy_percent] > 90
+    )
+```
+
+---
+
+### **19. Total Conversations per Sentiment**
+
+db.collection.aggregate([
+  {
+    $group: {
+      _id: "$User_Sentiment",
+      total_conversations: { $sum: 1 }
+    }
+  }
+])
+
+```DAX
+TotalSentimentConversations = 
+    COUNTROWS(FILTER(Data, Data[User_Sentiment] = "Negative"))
+```
+
+---
+
+### **20. Response Time Variance**
+db.collection.aggregate([
+  {
+    $group: {
+      _id: null,
+      mean_response_time: { $avg: "$Response_Time_ms" }
+    }
+  },
+  {
+    $project: {
+      _id: 0,
+      mean_response_time: 1
+    }
+  },
+  {
+    $lookup: {
+      from: "collection",  // Replace with your collection name
+      pipeline: [
+        {
+          $project: {
+            response_time_diff_sq: { $pow: [{ $subtract: ["$Response_Time_ms", "$mean_response_time"] }, 2] }
+          }
+        },
+        {
+          $group: {
+            _id: null,
+            variance: { $avg: "$response_time_diff_sq" }
+          }
+        }
+      ],
+      as: "response_time_variance"
+    }
+  }
+])
+
+
+```DAX
+ResponseTimeVariance = 
+    VAR MeanResponseTime = AVERAGE(Data[Response_Time_ms])
+    RETURN
+    AVERAGEX(Data, (Data[Response_Time_ms] - MeanResponseTime)^2)
+

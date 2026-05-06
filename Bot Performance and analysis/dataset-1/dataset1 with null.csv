@@ -1,0 +1,1115 @@
+Interaction ID,Timestamp,User Query,Intent Detected,Bot Response,Response Time (ms),Prediction Accuracy (%),Entity Extraction Accuracy (%),User Sentiment,User Feedback,Conversation Success
+1,1/24/2020 13:15,What's the price of GBP now?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+2,3/24/2021 10:43,What's your take on Equities?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+3,2/19/2024 15:02,How is WTI trending today?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+4,2/7/2020 12:32,Any news on Bonds?,Forex Analysis,Forex market indicates a strong USD.,null,92,93,Positive,Helpful,Successful
+5,1/18/2024 12:45,What is your prediction for USD?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+6,7/8/2024 16:37,Is XAU safe to invest in?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+7,1/25/2022 11:44,Give me an update on XAU.,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+8,6/9/2023 11:13,Market outlook for Bonds?,Buy Order,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+9,2/3/2022 15:06,Any news on NASDAQ?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+10,6/20/2022 13:51,Should I buy or sell Tesla?,Sentiment Analysis,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+11,12/15/2020 17:07,What's your take on GBP?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+12,2/18/2023 13:53,What's your take on NASDAQ?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+13,6/19/2024 12:45,Any news on Commodities?,Cryptocurrency Update,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+14,1/22/2020 12:49,What is your prediction for Oil?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+15,2/28/2022 12:55,Should I buy or sell Equities?,Portfolio Management,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+16,7/9/2020 16:40,Should I buy or sell Equities?,Sell Order,Gold prices are increasing.,175,  null,90,Positive,Helpful,Successful
+17,3/12/2022 14:13,Analysis of EUR?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+18,12/22/2022 10:38,How is XAU trending today?,Future Investment,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+19,9/24/2021 12:10,Give me an update on Crypto.,Buy Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+20,7/9/2023 17:14,What's your take on Commodities?,Price Check,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+21,1/8/2022 9:51,Give me an update on MSFT.,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+22,7/9/2022 10:13,What's the trend with MSFT?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+23,12/11/2024 12:41,Market outlook for BTC?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+24,7/21/2023 16:09,Should I buy or sell Gold?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+25,3/8/2022 17:34,Market outlook for MSFT?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+26,12/19/2022 15:57,Analysis of Forex?,Financial Advice,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+27,7/12/2024 12:08,Is WTI safe to invest in?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+28,8/3/2024 9:55,Market outlook for SPX?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+29,3/21/2020 11:50,What is your prediction for Crypto?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+30,10/3/2023 15:24,Should I diversify with ETH?,Market Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+31,8/17/2024 13:35,What's your take on GOOGL?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+32,11/24/2020 10:43,What's the trend with USD?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+33,5/25/2024 14:07,What's the price of GBP now?,Risk Analysis,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+34,7/6/2022 16:00,What is your prediction for Tesla?,Future Investment,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+35,9/25/2022 11:32,Analysis of GOOGL?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+36,11/10/2020 17:38,Market outlook for WTI?,Financial Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+37,3/12/2021 11:34,What is your prediction for NASDAQ?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+38,1/20/2024 14:31,Any news on Crypto?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+39,2/12/2020 13:15,Is XAU safe to invest in?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+40,4/19/2020 10:05,Any news on BTC?,Future Investment,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+41,2/25/2023 17:49,What's your take on GOOGL?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+42,3/22/2021 16:35,Any news on Bonds?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+43,5/17/2021 15:13,Give me an update on Equities.,Price Check,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+44,12/23/2024 12:45,Should I diversify with Crypto?,Investment Planning,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+45,7/22/2022 14:28,Should I buy or sell SPX?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+46,8/4/2024 12:14,Any news on WTI?,Forex Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+47,6/1/2020 17:14,Analysis of Forex?,Buy Order,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+48,4/1/2024 10:45,Market outlook for Oil?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+49,4/3/2020 9:55,How is Commodities trending today?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+50,2/17/2022 12:17,Should I diversify with SPX?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+51,4/18/2023 11:46,Market outlook for MSFT?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+52,10/16/2024 12:50,Should I buy or sell WTI?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+53,7/7/2023 10:06,What's your take on Bonds?,Buy Order,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+54,6/14/2023 15:29,Should I diversify with Commodities?,Price Check,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+55,11/21/2020 10:03,How is AAPL trending today?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+56,12/11/2023 10:15,Should I buy or sell WTI?,Financial Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+57,4/18/2021 16:08,Give me an update on WTI.,Sell Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+58,3/9/2023 16:15,Any news on SPX?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+59,8/26/2020 17:06,What's the trend with XAU?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+60,11/18/2020 9:05,Should I diversify with Commodities?,Sell Order,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+61,3/14/2021 16:30,What is your prediction for Oil?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+62,7/2/2021 11:24,Any news on Equities?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+63,7/9/2020 16:18,Is Oil safe to invest in?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+64,12/24/2023 17:42,What's your take on USD?,Portfolio Management,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+65,3/7/2023 13:13,Should I buy or sell BTC?,Forex Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+66,10/24/2020 17:03,Should I buy or sell EUR?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+67,1/2/2022 16:32,Analysis of XAU?,Sell Order,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+68,3/2/2024 17:05,What's the trend with AAPL?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+69,2/20/2021 10:43,Give me an update on USD.,Technical Analysis,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+70,7/4/2021 12:37,What's your take on GOOGL?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+71,1/20/2024 10:26,How is AAPL trending today?,Future Investment,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+72,10/17/2024 14:59,Market outlook for Crypto?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+73,4/22/2022 14:15,What's the price of BTC now?,Buy Order,Stock market shows mixed signals today.,160,93,92,Neutral,Needs improvement,Failed
+74,7/5/2022 13:29,What's your take on Forex?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+75,2/1/2022 16:39,How is GOOGL trending today?,Investment Planning,Diversifying might reduce your risk.,170,91,94,Neutral,Needs improvement,Failed
+76,2/3/2024 17:13,What is your prediction for Bonds?,Forex Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+77,5/5/2024 14:56,Should I buy or sell AAPL?,Sell Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+78,4/12/2020 13:10,Analysis of Commodities?,Buy Order,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+79,9/23/2023 13:39,What is your prediction for EUR?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+80,1/22/2024 17:19,Give me an update on SPX.,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+81,3/9/2020 10:56,Market outlook for MSFT?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+82,12/18/2020 11:17,Should I buy or sell Forex?,Technical Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+83,10/7/2022 14:13,Should I buy or sell BTC?,Risk Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+84,9/16/2022 13:57,What's the price of NASDAQ now?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+85,2/21/2020 15:53,Any news on Tesla?,Sell Order,Diversifying might reduce your risk.,null,91,94,Negative,Needs improvement,Failed
+86,1/1/2022 14:49,Market outlook for Crypto?,Price Check,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+87,11/9/2021 11:47,What is your prediction for Crypto?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+88,9/23/2023 15:35,Market outlook for MSFT?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+89,2/3/2020 11:34,What's the trend with Crypto?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+90,6/19/2020 17:09,Should I buy or sell Equities?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+91,3/2/2023 13:23,Should I diversify with Oil?,Cryptocurrency Update,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+92,6/7/2020 12:42,Analysis of Equities?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+93,6/25/2020 17:56,What's your take on Forex?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+94,10/24/2023 11:59,Analysis of Crypto?,Portfolio Management,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+95,3/26/2021 11:56,What is your prediction for NASDAQ?,Financial Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+96,1/6/2023 14:50,Market outlook for Crypto?,Cryptocurrency Update,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+97,11/28/2023 12:17,Give me an update on AAPL.,Price Check,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+98,12/4/2021 15:55,Market outlook for SPX?,Price Check,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+99,8/8/2020 12:52,Any news on Gold?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+100,6/10/2023 12:14,What is your prediction for MSFT?,Cryptocurrency Update,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+101,11/7/2020 15:21,What is your prediction for BTC?,Trading Bot Query,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+102,2/25/2022 13:22,What's the price of Forex now?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+103,7/22/2024 17:21,Should I buy or sell NASDAQ?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+104,2/9/2020 11:37,What is your prediction for Tesla?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+105,1/4/2022 15:22,Is BTC safe to invest in?,Cryptocurrency Update,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+106,7/20/2022 17:07,What's the trend with Tesla?,Financial Advice,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+107,10/7/2023 13:02,Market outlook for SPX?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+108,1/17/2023 17:43,What's the price of Gold now?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+109,6/14/2021 10:42,What is your prediction for Bonds?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+110,10/11/2022 10:46,Give me an update on BTC.,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+111,9/10/2022 15:20,Is NASDAQ safe to invest in?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+112,12/10/2023 17:08,Give me an update on Gold.,Investment Planning,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+113,7/22/2021 15:43,Is Gold safe to invest in?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+114,10/19/2021 13:25,What's your take on EUR?,Future Investment,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+115,1/10/2024 13:13,Should I buy or sell Commodities?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+116,10/20/2023 14:29,What's your take on EUR?,Cryptocurrency Update,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+117,8/22/2023 12:32,What is your prediction for AAPL?,Buy Order,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+118,12/6/2023 10:18,What's your take on EUR?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+119,11/21/2024 14:05,Is Bonds safe to invest in?,Price Check,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+120,11/10/2021 12:51,What's the trend with XAU?,Technical Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+121,3/1/2021 9:15,What is your prediction for Crypto?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+122,10/28/2023 10:29,What is your prediction for Gold?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+123,11/19/2023 12:45,Give me an update on AAPL.,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+124,8/13/2023 12:09,Should I buy or sell MSFT?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+125,2/25/2020 15:14,What is your prediction for GOOGL?,Stock Prediction,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+126,12/17/2021 16:03,Analysis of Oil?,Portfolio Management,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+127,4/28/2024 10:29,Should I diversify with Oil?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+128,8/22/2021 17:35,What is your prediction for Bonds?,Portfolio Management,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+129,6/25/2024 16:39,Market outlook for GBP?,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+130,7/27/2024 17:28,Any news on BTC?,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+131,12/28/2021 16:28,Should I buy or sell ETH?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+132,4/27/2022 13:49,Is BTC safe to invest in?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+133,8/21/2024 12:17,Should I buy or sell GOOGL?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+134,2/23/2023 13:15,What is your prediction for XAU?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+135,6/11/2022 17:05,Should I buy or sell Oil?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+136,3/8/2021 15:44,What's the trend with BTC?,Sell Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+137,12/7/2021 10:26,Give me an update on AAPL.,Market Analysis,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+138,6/18/2023 16:26,Should I buy or sell BTC?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+139,4/27/2020 15:24,Market outlook for GBP?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+140,12/1/2024 15:30,Any news on Gold?,Market Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+141,6/10/2020 15:54,What is your prediction for Tesla?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+142,9/24/2023 17:51,Any news on Oil?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+143,4/16/2024 12:17,What's the trend with ETH?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+144,8/1/2023 15:21,Any news on AAPL?,Portfolio Management,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+145,12/6/2023 16:58,Should I buy or sell ETH?,Buy Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+146,10/18/2021 9:58,What is your prediction for Commodities?,Sell Order,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+147,10/19/2023 9:05,How is Crypto trending today?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+148,3/28/2023 16:11,Market outlook for USD?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+149,5/13/2020 14:13,Give me an update on XAU.,Asset Allocation,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+150,6/11/2023 15:17,What's your take on BTC?,Future Investment,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+151,5/27/2023 10:30,How is EUR trending today?,Price Check,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+152,12/18/2020 9:22,What's your take on Oil?,Asset Allocation,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+153,11/3/2021 9:48,Give me an update on ETH.,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+154,4/7/2020 9:39,Give me an update on Oil.,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+155,4/5/2021 16:42,What's the trend with GOOGL?,Risk Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+156,10/7/2020 16:44,Is GBP safe to invest in?,Portfolio Management,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+157,6/6/2022 10:49,Market outlook for Commodities?,Buy Order,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+158,5/4/2021 9:59,Analysis of SPX?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+159,10/22/2022 15:25,Any news on USD?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+160,2/19/2021 12:06,Analysis of ETH?,Price Check,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+161,11/20/2022 10:50,What's the trend with Crypto?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+162,1/12/2024 17:27,Is GOOGL safe to invest in?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+163,2/17/2022 14:00,What is your prediction for Tesla?,Portfolio Management,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+164,8/4/2023 15:23,Analysis of SPX?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+165,12/5/2023 15:11,Give me an update on NASDAQ.,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+166,11/9/2024 17:49,What's the price of GBP now?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+167,8/14/2023 13:20,How is EUR trending today?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+168,2/9/2021 16:15,Analysis of Gold?,Buy Order,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+169,10/20/2023 15:21,Any news on BTC?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+170,8/28/2020 14:11,Should I buy or sell XAU?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+171,4/12/2023 13:21,Should I diversify with GOOGL?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+172,10/23/2022 13:35,What's your take on EUR?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+173,9/7/2020 10:15,What's the price of ETH now?,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+174,8/18/2023 12:44,Should I diversify with Tesla?,Sell Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+175,11/23/2023 16:28,What's the trend with Bonds?,Buy Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+176,2/10/2020 12:25,Should I buy or sell NASDAQ?,Portfolio Management,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+177,5/22/2021 14:30,How is EUR trending today?,Price Check,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+178,9/12/2024 15:47,Should I buy or sell Tesla?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+179,6/12/2024 16:17,How is Bonds trending today?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+180,5/8/2022 10:46,Any news on ETH?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+181,6/4/2021 17:48,What's the price of NASDAQ now?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+182,4/7/2021 16:17,Analysis of MSFT?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+183,9/20/2024 13:06,What's the trend with Crypto?,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+184,5/8/2021 14:11,How is MSFT trending today?,Sell Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+185,1/23/2022 17:08,Market outlook for EUR?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+186,1/2/2022 17:18,Any news on Crypto?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+187,11/28/2021 16:06,Analysis of NASDAQ?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+188,10/10/2020 16:30,Market outlook for GBP?,Risk Analysis,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+189,6/6/2023 9:16,What's the price of Commodities now?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+190,2/27/2023 10:25,Any news on MSFT?,Cryptocurrency Update,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+191,2/19/2023 9:09,What is your prediction for ETH?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+192,10/10/2021 10:15,Market outlook for Oil?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+193,9/25/2020 15:38,Is SPX safe to invest in?,Forex Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+194,10/8/2024 17:24,Is Tesla safe to invest in?,Price Check,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+195,8/10/2023 15:19,Give me an update on Equities.,Forex Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+196,10/2/2024 10:48,Should I buy or sell Crypto?,Strategy Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+197,11/7/2021 13:42,Any news on WTI?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+198,3/8/2020 11:35,What's the trend with Oil?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+199,3/1/2020 15:28,What is your prediction for Bonds?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+200,8/10/2024 9:14,Is USD safe to invest in?,Cryptocurrency Update,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+201,12/10/2022 16:04,How is Forex trending today?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+202,5/26/2021 12:27,Should I buy or sell Oil?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+203,9/8/2020 11:58,What is your prediction for XAU?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+204,3/3/2022 9:10,Is NASDAQ safe to invest in?,Risk Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+205,10/24/2022 13:28,Market outlook for BTC?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+206,8/23/2020 13:44,Analysis of Forex?,Buy Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+207,5/17/2023 17:31,What's your take on USD?,Investment Planning,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+208,2/20/2023 9:56,What's the price of Bonds now?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+209,12/11/2023 13:01,Any news on Bonds?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+210,4/22/2020 9:48,Give me an update on WTI.,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+211,10/2/2022 11:30,What's the trend with AAPL?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+212,11/15/2024 13:11,Analysis of Crypto?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+213,7/21/2024 16:05,What's your take on GBP?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+214,6/14/2023 14:20,Is Tesla safe to invest in?,Sell Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+215,3/11/2020 15:44,Is MSFT safe to invest in?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+216,5/22/2023 15:52,Should I diversify with SPX?,Stock Prediction,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+217,1/15/2024 10:20,Any news on Gold?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+218,6/4/2022 15:55,Analysis of WTI?,Risk Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+219,1/22/2024 17:29,How is GOOGL trending today?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+220,1/7/2023 17:23,Is AAPL safe to invest in?,Sell Order,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+221,8/21/2024 16:48,What's the price of MSFT now?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+222,4/9/2020 17:08,Should I buy or sell ETH?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+223,8/23/2022 16:07,Give me an update on GOOGL.,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+224,11/20/2020 12:45,Market outlook for GBP?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+225,5/18/2021 9:35,How is ETH trending today?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+226,2/8/2023 10:29,Should I diversify with Commodities?,Forex Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+227,11/27/2020 11:31,Analysis of Tesla?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+228,9/23/2022 13:26,Is Bonds safe to invest in?,Portfolio Management,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+229,8/8/2023 16:35,What's the trend with Equities?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+230,7/7/2021 17:47,What is your prediction for ETH?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+231,2/9/2021 15:21,Any news on EUR?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+232,5/27/2024 9:18,Should I diversify with AAPL?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+233,10/19/2022 16:55,What's the price of GBP now?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+234,8/18/2021 16:22,Analysis of Tesla?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+235,9/25/2022 17:24,How is Oil trending today?,Buy Order,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+236,6/28/2023 12:44,Analysis of ETH?,Forex Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+237,10/13/2021 12:54,Any news on Crypto?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+238,1/11/2023 16:45,What's the trend with Gold?,Future Investment,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+239,7/22/2023 11:31,Any news on ETH?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+240,3/17/2020 14:55,Should I diversify with XAU?,Future Investment,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+241,8/4/2020 17:58,Is ETH safe to invest in?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+242,1/24/2023 11:26,What's the trend with AAPL?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+243,2/16/2021 13:21,What is your prediction for AAPL?,Buy Order,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+244,12/13/2024 10:54,Give me an update on Forex.,Market Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+245,11/28/2022 17:24,How is GOOGL trending today?,Financial Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+246,11/23/2022 16:55,What's the trend with EUR?,Buy Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+247,1/20/2024 10:15,Is Commodities safe to invest in?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+248,4/24/2022 10:27,Give me an update on GBP.,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+249,11/23/2020 10:28,Is EUR safe to invest in?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+250,12/10/2021 9:02,Should I diversify with USD?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+251,1/10/2022 14:23,Is Crypto safe to invest in?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+252,3/8/2023 17:26,What's your take on GOOGL?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+253,11/26/2024 11:10,Analysis of Equities?,Buy Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+254,2/20/2021 15:39,Any news on Oil?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+255,8/19/2021 11:14,What's the trend with Gold?,Price Check,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+256,11/9/2023 16:16,How is USD trending today?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+257,8/10/2020 17:10,Should I buy or sell Crypto?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+258,8/12/2020 13:40,What's your take on Forex?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+259,12/9/2023 16:54,Any news on USD?,Cryptocurrency Update,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+260,4/13/2022 16:06,Is Bonds safe to invest in?,Market Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+261,7/19/2021 14:36,Market outlook for NASDAQ?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+262,12/10/2022 9:53,Any news on Crypto?,Investment Planning,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+263,5/1/2023 9:58,Any news on NASDAQ?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Neutral,Needs improvement,Failed
+264,12/16/2024 13:49,What's your take on Gold?,Buy Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+265,10/26/2021 14:14,What's the trend with WTI?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+266,10/9/2021 11:40,Should I diversify with EUR?,Stock Prediction,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+267,11/21/2020 9:19,Should I diversify with Crypto?,Trading Bot Query,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+268,1/19/2023 14:46,Give me an update on Commodities.,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+269,2/10/2021 14:47,Is XAU safe to invest in?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+270,3/7/2023 11:50,Any news on Oil?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+271,6/17/2024 17:58,Market outlook for Commodities?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+272,3/9/2022 16:51,What's the price of ETH now?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+273,12/28/2022 14:51,What is your prediction for Bonds?,Forex Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+274,8/3/2020 11:48,What's the price of Forex now?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+275,11/24/2021 15:54,Should I buy or sell SPX?,Technical Analysis,Diversifying might reduce your risk.,170,91,94,Neutral,Needs improvement,Failed
+276,6/3/2024 15:00,What's the price of SPX now?,Buy Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+277,9/4/2022 16:23,Give me an update on GBP.,Financial Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+278,10/13/2022 14:06,Any news on BTC?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+279,8/1/2021 17:20,What's the trend with XAU?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+280,4/21/2024 10:40,Is Forex safe to invest in?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+281,12/10/2023 15:07,Is Equities safe to invest in?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+282,1/2/2021 13:31,Should I diversify with MSFT?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+283,2/8/2020 17:08,How is ETH trending today?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+284,8/12/2023 17:26,Market outlook for NASDAQ?,Trading Bot Query,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+285,12/24/2024 11:56,Should I buy or sell MSFT?,Stock Prediction,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+286,11/4/2023 16:39,What is your prediction for NASDAQ?,Regulation Inquiry,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+287,5/2/2023 14:13,Should I diversify with EUR?,Cryptocurrency Update,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+288,8/8/2023 14:06,Give me an update on XAU.,Risk Analysis,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+289,9/21/2022 14:03,What is your prediction for AAPL?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+290,5/7/2023 10:54,Should I diversify with Commodities?,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+291,2/22/2023 12:41,Should I diversify with GBP?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+292,1/2/2024 14:15,What's the trend with AAPL?,Future Investment,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+293,10/7/2021 10:53,What's the trend with WTI?,Portfolio Management,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+294,4/19/2024 12:52,Market outlook for USD?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+295,6/25/2021 11:50,Market outlook for Equities?,Financial Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+296,1/9/2024 11:08,How is Bonds trending today?,Sentiment Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+297,5/26/2024 11:07,Analysis of SPX?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+298,3/1/2020 14:50,What's the price of Equities now?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+299,10/11/2021 9:11,What's your take on AAPL?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+300,1/5/2022 15:33,What's the price of WTI now?,Cryptocurrency Update,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+301,12/3/2020 16:28,Any news on Gold?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+302,9/19/2022 10:28,What's your take on GOOGL?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+303,4/20/2024 9:46,Give me an update on Bonds.,Technical Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+304,5/15/2024 9:03,What's the price of Commodities now?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+305,7/14/2023 10:31,What's the price of SPX now?,Technical Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+306,2/3/2023 14:38,Is ETH safe to invest in?,Portfolio Management,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+307,2/5/2021 13:39,Any news on Crypto?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+308,9/23/2024 14:24,Should I diversify with MSFT?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+309,9/10/2024 16:32,Any news on Forex?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+310,7/4/2024 10:54,What's the trend with EUR?,Cryptocurrency Update,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+311,12/28/2024 12:27,Should I buy or sell ETH?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+312,4/14/2023 14:52,Analysis of Commodities?,Stock Prediction,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+313,7/14/2023 10:20,Market outlook for Bonds?,Buy Order,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+314,6/22/2023 13:23,Should I diversify with Forex?,Risk Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+315,11/16/2021 10:05,How is EUR trending today?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+316,2/14/2020 10:47,What's your take on SPX?,Risk Analysis,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+317,3/18/2022 9:37,What's your take on MSFT?,Cryptocurrency Update,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+318,9/11/2024 10:26,Should I buy or sell WTI?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+319,11/25/2022 15:55,How is Tesla trending today?,Price Check,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+320,5/20/2020 13:22,Should I diversify with ETH?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+321,10/17/2020 12:09,Is Commodities safe to invest in?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+322,4/28/2023 10:22,What is your prediction for AAPL?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+323,6/4/2024 13:36,What's your take on Forex?,Buy Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+324,7/28/2021 17:49,What's your take on MSFT?,Future Investment,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+325,10/22/2024 17:01,Should I buy or sell Tesla?,Financial Advice,Diversifying might reduce your risk.,170,91,94,Neutral,Needs improvement,Failed
+326,11/27/2024 13:01,Is GBP safe to invest in?,Portfolio Management,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+327,5/23/2021 13:58,Market outlook for Commodities?,Cryptocurrency Update,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+328,6/1/2022 11:55,Analysis of Equities?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+329,10/22/2021 15:04,Give me an update on Crypto.,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+330,12/21/2021 9:05,Should I diversify with Forex?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+331,4/13/2024 15:29,Give me an update on EUR.,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+332,3/12/2022 13:46,How is XAU trending today?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+333,10/20/2022 10:56,What's your take on WTI?,Buy Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+334,3/6/2020 9:43,Analysis of Equities?,Buy Order,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+335,5/15/2020 15:31,How is GOOGL trending today?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+336,8/14/2024 13:13,Analysis of Gold?,Cryptocurrency Update,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+337,2/12/2024 15:07,What's your take on NASDAQ?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+338,11/22/2022 16:33,Any news on GBP?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+339,1/8/2022 15:38,Any news on NASDAQ?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+340,1/7/2020 13:13,Should I diversify with BTC?,Price Check,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+341,5/10/2021 14:07,What is your prediction for USD?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+342,8/24/2020 15:11,Any news on Bonds?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+343,7/18/2021 12:32,Market outlook for Bonds?,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+344,11/26/2024 14:04,Should I buy or sell Oil?,Sentiment Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+345,12/2/2023 15:01,What's the price of EUR now?,Buy Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+346,2/28/2023 14:36,Give me an update on NASDAQ.,Price Check,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+347,10/13/2023 15:18,Should I buy or sell AAPL?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+348,7/1/2020 14:10,How is ETH trending today?,Investment Planning,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+349,8/27/2024 14:05,Give me an update on Bonds.,Investment Planning,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+350,2/8/2023 15:37,Should I buy or sell SPX?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+351,9/3/2023 15:55,What's the price of WTI now?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+352,12/11/2022 12:21,What's the trend with GOOGL?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+353,2/17/2021 10:33,What is your prediction for Oil?,Trading Bot Query,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+354,4/25/2024 14:22,Market outlook for BTC?,Buy Order,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+355,4/4/2021 11:16,Any news on GBP?,Trading Bot Query,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+356,3/20/2021 11:48,What's the trend with Crypto?,Investment Planning,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+357,3/25/2020 16:29,Give me an update on GBP.,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+358,10/15/2024 14:55,Is Forex safe to invest in?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+359,3/15/2022 10:30,What is your prediction for Crypto?,Cryptocurrency Update,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+360,11/10/2023 13:37,Market outlook for Bonds?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+361,6/17/2020 10:19,What's the trend with MSFT?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+362,8/2/2023 9:23,What's the trend with BTC?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+363,2/21/2022 10:39,What's your take on Equities?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+364,9/13/2024 16:37,Analysis of Forex?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+365,12/2/2024 16:58,What's the price of XAU now?,Future Investment,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+366,11/7/2024 14:38,Should I buy or sell ETH?,Buy Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+367,9/5/2023 9:28,What is your prediction for GBP?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+368,6/23/2020 10:32,What's the trend with Bonds?,Portfolio Management,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+369,1/8/2021 16:28,What is your prediction for ETH?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+370,9/20/2024 11:23,Market outlook for BTC?,Sell Order,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+371,5/13/2022 15:49,How is Commodities trending today?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+372,11/20/2022 9:50,Analysis of XAU?,Stock Prediction,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+373,2/11/2022 10:35,Analysis of NASDAQ?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+374,5/9/2023 11:21,How is BTC trending today?,Price Check,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+375,10/22/2020 11:58,What is your prediction for Commodities?,Portfolio Management,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+376,5/21/2022 15:08,Give me an update on Commodities.,Sell Order,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+377,12/3/2024 13:35,Is GOOGL safe to invest in?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+378,11/26/2023 14:52,Any news on Tesla?,Price Check,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+379,11/23/2021 17:05,Should I diversify with Crypto?,Risk Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+380,9/12/2023 9:23,How is USD trending today?,Future Investment,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+381,3/7/2022 14:49,Give me an update on Forex.,Price Check,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+382,4/8/2023 11:09,Market outlook for Crypto?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+383,5/28/2020 10:32,What's the trend with BTC?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+384,12/17/2024 9:42,What's the price of EUR now?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+385,10/5/2022 15:09,Is SPX safe to invest in?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+386,3/27/2021 11:46,Any news on Tesla?,Risk Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+387,1/14/2023 14:43,What's your take on USD?,Price Check,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+388,8/20/2021 13:48,What's the price of NASDAQ now?,Price Check,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+389,4/18/2023 12:19,Analysis of NASDAQ?,Investment Planning,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+390,4/12/2023 16:29,Any news on SPX?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+391,7/17/2022 17:26,Give me an update on Forex.,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+392,4/26/2021 11:55,What is your prediction for ETH?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+393,1/21/2022 16:55,Analysis of XAU?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+394,9/4/2022 17:54,What's your take on BTC?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+395,5/3/2020 11:17,Is XAU safe to invest in?,Future Investment,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+396,9/5/2023 15:05,Give me an update on MSFT.,Sell Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+397,8/12/2021 9:26,Any news on Commodities?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+398,7/17/2020 14:15,Analysis of MSFT?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+399,2/12/2023 12:01,How is Commodities trending today?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+400,2/27/2022 14:50,Is Bonds safe to invest in?,Market Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+401,3/2/2021 13:58,Analysis of EUR?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+402,12/27/2023 11:48,What's your take on EUR?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+403,8/20/2023 9:57,Should I diversify with MSFT?,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+404,1/9/2020 12:53,What's your take on SPX?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+405,9/24/2021 17:27,Should I diversify with WTI?,Sentiment Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+406,5/8/2020 13:07,Market outlook for Crypto?,Forex Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+407,4/14/2020 16:04,Should I buy or sell GBP?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+408,8/20/2020 17:01,Analysis of MSFT?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+409,10/8/2024 11:18,Should I diversify with Crypto?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+410,1/20/2023 14:15,Analysis of GBP?,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+411,7/6/2024 10:33,Should I buy or sell SPX?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+412,2/17/2022 17:32,What's the trend with Forex?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+413,9/1/2024 15:55,Should I buy or sell Gold?,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+414,1/21/2023 15:23,Should I buy or sell Equities?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+415,12/1/2022 14:50,Should I buy or sell WTI?,Sell Order,Diversifying might reduce your risk.,170,91,94,Neutral,Needs improvement,Failed
+416,6/8/2020 10:49,How is Crypto trending today?,Buy Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+417,12/25/2024 14:08,Is GOOGL safe to invest in?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+418,6/18/2020 14:52,Should I buy or sell WTI?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+419,11/15/2021 16:40,Should I buy or sell BTC?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+420,3/3/2021 16:02,Any news on Gold?,Investment Planning,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+421,4/2/2022 12:56,What's your take on SPX?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+422,6/10/2020 17:25,Market outlook for XAU?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+423,8/9/2024 9:48,Should I buy or sell GBP?,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+424,5/12/2021 9:55,How is MSFT trending today?,Portfolio Management,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+425,5/4/2022 14:27,Should I buy or sell BTC?,Buy Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+426,12/15/2023 15:21,Should I diversify with Bonds?,Buy Order,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+427,8/23/2021 16:23,What is your prediction for Bonds?,Price Check,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+428,5/26/2024 10:46,Should I diversify with Bonds?,Price Check,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+429,2/14/2023 11:34,Give me an update on Bonds.,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+430,6/4/2022 10:20,Give me an update on EUR.,Regulation Inquiry,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+431,5/15/2022 15:10,Analysis of BTC?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+432,6/15/2023 9:46,Any news on AAPL?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+433,10/14/2022 13:40,What's the trend with Tesla?,Forex Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+434,2/22/2020 15:23,Should I buy or sell Forex?,Trading Bot Query,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+435,12/22/2024 11:01,Should I diversify with Tesla?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+436,10/22/2021 16:02,What's the trend with NASDAQ?,Future Investment,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+437,2/8/2021 14:23,Should I buy or sell Commodities?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+438,10/2/2023 11:43,Market outlook for Tesla?,Technical Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+439,6/12/2023 16:48,Should I buy or sell USD?,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+440,10/5/2020 17:23,Give me an update on EUR.,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+441,6/21/2023 13:15,What's the price of Gold now?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+442,1/24/2020 11:31,What's the price of XAU now?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+443,7/18/2024 10:16,What's your take on EUR?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+444,12/15/2022 12:39,What's the trend with GBP?,Risk Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+445,12/16/2022 12:07,Give me an update on AAPL.,Market Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+446,2/15/2021 11:57,Should I buy or sell Oil?,Stock Prediction,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+447,2/26/2023 14:42,Should I diversify with Tesla?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+448,12/3/2022 17:34,What's the trend with WTI?,Regulation Inquiry,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+449,5/28/2022 11:45,Market outlook for EUR?,Price Check,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+450,6/17/2021 12:07,What's your take on Commodities?,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+451,3/8/2021 16:01,What's the price of Bonds now?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+452,9/19/2022 14:29,What's the trend with Commodities?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+453,3/20/2024 10:04,What's the trend with WTI?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+454,7/23/2022 16:33,What's your take on Bonds?,Sell Order,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+455,7/27/2023 10:08,What's the trend with Equities?,Cryptocurrency Update,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+456,11/3/2022 16:29,Should I diversify with Crypto?,Price Check,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+457,6/5/2024 17:40,Is ETH safe to invest in?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+458,3/25/2024 11:27,Is GOOGL safe to invest in?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+459,1/27/2024 10:33,Market outlook for Oil?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+460,5/6/2021 11:20,What's the price of EUR now?,Sentiment Analysis,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+461,6/17/2021 13:54,Is Crypto safe to invest in?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+462,5/7/2020 17:17,What's your take on ETH?,Stock Prediction,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+463,11/10/2021 17:05,Is Commodities safe to invest in?,Risk Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+464,11/6/2024 11:10,Is ETH safe to invest in?,Sentiment Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+465,12/20/2024 14:53,Give me an update on SPX.,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+466,1/27/2024 9:05,Market outlook for Commodities?,Future Investment,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+467,11/25/2020 13:41,What is your prediction for SPX?,Technical Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+468,10/14/2021 9:31,Market outlook for USD?,Cryptocurrency Update,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+469,5/21/2024 13:30,What's your take on SPX?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+470,11/13/2021 13:29,Should I diversify with ETH?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+471,12/2/2020 11:28,What's the trend with Forex?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+472,8/15/2023 12:21,Should I buy or sell Oil?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+473,3/11/2024 14:46,Analysis of Oil?,Buy Order,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+474,7/5/2022 14:32,How is Forex trending today?,Future Investment,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+475,2/11/2024 12:29,How is USD trending today?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+476,5/15/2020 12:09,Should I diversify with Crypto?,Investment Planning,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+477,1/10/2020 15:55,Should I buy or sell Commodities?,Future Investment,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+478,7/8/2024 11:52,What's your take on WTI?,Price Check,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+479,10/24/2022 14:12,Market outlook for BTC?,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+480,8/17/2021 16:31,Should I buy or sell Oil?,Investment Planning,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+481,8/1/2022 10:25,Should I diversify with GBP?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+482,8/8/2024 12:37,Market outlook for AAPL?,Cryptocurrency Update,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+483,1/2/2022 13:31,What is your prediction for WTI?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+484,11/22/2024 16:18,What's the trend with USD?,Price Check,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+485,1/28/2024 10:27,What's the trend with GOOGL?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+486,5/24/2021 14:48,How is GOOGL trending today?,Future Investment,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+487,6/2/2023 15:03,What's the trend with Oil?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+488,9/7/2024 14:35,Analysis of NASDAQ?,Cryptocurrency Update,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+489,2/13/2022 17:28,How is Forex trending today?,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+490,5/27/2024 10:08,What's the trend with Commodities?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+491,7/12/2020 14:35,What's the trend with Forex?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+492,3/7/2022 17:25,Should I diversify with USD?,Stock Prediction,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+493,1/2/2024 9:08,What's your take on Crypto?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+494,8/17/2022 16:09,What's your take on ETH?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+495,9/5/2024 14:59,Should I buy or sell WTI?,Forex Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+496,6/6/2024 15:39,Should I diversify with MSFT?,Future Investment,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+497,10/11/2022 17:53,Should I buy or sell MSFT?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+498,9/16/2024 13:30,Should I buy or sell ETH?,Risk Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+499,6/11/2020 10:26,What's your take on SPX?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+500,5/26/2024 9:38,What is your prediction for Oil?,Portfolio Management,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+501,5/21/2023 12:46,What is your prediction for USD?,Price Check,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+502,10/16/2020 11:33,How is MSFT trending today?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+503,7/5/2024 12:02,Give me an update on BTC.,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+504,12/4/2024 12:01,Should I diversify with XAU?,Investment Planning,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+505,6/14/2023 11:26,What's the price of Oil now?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+506,7/17/2021 16:55,Market outlook for Tesla?,Market Analysis,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+507,12/5/2020 17:13,Is BTC safe to invest in?,Financial Advice,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+508,6/22/2024 16:33,Should I diversify with Tesla?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+509,6/6/2023 16:58,Give me an update on GBP.,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+510,6/18/2024 14:43,Should I diversify with Tesla?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+511,10/16/2022 12:15,Market outlook for Gold?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+512,9/10/2022 12:19,Market outlook for AAPL?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+513,12/7/2022 16:20,Should I diversify with Bonds?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+514,6/18/2023 13:18,What's the price of EUR now?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+515,10/22/2020 17:24,Is XAU safe to invest in?,Future Investment,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+516,6/25/2023 11:18,Should I diversify with Crypto?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+517,5/23/2020 10:22,Give me an update on ETH.,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+518,11/9/2023 16:13,Should I buy or sell MSFT?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+519,9/9/2021 17:44,What's the price of NASDAQ now?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+520,3/4/2022 12:15,What's the price of MSFT now?,Future Investment,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+521,11/17/2020 12:40,What's the price of Equities now?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+522,1/4/2021 15:21,Should I diversify with SPX?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+523,2/22/2023 11:00,Any news on AAPL?,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+524,3/14/2024 16:30,What's the price of GOOGL now?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+525,5/11/2021 13:41,What's your take on USD?,Forex Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+526,2/21/2020 12:34,Should I buy or sell SPX?,Portfolio Management,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+527,3/14/2020 11:59,Should I diversify with Bonds?,Price Check,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+528,7/26/2020 16:11,Should I diversify with Crypto?,Future Investment,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+529,1/1/2022 13:36,Should I buy or sell Oil?,Risk Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+530,2/11/2024 13:29,What's the trend with Equities?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+531,9/16/2024 11:54,Any news on ETH?,Forex Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+532,8/9/2024 12:51,How is SPX trending today?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+533,6/6/2020 16:41,Any news on NASDAQ?,Trading Bot Query,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+534,12/6/2022 9:47,What's your take on AAPL?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+535,5/19/2022 12:11,What's your take on Crypto?,Forex Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+536,11/13/2024 15:32,How is SPX trending today?,Future Investment,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+537,2/13/2022 10:11,Market outlook for MSFT?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+538,8/11/2021 12:00,How is XAU trending today?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+539,7/8/2022 16:48,Any news on Forex?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+540,6/10/2022 9:16,What's your take on Forex?,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+541,12/8/2022 9:42,Give me an update on GBP.,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+542,8/10/2020 11:25,Should I diversify with ETH?,Cryptocurrency Update,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+543,12/25/2024 13:44,How is Equities trending today?,Risk Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+544,11/10/2020 14:39,What's the trend with Forex?,Price Check,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+545,4/5/2021 16:09,How is Tesla trending today?,Portfolio Management,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+546,12/20/2023 14:26,What's the trend with Bonds?,Sell Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+547,8/25/2024 17:51,What's the trend with SPX?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+548,4/22/2021 10:33,What's your take on Bonds?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+549,9/23/2023 14:04,Any news on XAU?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+550,2/2/2024 17:57,Is Equities safe to invest in?,Future Investment,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+551,4/19/2024 17:09,Should I diversify with NASDAQ?,Future Investment,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+552,6/28/2021 17:28,Should I buy or sell Bonds?,Future Investment,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+553,11/7/2020 16:05,Should I diversify with Tesla?,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+554,8/26/2024 9:29,Is Tesla safe to invest in?,Cryptocurrency Update,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+555,9/14/2021 16:36,Market outlook for USD?,Cryptocurrency Update,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+556,9/15/2020 13:46,Should I diversify with EUR?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+557,7/9/2020 9:47,What's the trend with SPX?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+558,10/3/2021 9:27,Give me an update on BTC.,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+559,12/3/2022 17:03,How is BTC trending today?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+560,8/2/2020 13:26,Market outlook for GOOGL?,Buy Order,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+561,3/25/2021 15:23,What's the trend with GBP?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+562,8/28/2023 15:24,Should I diversify with Gold?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+563,11/22/2020 17:08,What's your take on ETH?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+564,2/6/2022 17:25,Any news on NASDAQ?,Buy Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+565,3/24/2024 12:53,Is GBP safe to invest in?,Stock Prediction,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+566,1/10/2020 16:43,What's the price of GBP now?,Sell Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+567,7/18/2024 15:52,What's the trend with SPX?,Buy Order,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+568,4/15/2021 14:09,What is your prediction for AAPL?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+569,4/24/2022 10:02,What is your prediction for SPX?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+570,10/25/2023 9:15,Is Crypto safe to invest in?,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+571,2/4/2021 9:28,Any news on BTC?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+572,11/23/2024 9:15,How is WTI trending today?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+573,7/15/2020 12:34,Any news on Commodities?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+574,1/5/2021 17:18,What's the trend with Equities?,Sell Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+575,12/19/2021 14:36,Should I diversify with BTC?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Neutral,Needs improvement,Failed
+576,11/27/2024 14:15,Should I buy or sell GBP?,Portfolio Management,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+577,3/22/2022 17:14,Any news on WTI?,Sell Order,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+578,5/9/2023 9:35,Analysis of Tesla?,Price Check,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+579,12/6/2024 15:35,Market outlook for ETH?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+580,1/12/2023 15:50,Analysis of MSFT?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+581,6/23/2024 15:26,Market outlook for MSFT?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+582,5/13/2021 11:48,Analysis of Oil?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+583,8/8/2024 12:19,Is WTI safe to invest in?,Forex Analysis,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+584,8/2/2021 17:26,Market outlook for Gold?,Buy Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+585,9/17/2023 11:24,What's the trend with ETH?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+586,5/7/2021 14:41,Is SPX safe to invest in?,Forex Analysis,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+587,8/28/2020 14:05,Should I diversify with WTI?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+588,12/27/2024 12:03,Is Crypto safe to invest in?,Price Check,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+589,7/22/2022 9:55,What's the price of GBP now?,Investment Planning,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+590,4/26/2020 17:13,Should I diversify with WTI?,Stock Prediction,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+591,4/28/2023 14:19,Any news on AAPL?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+592,4/7/2020 10:47,Should I buy or sell XAU?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+593,4/23/2023 12:25,What's the price of WTI now?,Buy Order,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+594,9/11/2021 13:24,What's your take on Crypto?,Risk Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+595,9/21/2023 14:19,Should I buy or sell Equities?,Sentiment Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+596,6/17/2022 16:29,Should I diversify with Commodities?,Stock Prediction,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+597,12/16/2020 14:58,Should I buy or sell Bonds?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+598,6/11/2021 15:02,How is SPX trending today?,Sentiment Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+599,4/24/2024 11:01,What's the trend with WTI?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+600,9/19/2022 15:18,What's the trend with ETH?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+601,4/11/2021 12:24,What is your prediction for Gold?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+602,4/16/2024 17:41,How is Tesla trending today?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+603,5/25/2022 16:46,Give me an update on NASDAQ.,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+604,8/6/2023 14:10,Market outlook for SPX?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+605,12/18/2021 16:11,Give me an update on Forex.,Market Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+606,11/2/2024 17:02,What is your prediction for USD?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+607,11/2/2020 9:26,How is NASDAQ trending today?,Buy Order,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+608,11/8/2021 10:45,What's the price of GBP now?,Risk Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+609,1/7/2021 17:29,How is Oil trending today?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+610,1/20/2022 16:42,Is BTC safe to invest in?,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+611,1/1/2023 17:35,Market outlook for Forex?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+612,1/1/2023 17:46,Should I buy or sell GBP?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+613,9/10/2022 9:32,Any news on Tesla?,Buy Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+614,3/4/2023 10:33,What's the trend with Forex?,Buy Order,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+615,4/7/2021 17:16,What is your prediction for WTI?,Future Investment,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+616,5/26/2022 15:05,Should I buy or sell GOOGL?,Trading Bot Query,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+617,7/15/2022 12:44,Is MSFT safe to invest in?,Buy Order,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+618,5/22/2021 10:41,Give me an update on ETH.,Future Investment,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+619,2/13/2020 15:24,Market outlook for Commodities?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+620,8/2/2024 9:44,What's the trend with Forex?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+621,2/16/2021 15:41,How is BTC trending today?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+622,10/28/2022 10:57,What is your prediction for ETH?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+623,1/8/2024 12:57,Analysis of Bonds?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Neutral,Needs improvement,Failed
+624,8/9/2024 9:59,How is WTI trending today?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+625,11/9/2020 17:36,Market outlook for ETH?,Investment Planning,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+626,3/28/2020 14:01,How is Forex trending today?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+627,10/5/2021 15:59,Analysis of SPX?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+628,5/6/2020 12:36,What's the price of Equities now?,Buy Order,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+629,11/18/2023 14:24,What is your prediction for GBP?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+630,12/24/2021 10:32,Any news on GBP?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+631,1/4/2022 15:14,Give me an update on SPX.,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+632,6/20/2020 15:49,What is your prediction for Crypto?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+633,1/21/2022 13:50,Any news on Oil?,Buy Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+634,8/8/2023 14:35,Analysis of GOOGL?,Portfolio Management,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+635,7/6/2023 15:05,What is your prediction for MSFT?,Portfolio Management,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+636,5/26/2024 12:45,Should I buy or sell XAU?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+637,2/9/2020 11:24,How is BTC trending today?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+638,12/13/2021 14:23,Should I diversify with Crypto?,Buy Order,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+639,2/1/2020 13:28,Is GOOGL safe to invest in?,Price Check,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+640,5/4/2022 11:05,Give me an update on Crypto.,Portfolio Management,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+641,7/15/2021 17:35,Any news on Crypto?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+642,7/4/2024 9:05,Any news on XAU?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+643,9/3/2022 14:55,Should I buy or sell SPX?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+644,1/10/2023 15:24,Should I diversify with EUR?,Risk Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+645,12/18/2020 12:36,Should I buy or sell AAPL?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+646,3/22/2024 15:10,What is your prediction for Bonds?,Forex Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+647,5/10/2021 13:31,Any news on Crypto?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+648,2/6/2021 15:17,Market outlook for ETH?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+649,5/16/2023 10:23,Should I buy or sell BTC?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+650,4/24/2022 16:38,Market outlook for ETH?,Investment Planning,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+651,4/15/2024 10:08,How is Commodities trending today?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+652,1/13/2022 14:53,What's the price of AAPL now?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+653,7/26/2024 14:28,What's your take on Commodities?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+654,7/27/2022 11:19,Should I buy or sell Bonds?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+655,10/23/2022 12:30,Should I diversify with Oil?,Portfolio Management,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+656,3/13/2022 14:18,Should I diversify with NASDAQ?,Portfolio Management,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+657,10/26/2023 12:20,What is your prediction for WTI?,Volatility Forecast,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+658,5/27/2023 15:23,Give me an update on Crypto.,Price Check,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+659,10/7/2020 17:11,How is Oil trending today?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+660,1/24/2024 16:45,Should I diversify with MSFT?,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+661,8/26/2021 13:53,How is Oil trending today?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+662,7/22/2020 16:08,How is Oil trending today?,Cryptocurrency Update,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+663,4/9/2022 11:45,What is your prediction for Oil?,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+664,7/3/2023 16:38,Market outlook for EUR?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+665,10/13/2023 17:32,Give me an update on MSFT.,Technical Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+666,9/2/2023 14:44,Should I diversify with XAU?,Market Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+667,10/21/2024 10:06,Any news on Commodities?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+668,11/22/2021 14:10,Should I buy or sell WTI?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+669,1/19/2024 15:48,Any news on Oil?,Sentiment Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+670,7/4/2022 9:06,Market outlook for BTC?,Investment Planning,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+671,4/17/2022 17:35,How is Tesla trending today?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+672,12/19/2024 12:28,How is NASDAQ trending today?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+673,7/15/2022 17:09,Market outlook for Oil?,Forex Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+674,1/16/2022 10:18,Should I buy or sell SPX?,Buy Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+675,2/4/2023 11:22,Any news on Bonds?,Technical Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+676,6/15/2022 12:33,Should I diversify with MSFT?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+677,6/16/2023 10:28,Is GOOGL safe to invest in?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+678,6/3/2023 13:02,What's your take on GOOGL?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+679,1/28/2020 14:41,Any news on Crypto?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+680,11/26/2020 11:59,Analysis of AAPL?,Price Check,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+681,9/6/2021 17:10,What is your prediction for Crypto?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+682,9/14/2022 16:14,Market outlook for Commodities?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+683,11/6/2023 11:40,Should I diversify with Gold?,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+684,7/1/2023 12:28,Give me an update on Bonds.,Market Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+685,7/13/2024 9:45,Give me an update on Crypto.,Risk Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+686,4/9/2021 10:36,Should I buy or sell Tesla?,Forex Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+687,9/6/2020 14:20,What's your take on AAPL?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+688,8/4/2021 13:42,Any news on GBP?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+689,9/21/2023 14:38,What's the trend with Equities?,Regulation Inquiry,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+690,10/13/2023 10:22,What's your take on Gold?,Trading Bot Query,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+691,8/20/2022 11:52,Should I diversify with WTI?,Price Check,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+692,10/19/2022 10:43,Is EUR safe to invest in?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+693,6/4/2021 12:19,Should I buy or sell AAPL?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+694,3/12/2020 11:32,What's the trend with Equities?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+695,7/20/2023 11:36,Market outlook for GOOGL?,Portfolio Management,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+696,7/6/2023 16:40,Should I diversify with Bonds?,Buy Order,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+697,12/21/2024 11:35,Market outlook for WTI?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+698,8/10/2021 11:11,Is GOOGL safe to invest in?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+699,8/20/2022 9:55,Market outlook for USD?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+700,1/16/2022 11:12,What is your prediction for Commodities?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+701,9/17/2023 16:26,How is Bonds trending today?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+702,7/23/2023 16:31,How is Bonds trending today?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+703,2/19/2021 9:50,What's your take on WTI?,Volatility Forecast,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+704,5/2/2021 13:14,Market outlook for ETH?,Buy Order,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+705,5/6/2024 16:36,How is GBP trending today?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+706,9/17/2023 10:36,Should I buy or sell Equities?,Portfolio Management,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+707,5/25/2020 17:52,Analysis of BTC?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+708,9/27/2022 9:48,Should I buy or sell MSFT?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+709,9/7/2023 15:06,Market outlook for Crypto?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+710,5/28/2021 9:28,What is your prediction for Commodities?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+711,6/28/2022 10:28,Should I diversify with Equities?,Forex Analysis,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+712,4/7/2020 14:55,Market outlook for GBP?,Financial Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+713,11/14/2024 11:39,Give me an update on WTI.,Buy Order,Stock market shows mixed signals today.,160,93,92,Neutral,Needs improvement,Failed
+714,4/27/2021 12:51,What is your prediction for Equities?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+715,10/12/2020 17:17,Analysis of SPX?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+716,9/6/2024 14:45,What's your take on NASDAQ?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+717,5/19/2022 13:54,How is Equities trending today?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+718,11/27/2024 10:08,What's the price of Bonds now?,Sell Order,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+719,1/9/2023 11:44,Is Commodities safe to invest in?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+720,4/5/2021 14:53,Should I buy or sell SPX?,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+721,11/13/2021 16:09,What's the price of NASDAQ now?,Stock Prediction,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+722,11/9/2024 15:24,Is ETH safe to invest in?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+723,2/21/2023 10:25,What's the price of Crypto now?,Cryptocurrency Update,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+724,12/9/2024 14:29,Any news on GOOGL?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+725,6/19/2023 9:55,What is your prediction for BTC?,Market Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+726,12/15/2020 14:54,Give me an update on Gold.,Portfolio Management,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+727,9/13/2020 12:27,What's the trend with Equities?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+728,8/9/2021 14:53,What's your take on WTI?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+729,6/18/2022 11:36,What's the trend with Commodities?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+730,6/22/2023 9:02,What's your take on Commodities?,Future Investment,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+731,11/26/2020 16:01,What's your take on Crypto?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+732,3/15/2020 16:00,Give me an update on USD.,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+733,4/23/2023 11:56,Market outlook for MSFT?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+734,3/28/2022 13:05,Give me an update on Crypto.,Market Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+735,5/3/2022 14:42,What's your take on NASDAQ?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+736,1/13/2021 13:46,What's your take on MSFT?,Portfolio Management,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+737,7/21/2021 10:45,What is your prediction for MSFT?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+738,1/7/2020 16:04,Should I buy or sell BTC?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+739,10/8/2021 17:43,How is BTC trending today?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+740,1/1/2023 14:52,Should I buy or sell Tesla?,Investment Planning,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+741,7/23/2020 11:30,Analysis of Gold?,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+742,4/13/2020 10:46,Should I buy or sell AAPL?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+743,2/11/2020 14:56,Should I buy or sell Gold?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+744,3/13/2022 11:41,Market outlook for Bonds?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+745,2/17/2021 9:39,What's your take on Bonds?,Stock Prediction,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+746,8/12/2021 12:40,Should I buy or sell Oil?,Strategy Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+747,7/20/2021 16:55,Is Gold safe to invest in?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+748,2/4/2021 11:48,Is Oil safe to invest in?,Future Investment,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+749,10/24/2020 15:22,What's your take on NASDAQ?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+750,6/26/2023 11:15,Give me an update on USD.,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+751,11/3/2022 12:35,What's your take on Bonds?,Future Investment,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+752,10/24/2024 13:49,What's the price of Equities now?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+753,11/10/2020 12:33,Market outlook for EUR?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+754,9/7/2024 15:18,What's the trend with Forex?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+755,4/16/2020 15:07,What is your prediction for Gold?,Risk Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+756,8/21/2021 10:33,Is Equities safe to invest in?,Future Investment,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+757,6/11/2020 11:24,Any news on ETH?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+758,7/12/2024 17:43,What's the price of Equities now?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+759,8/25/2021 10:01,Market outlook for NASDAQ?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+760,2/1/2024 13:13,How is Equities trending today?,Future Investment,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+761,1/26/2020 15:32,Market outlook for AAPL?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+762,11/23/2022 17:49,Should I buy or sell Forex?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+763,7/23/2023 15:05,What is your prediction for Oil?,Cryptocurrency Update,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+764,9/20/2024 11:17,Is AAPL safe to invest in?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+765,5/3/2020 17:58,Is Bonds safe to invest in?,Buy Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+766,3/18/2021 14:25,How is EUR trending today?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+767,11/25/2024 10:19,Market outlook for AAPL?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+768,12/28/2023 12:03,Analysis of Crypto?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+769,2/14/2021 10:29,Should I diversify with SPX?,Future Investment,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+770,10/2/2024 13:42,Should I diversify with ETH?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+771,2/1/2021 11:44,Any news on Crypto?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+772,3/16/2020 14:33,What's the price of Tesla now?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+773,12/9/2024 11:23,Market outlook for Forex?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+774,12/25/2021 13:46,Market outlook for Equities?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+775,1/11/2020 15:17,What's the trend with WTI?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+776,2/9/2024 10:31,What's your take on NASDAQ?,Strategy Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+777,9/12/2023 9:31,What is your prediction for SPX?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+778,3/12/2024 11:16,Should I buy or sell ETH?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+779,10/22/2020 10:14,What's the trend with Bonds?,Buy Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+780,1/2/2024 9:15,What's the trend with SPX?,Future Investment,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+781,8/12/2020 15:58,What's the trend with Equities?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+782,3/28/2021 9:35,What is your prediction for ETH?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+783,4/11/2023 12:26,Analysis of Tesla?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+784,5/27/2022 10:36,Should I diversify with USD?,Buy Order,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+785,2/17/2022 9:11,Should I diversify with ETH?,Stock Prediction,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+786,9/2/2021 15:04,Analysis of SPX?,Risk Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+787,5/25/2023 13:20,What's the trend with Bonds?,Buy Order,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+788,9/15/2020 9:23,What's the price of SPX now?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+789,5/19/2021 13:47,Market outlook for AAPL?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+790,4/15/2024 14:37,Should I buy or sell Forex?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+791,4/24/2023 17:48,How is XAU trending today?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+792,3/1/2021 15:01,What is your prediction for MSFT?,Future Investment,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+793,9/12/2021 9:21,Should I diversify with XAU?,Financial Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+794,11/13/2020 13:06,What is your prediction for XAU?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+795,9/8/2021 15:31,What's the price of GOOGL now?,Future Investment,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+796,3/23/2020 13:05,Should I diversify with USD?,Risk Analysis,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+797,4/28/2020 17:26,Should I diversify with MSFT?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+798,8/24/2022 10:37,Analysis of Oil?,Price Check,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+799,9/5/2020 15:04,Any news on USD?,Investment Planning,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+800,10/2/2024 15:42,What is your prediction for EUR?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+801,4/10/2021 13:54,Market outlook for USD?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+802,7/23/2022 14:20,Is ETH safe to invest in?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+803,5/8/2023 10:12,Any news on AAPL?,Technical Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+804,10/4/2021 11:06,Should I buy or sell Bonds?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+805,8/15/2021 14:26,Should I buy or sell Tesla?,Technical Analysis,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+806,9/12/2020 12:28,What's your take on Commodities?,Future Investment,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+807,8/9/2022 10:05,Give me an update on Oil.,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+808,11/10/2021 9:13,What's the trend with USD?,Price Check,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+809,3/3/2022 12:22,Give me an update on Equities.,Sell Order,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+810,9/2/2023 13:16,What's the trend with NASDAQ?,Future Investment,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+811,1/13/2021 16:35,What's the price of XAU now?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+812,4/4/2024 16:06,How is ETH trending today?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+813,2/1/2021 9:53,Should I buy or sell Oil?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+814,3/7/2021 15:23,What's your take on Tesla?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+815,10/19/2020 13:58,What is your prediction for Tesla?,Future Investment,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+816,1/3/2020 12:57,What's the trend with Crypto?,Forex Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+817,3/3/2023 14:07,Give me an update on Commodities.,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Neutral,Needs improvement,Failed
+818,8/2/2020 11:59,Analysis of Commodities?,Portfolio Management,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+819,7/27/2024 15:31,Market outlook for XAU?,Market Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+820,7/22/2020 15:11,Should I buy or sell Forex?,Market Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+821,4/6/2022 13:17,What's your take on BTC?,Market Analysis,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+822,3/2/2023 12:41,What is your prediction for Oil?,Portfolio Management,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+823,8/14/2022 17:30,What's your take on WTI?,Stock Prediction,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+824,2/9/2020 15:08,Is ETH safe to invest in?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+825,4/21/2023 17:15,How is Crypto trending today?,Strategy Advice,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+826,1/13/2024 14:30,Analysis of NASDAQ?,Forex Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+827,8/12/2024 17:20,What's your take on Bonds?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+828,5/6/2023 9:20,Analysis of XAU?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+829,4/1/2024 13:03,Any news on XAU?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+830,9/12/2023 12:10,What is your prediction for GOOGL?,Price Check,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+831,4/22/2020 12:17,What is your prediction for Equities?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+832,12/2/2024 12:36,What's your take on Oil?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+833,6/27/2023 11:11,Analysis of EUR?,Portfolio Management,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+834,10/11/2021 14:58,What's the trend with Equities?,Technical Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+835,1/23/2024 14:36,Give me an update on Forex.,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+836,3/19/2024 12:53,Any news on USD?,Sell Order,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+837,9/10/2023 11:31,Any news on Crypto?,Cryptocurrency Update,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+838,2/2/2020 12:38,What's the price of BTC now?,Investment Planning,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+839,1/17/2021 16:00,How is BTC trending today?,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+840,10/7/2022 11:21,What's your take on GOOGL?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+841,6/2/2021 9:09,Is GOOGL safe to invest in?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+842,12/5/2024 10:54,Analysis of Oil?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+843,6/3/2024 14:45,Any news on EUR?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+844,10/4/2023 14:19,What's the trend with SPX?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+845,3/6/2022 15:50,What is your prediction for GBP?,Future Investment,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+846,11/11/2023 11:45,What's the price of BTC now?,Portfolio Management,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+847,12/20/2024 14:14,Should I diversify with AAPL?,Financial Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+848,3/13/2024 13:46,What's the price of Bonds now?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+849,3/6/2022 9:44,Analysis of GBP?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+850,7/28/2024 9:11,Should I diversify with GOOGL?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+851,6/26/2024 12:40,What's the trend with GOOGL?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Negative,Needs improvement,Failed
+852,2/16/2024 11:21,How is Bonds trending today?,Investment Planning,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+853,4/12/2020 14:10,Should I buy or sell Commodities?,Future Investment,Stock market shows mixed signals today.,160,93,92,Neutral,Needs improvement,Failed
+854,12/22/2020 14:28,Analysis of Equities?,Financial Advice,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+855,5/7/2020 12:44,Should I buy or sell GOOGL?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+856,6/9/2020 10:46,What's the trend with USD?,Sell Order,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+857,1/13/2020 16:46,What is your prediction for SPX?,Cryptocurrency Update,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+858,3/14/2023 16:56,Market outlook for AAPL?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+859,6/18/2023 15:06,Analysis of Oil?,Sell Order,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+860,10/21/2023 12:10,What is your prediction for Gold?,Risk Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+861,2/26/2023 9:18,What's the trend with WTI?,Future Investment,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+862,6/9/2020 10:04,What is your prediction for USD?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+863,3/13/2022 11:46,How is XAU trending today?,Strategy Advice,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+864,9/3/2020 14:38,What's the price of Commodities now?,Technical Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+865,8/23/2024 9:27,What's your take on WTI?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+866,10/14/2021 11:03,What's the price of XAU now?,Portfolio Management,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+867,6/7/2020 12:26,What is your prediction for USD?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+868,12/24/2024 17:16,Market outlook for AAPL?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Neutral,Needs improvement,Failed
+869,5/8/2022 10:03,Market outlook for GBP?,Risk Analysis,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+870,10/18/2023 16:09,Should I diversify with Commodities?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+871,6/1/2020 15:05,Should I buy or sell Tesla?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+872,11/21/2022 16:12,How is MSFT trending today?,Risk Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+873,1/7/2020 11:40,Is Gold safe to invest in?,Buy Order,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+874,2/16/2022 10:19,Give me an update on Bonds.,Sentiment Analysis,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+875,8/16/2023 13:05,Analysis of GOOGL?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+876,7/6/2024 14:56,Market outlook for XAU?,Price Check,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+877,6/6/2023 16:02,How is ETH trending today?,Portfolio Management,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+878,8/15/2022 13:14,How is AAPL trending today?,Stock Prediction,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+879,10/2/2022 11:48,Should I diversify with XAU?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+880,2/22/2020 14:51,Market outlook for BTC?,Price Check,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+881,7/25/2024 12:35,Market outlook for MSFT?,Strategy Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+882,7/27/2020 17:26,Analysis of BTC?,Sell Order,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+883,11/28/2024 16:36,What's the price of Commodities now?,Portfolio Management,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+884,8/10/2021 10:25,What is your prediction for MSFT?,Future Investment,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+885,9/19/2020 17:51,What's the trend with WTI?,Stock Prediction,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+886,11/20/2024 11:07,What's your take on Equities?,Stock Prediction,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+887,3/6/2023 12:51,What's the price of Forex now?,Buy Order,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+888,3/2/2021 15:05,What's the trend with Tesla?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+889,4/27/2023 11:53,Market outlook for Gold?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+890,5/11/2024 10:05,What's your take on AAPL?,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+891,9/13/2023 17:20,Is EUR safe to invest in?,Forex Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+892,9/15/2022 9:50,What's the price of Commodities now?,Investment Planning,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+893,10/17/2024 15:07,What's the trend with Tesla?,Market Analysis,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+894,3/5/2023 10:59,How is Equities trending today?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+895,10/25/2020 10:50,Is NASDAQ safe to invest in?,Cryptocurrency Update,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+896,9/12/2022 15:16,Any news on SPX?,Price Check,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+897,11/16/2023 16:02,What's your take on ETH?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+898,5/13/2021 11:39,Analysis of AAPL?,Financial Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+899,11/23/2024 15:02,Any news on Crypto?,Stock Prediction,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+900,6/23/2023 12:03,Any news on AAPL?,Sell Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+901,5/12/2023 9:21,Market outlook for SPX?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+902,5/9/2022 16:54,Analysis of GBP?,Market Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Neutral,Needs improvement,Failed
+903,4/5/2020 13:47,Should I buy or sell Crypto?,Portfolio Management,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+904,6/9/2023 15:38,What's the price of Commodities now?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+905,4/15/2020 12:58,Analysis of GBP?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+906,12/16/2023 17:55,What is your prediction for Commodities?,Financial Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+907,1/17/2022 11:04,How is NASDAQ trending today?,Strategy Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+908,12/17/2022 15:08,Market outlook for AAPL?,Strategy Advice,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+909,10/1/2024 11:12,Analysis of Oil?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+910,1/8/2021 9:29,What's the trend with GBP?,Cryptocurrency Update,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+911,6/23/2020 12:17,Should I buy or sell ETH?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+912,8/17/2022 15:40,Give me an update on BTC.,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+913,11/1/2020 12:23,What's the trend with Equities?,Sell Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+914,10/15/2023 11:55,Give me an update on Tesla.,Buy Order,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+915,10/18/2023 14:22,What's your take on AAPL?,Sell Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+916,5/24/2021 10:18,Is SPX safe to invest in?,Strategy Advice,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+917,7/2/2020 11:54,Market outlook for Crypto?,Financial Advice,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+918,4/28/2024 12:41,Market outlook for BTC?,Risk Analysis,Balancing equities and commodities is wise.,185,88,92,Negative,Needs improvement,Failed
+919,11/7/2021 13:41,What's the price of WTI now?,Risk Analysis,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+920,9/1/2023 9:30,What's the price of WTI now?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+921,11/6/2021 9:14,What's the trend with ETH?,Cryptocurrency Update,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+922,10/26/2022 13:45,What's your take on GOOGL?,Portfolio Management,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+923,7/13/2022 14:29,Give me an update on Forex.,Cryptocurrency Update,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+924,4/15/2022 13:43,Market outlook for Crypto?,Forex Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+925,10/13/2024 10:00,Should I buy or sell Equities?,Investment Planning,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+926,11/27/2024 14:35,Give me an update on AAPL.,Buy Order,Gold prices are increasing.,175,90,90,Neutral,Needs improvement,Failed
+927,10/10/2024 13:43,What's the price of MSFT now?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+928,8/3/2020 14:17,Market outlook for BTC?,Future Investment,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+929,5/9/2022 13:12,Market outlook for Bonds?,Strategy Advice,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+930,9/25/2021 12:57,What's the price of EUR now?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+931,10/13/2020 14:43,What's the trend with MSFT?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+932,12/1/2021 16:18,What's the price of USD now?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+933,7/13/2022 15:47,Analysis of ETH?,Investment Planning,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+934,10/23/2020 12:21,What is your prediction for GOOGL?,Investment Planning,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+935,11/18/2021 16:58,Market outlook for Bonds?,Future Investment,Diversifying might reduce your risk.,170,91,94,Negative,Needs improvement,Failed
+936,9/10/2022 11:53,Should I buy or sell Equities?,Strategy Advice,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+937,3/10/2024 10:30,How is GOOGL trending today?,Price Check,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+938,12/9/2021 17:48,How is Tesla trending today?,Portfolio Management,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+939,11/11/2021 10:14,Should I diversify with Bonds?,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+940,4/24/2022 13:26,Give me an update on AAPL.,Strategy Advice,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+941,6/9/2022 13:29,Give me an update on Gold.,Risk Analysis,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+942,8/2/2020 10:30,Any news on Commodities?,Forex Analysis,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+943,9/4/2021 15:33,Any news on GOOGL?,Price Check,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+944,7/2/2022 11:08,Analysis of Equities?,Stock Prediction,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+945,6/14/2021 16:09,Is MSFT safe to invest in?,Earnings Report Review,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+946,12/6/2022 10:31,Any news on GBP?,Trading Bot Query,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+947,11/6/2022 14:40,What's the price of Equities now?,Buy Order,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+948,1/15/2020 13:13,Should I buy or sell WTI?,Technical Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+949,10/25/2021 11:31,How is GOOGL trending today?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Neutral,Needs improvement,Failed
+950,3/20/2020 15:40,What is your prediction for MSFT?,Forex Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+951,7/14/2023 16:24,What's your take on USD?,Price Check,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+952,1/18/2020 12:46,What's the trend with NASDAQ?,Future Investment,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+953,1/11/2022 17:12,Is USD safe to invest in?,Future Investment,Stock market shows mixed signals today.,160,93,92,Negative,Needs improvement,Failed
+954,11/1/2020 12:14,Market outlook for EUR?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+955,5/5/2022 10:24,Should I diversify with ETH?,Risk Analysis,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+956,10/10/2024 11:04,Should I buy or sell GOOGL?,Price Check,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+957,5/10/2020 16:46,Analysis of Bonds?,Stock Prediction,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+958,10/17/2024 14:27,What's your take on USD?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+959,6/16/2021 14:48,What's the price of Tesla now?,Portfolio Management,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+960,3/26/2021 15:01,How is BTC trending today?,Portfolio Management,Short-term trading strategy is trending.,195,86,94,Negative,Needs improvement,Failed
+961,4/24/2021 11:13,What's the price of USD now?,Portfolio Management,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+962,10/17/2020 11:07,How is Equities trending today?,Strategy Advice,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+963,12/21/2022 9:24,What is your prediction for Gold?,Buy Order,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+964,9/20/2022 9:38,What's the trend with Tesla?,Cryptocurrency Update,Forex market indicates a strong USD.,165,92,93,Positive,Helpful,Successful
+965,11/4/2020 9:03,What's the trend with MSFT?,Buy Order,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+966,7/15/2020 15:07,Give me an update on MSFT.,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+967,5/16/2024 11:13,Analysis of XAU?,Risk Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+968,5/14/2020 10:42,Is Oil safe to invest in?,Buy Order,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+969,5/20/2024 11:26,What's your take on EUR?,Financial Advice,Future contracts in energy sector look promising.,190,87,93,Negative,Needs improvement,Failed
+970,9/24/2020 10:18,Should I buy or sell Bonds?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+971,2/16/2020 12:38,What's the trend with ETH?,Sell Order,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+972,5/27/2021 17:12,Should I diversify with USD?,Buy Order,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+973,12/14/2022 13:10,What's the trend with Tesla?,Future Investment,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+974,9/16/2020 12:44,Should I diversify with AAPL?,Strategy Advice,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+975,6/8/2023 9:00,Analysis of SPX?,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+976,2/27/2020 16:09,Any news on Gold?,Sell Order,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+977,9/3/2020 10:57,What's the price of Crypto now?,Forex Analysis,Risk level is moderate for this trade.,180,89,91,Positive,Helpful,Successful
+978,11/8/2022 16:18,Give me an update on GBP.,Price Check,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+979,8/2/2022 10:52,How is Forex trending today?,Price Check,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+980,1/28/2021 13:23,How is Bonds trending today?,Stock Prediction,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+981,7/24/2022 10:06,Any news on Crypto?,Buy Order,"BTC is bullish, buying recommended.",150,95,90,Neutral,Needs improvement,Failed
+982,1/28/2020 11:42,Is EUR safe to invest in?,Price Check,"ETH has a downward trend, selling might be an option.",155,94,91,Positive,Helpful,Successful
+983,6/12/2021 16:39,Market outlook for GBP?,Risk Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+984,12/3/2022 14:52,What is your prediction for ETH?,Cryptocurrency Update,Forex market indicates a strong USD.,165,92,93,Negative,Needs improvement,Failed
+985,3/4/2022 15:25,Give me an update on GOOGL.,Price Check,Diversifying might reduce your risk.,170,91,94,Positive,Helpful,Successful
+986,5/27/2023 15:44,Should I buy or sell Tesla?,Price Check,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+987,7/21/2023 11:07,Market outlook for USD?,Buy Order,Risk level is moderate for this trade.,180,null,91,Positive,Helpful,Successful
+988,12/24/2021 9:54,Should I buy or sell ETH?,Market Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+989,2/14/2021 16:51,What's the price of NASDAQ now?,Cryptocurrency Update,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+990,11/15/2024 11:39,What is your prediction for GBP?,Financial Advice,Short-term trading strategy is trending.,195,86,94,Neutral,Needs improvement,Failed
+991,6/20/2023 9:55,What's your take on XAU?,Financial Advice,"BTC is bullish, buying recommended.",150,95,90,Positive,Helpful,Successful
+992,8/16/2021 10:56,Any news on Bonds?,Portfolio Management,"ETH has a downward trend, selling might be an option.",155,94,91,Negative,Needs improvement,Failed
+993,8/2/2023 10:16,Market outlook for ETH?,Risk Analysis,Stock market shows mixed signals today.,160,93,92,Positive,Helpful,Successful
+994,1/23/2022 17:49,How is ETH trending today?,Market Analysis,Forex market indicates a strong USD.,165,92,93,Neutral,Needs improvement,Failed
+995,12/19/2024 12:42,Is USD safe to invest in?,Price Check,Diversifying might reduce your risk.,170,91,94,Neutral,Needs improvement,Failed
+996,9/17/2022 10:27,Should I buy or sell BTC?,Buy Order,Gold prices are increasing.,175,90,90,Negative,Needs improvement,Failed
+997,8/12/2021 15:09,Market outlook for Forex?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+998,10/2/2024 9:41,How is AAPL trending today?,Regulation Inquiry,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+999,9/28/2021 16:54,Give me an update on Oil.,Forex Analysis,Future contracts in energy sector look promising.,190,87,93,Positive,Helpful,Successful
+1000,3/3/2023 16:20,Should I diversify with Equities?,Market Analysis,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+1001,3/18/2021 14:25,How is EUR trending today?,Risk Analysis,Gold prices are increasing.,175,90,90,Positive,Helpful,Successful
+1002,11/25/2024 10:19,Market outlook for AAPL?,Market Analysis,Risk level is moderate for this trade.,180,89,91,Negative,Needs improvement,Failed
+1003,12/28/2023 12:03,Analysis of Crypto?,Forex Analysis,Balancing equities and commodities is wise.,185,88,92,Positive,Helpful,Successful
+1004,2/14/2021 10:29,Should I diversify with SPX?,Future Investment,Future contracts in energy sector look promising.,null,87,93,Positive,Helpful,Successful
+1005,10/2/2024 13:42,Should I diversify with ETH?,Buy Order,Short-term trading strategy is trending.,195,86,94,Positive,Helpful,Successful
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+x,,,,,,,,,,
